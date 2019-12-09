@@ -1,0 +1,2521 @@
+SURVEY,SAMPLE_DATE,TAXON_NAME,TAXON_GROUP,ABUNDANCE_M3
+IMOS,2009-08-20 00:00:00,Asterionellopsis glacialis,Diatom,241000
+IMOS,2009-08-20 00:00:00,Cerataulina pelagica,Diatom,161000
+IMOS,2009-08-20 00:00:00,Ceratoneis closterium,Diatom,201000
+IMOS,2009-08-20 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,161000
+IMOS,2009-08-20 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,80000
+IMOS,2009-08-20 00:00:00,Dactyliosolen fragilissimus,Diatom,121000
+IMOS,2009-08-20 00:00:00,Detonula pumila,Diatom,161000
+IMOS,2009-08-20 00:00:00,Guinardia delicatula,Diatom,844000
+IMOS,2009-08-20 00:00:00,Gyrodinium spp.,Dinoflagellate,563000
+IMOS,2009-08-20 00:00:00,Hemiaulus spp.,Diatom,80000
+IMOS,2009-08-20 00:00:00,Lauderia annulata < 70 µm length,Diatom,563000
+IMOS,2009-08-20 00:00:00,Leptocylindrus danicus,Diatom,1608000
+IMOS,2009-08-20 00:00:00,Leptocylindrus mediterraneus,Diatom,161000
+IMOS,2009-08-20 00:00:00,Leptocylindrus minimus,Diatom,24121000
+IMOS,2009-08-20 00:00:00,Noctiluca scintillans,Dinoflagellate,137000
+IMOS,2009-08-20 00:00:00,Oxytoxum spp.,Dinoflagellate,40000
+IMOS,2009-08-20 00:00:00,Pleurosigma spp. < 150 µm,Diatom,40000
+IMOS,2009-08-20 00:00:00,Protoperidinium spp.,Dinoflagellate,121000
+IMOS,2009-08-20 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,4342000
+IMOS,2009-08-20 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,4020000
+IMOS,2009-08-20 00:00:00,Rhizosolenia setigera,Diatom,40000
+IMOS,2009-08-20 00:00:00,Stephanopyxis spp.,Diatom,241000
+IMOS,2009-08-20 00:00:00,Thalassiosira gravida,Diatom,80000
+IMOS,2009-08-20 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,80000
+IMOS,2009-08-20 00:00:00,Tripos spp.,Dinoflagellate,40000
+IMOS,2010-01-20 00:00:00,Amphidinium spp. <30 µm cell height,Dinoflagellate,369000
+IMOS,2010-01-20 00:00:00,Bacteriastrum spp.,Diatom,4062000
+IMOS,2010-01-20 00:00:00,Cerataulina pelagica,Diatom,185000
+IMOS,2010-01-20 00:00:00,Ceratoneis closterium,Diatom,11262000
+IMOS,2010-01-20 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,4800000
+IMOS,2010-01-20 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,23077000
+IMOS,2010-01-20 00:00:00,Climacodium spp.,Diatom,222000
+IMOS,2010-01-20 00:00:00,Dactyliosolen fragilissimus,Diatom,12738000
+IMOS,2010-01-20 00:00:00,Dinophysis acuminata,Dinoflagellate,554000
+IMOS,2010-01-20 00:00:00,Dinophysis tripos,Dinoflagellate,369000
+IMOS,2010-01-20 00:00:00,Eucampia spp. <100 µm cell length,Diatom,738000
+IMOS,2010-01-20 00:00:00,Guinardia delicatula,Diatom,7385000
+IMOS,2010-01-20 00:00:00,Guinardia flaccida <150 µm length,Diatom,185000
+IMOS,2010-01-20 00:00:00,Guinardia striata,Diatom,923000
+IMOS,2010-01-20 00:00:00,Gyrodinium spp.,Dinoflagellate,185000
+IMOS,2010-01-20 00:00:00,Hemiaulus spp.,Diatom,369000
+IMOS,2010-01-20 00:00:00,Leptocylindrus danicus,Diatom,45969000
+IMOS,2010-01-20 00:00:00,Leptocylindrus minimus,Diatom,14215000
+IMOS,2010-01-20 00:00:00,Licmophora spp. < 150 µm,Diatom,185000
+IMOS,2010-01-20 00:00:00,Noctiluca scintillans,Dinoflagellate,55000
+IMOS,2010-01-20 00:00:00,Pleurosigma spp. < 150 µm,Diatom,185000
+IMOS,2010-01-20 00:00:00,Proboscia alata,Diatom,554000
+IMOS,2010-01-20 00:00:00,Protoperidinium oceanicum,Dinoflagellate,185000
+IMOS,2010-01-20 00:00:00,Protoperidinium pellucidum,Dinoflagellate,185000
+IMOS,2010-01-20 00:00:00,Protoperidinium spp.,Dinoflagellate,1662000
+IMOS,2010-01-20 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,47446000
+IMOS,2010-01-20 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,7385000
+IMOS,2010-01-20 00:00:00,Rhizosolenia fallax,Diatom,738000
+IMOS,2010-01-20 00:00:00,Rhizosolenia imbricata,Diatom,738000
+IMOS,2010-01-20 00:00:00,Rhizosolenia setigera,Diatom,369000
+IMOS,2010-01-20 00:00:00,Scrippsiella spp.,Dinoflagellate,1846000
+IMOS,2010-01-20 00:00:00,Skeletonema spp.,Diatom,6277000
+IMOS,2010-01-20 00:00:00,Thalassiosira gravida,Diatom,1477000
+IMOS,2010-01-20 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,1108000
+IMOS,2010-01-20 00:00:00,Tripos spp.,Dinoflagellate,2585000
+IMOS,2012-02-13 00:00:00,Asterionellopsis spp. ~50 µm length,Diatom,2571000
+IMOS,2012-02-13 00:00:00,Bacteriastrum spp.,Diatom,138000
+IMOS,2012-02-13 00:00:00,Cerataulina spp. ~150 µm length,Diatom,184000
+IMOS,2012-02-13 00:00:00,Ceratoneis closterium,Diatom,459000
+IMOS,2012-02-13 00:00:00,Chaetoceros lorenzianus,Diatom,92000
+IMOS,2012-02-13 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,138000
+IMOS,2012-02-13 00:00:00,Coscinodiscus spp.,Diatom,46000
+IMOS,2012-02-13 00:00:00,Dactyliosolen fragilissimus,Diatom,138000
+IMOS,2012-02-13 00:00:00,Guinardia delicatula,Diatom,92000
+IMOS,2012-02-13 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,46000
+IMOS,2012-02-13 00:00:00,Gyrodinium spp.,Dinoflagellate,92000
+IMOS,2012-02-13 00:00:00,Leptocylindrus danicus,Diatom,6566000
+IMOS,2012-02-13 00:00:00,Leptocylindrus minimus,Diatom,505000
+IMOS,2012-02-13 00:00:00,Noctiluca scintillans,Dinoflagellate,18000
+IMOS,2012-02-13 00:00:00,Oxytoxum spp.,Dinoflagellate,46000
+IMOS,2012-02-13 00:00:00,Pleurosigma spp. < 150 µm,Diatom,184000
+IMOS,2012-02-13 00:00:00,Proboscia alata,Diatom,46000
+IMOS,2012-02-13 00:00:00,Protoperidinium spp.,Dinoflagellate,46000
+IMOS,2012-02-13 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,3398000
+IMOS,2012-02-13 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,413000
+IMOS,2012-02-13 00:00:00,Pseudosolenia spp. ~30 µm cell width,Diatom,46000
+IMOS,2012-02-13 00:00:00,Rhizosolenia imbricata,Diatom,92000
+IMOS,2012-02-13 00:00:00,Rhizosolenia setigera,Diatom,184000
+IMOS,2012-02-13 00:00:00,Thalassiosira gravida,Diatom,138000
+IMOS,2012-02-13 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,46000
+IMOS,2012-02-13 00:00:00,Tripos furca,Dinoflagellate,23000
+IMOS,2011-04-21 00:00:00,Amphidinium spp. <30 µm cell height,Dinoflagellate,49000
+IMOS,2011-04-21 00:00:00,Bacteriastrum spp.,Diatom,3054000
+IMOS,2011-04-21 00:00:00,Ceratoneis closterium,Diatom,542000
+IMOS,2011-04-21 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,197000
+IMOS,2011-04-21 00:00:00,Climacodium spp.,Diatom,59000
+IMOS,2011-04-21 00:00:00,Dactyliosolen fragilissimus,Diatom,1379000
+IMOS,2011-04-21 00:00:00,Hemiaulus spp.,Diatom,49000
+IMOS,2011-04-21 00:00:00,Leptocylindrus danicus,Diatom,837000
+IMOS,2011-04-21 00:00:00,Leptocylindrus minimus,Diatom,3300000
+IMOS,2011-04-21 00:00:00,Navicula cf. 100-120 µm length,Diatom,49000
+IMOS,2011-04-21 00:00:00,Oxytoxum spp.,Dinoflagellate,148000
+IMOS,2011-04-21 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,3547000
+IMOS,2011-04-21 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,887000
+IMOS,2011-04-21 00:00:00,Trichodesmium spp.,Cyanobacteria,887000
+IMOS,2011-04-21 00:00:00,Tripos macroceros,Dinoflagellate,10000
+IMOS,2009-06-24 00:00:00,Asterionellopsis glacialis,Diatom,554000
+IMOS,2009-06-24 00:00:00,Cerataulina pelagica,Diatom,138000
+IMOS,2009-06-24 00:00:00,Ceratoneis closterium,Diatom,669000
+IMOS,2009-06-24 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,254000
+IMOS,2009-06-24 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,2123000
+IMOS,2009-06-24 00:00:00,Coscinodiscus radiatus,Diatom,23000
+IMOS,2009-06-24 00:00:00,Dactyliosolen fragilissimus,Diatom,69000
+IMOS,2009-06-24 00:00:00,Dinophysis spp.,Dinoflagellate,23000
+IMOS,2009-06-24 00:00:00,Guinardia delicatula,Diatom,185000
+IMOS,2009-06-24 00:00:00,Guinardia flaccida <150 µm length,Diatom,46000
+IMOS,2009-06-24 00:00:00,Guinardia striata,Diatom,46000
+IMOS,2009-06-24 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,46000
+IMOS,2009-06-24 00:00:00,Helicotheca spp.,Diatom,23000
+IMOS,2009-06-24 00:00:00,Hemiaulus spp.,Diatom,23000
+IMOS,2009-06-24 00:00:00,Lauderia annulata < 70 µm length,Diatom,69000
+IMOS,2009-06-24 00:00:00,Leptocylindrus danicus,Diatom,185000
+IMOS,2009-06-24 00:00:00,Leptocylindrus mediterraneus,Diatom,46000
+IMOS,2009-06-24 00:00:00,Navicula cf. 40-60 µm length,Diatom,69000
+IMOS,2009-06-24 00:00:00,Oxytoxum spp.,Dinoflagellate,46000
+IMOS,2009-06-24 00:00:00,Pleurosigma spp. < 150 µm,Diatom,92000
+IMOS,2009-06-24 00:00:00,Prorocentrum spp.,Dinoflagellate,23000
+IMOS,2009-06-24 00:00:00,Protoperidinium spp.,Dinoflagellate,69000
+IMOS,2009-06-24 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,2677000
+IMOS,2009-06-24 00:00:00,Rhizosolenia setigera,Diatom,23000
+IMOS,2009-06-24 00:00:00,Scrippsiella spp.,Dinoflagellate,69000
+IMOS,2009-06-24 00:00:00,Thalassionema spp. > 100 µm length,Diatom,92000
+IMOS,2009-06-24 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,46000
+IMOS,2009-06-24 00:00:00,Tripos spp.,Dinoflagellate,23000
+IMOS,2012-03-12 00:00:00,Akashiwo spp.,Dinoflagellate,48000
+IMOS,2012-03-12 00:00:00,Amphidinium spp. <30 µm cell height,Dinoflagellate,95000
+IMOS,2012-03-12 00:00:00,Brachidinium spp.,Dinoflagellate,48000
+IMOS,2012-03-12 00:00:00,Dinophysis tripos,Dinoflagellate,95000
+IMOS,2012-03-12 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,713000
+IMOS,2012-03-12 00:00:00,Gyrodinium spp. 20-40 µm,Dinoflagellate,570000
+IMOS,2012-03-12 00:00:00,Oxytoxum spp.,Dinoflagellate,48000
+IMOS,2012-03-12 00:00:00,Prorocentrum spp.,Dinoflagellate,166000
+IMOS,2012-03-12 00:00:00,Protoperidinium spp.,Dinoflagellate,238000
+IMOS,2012-03-12 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,19285000
+IMOS,2012-03-12 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,285000
+IMOS,2012-03-12 00:00:00,Rhizosolenia setigera,Diatom,48000
+IMOS,2012-03-12 00:00:00,Scrippsiella spp.,Dinoflagellate,285000
+IMOS,2012-03-12 00:00:00,Thalassiosira gravida,Diatom,48000
+IMOS,2012-03-12 00:00:00,Tripos furca,Dinoflagellate,48000
+IMOS,2012-03-12 00:00:00,Tripos fusus,Dinoflagellate,95000
+IMOS,2012-03-12 00:00:00,Tripos lineatus,Dinoflagellate,238000
+IMOS,2011-10-19 00:00:00,Amphidinium spp. <30 µm cell height,Dinoflagellate,104000
+IMOS,2011-10-19 00:00:00,Cerataulina spp. ~150 µm length,Diatom,311000
+IMOS,2011-10-19 00:00:00,Ceratoneis closterium,Diatom,155000
+IMOS,2011-10-19 00:00:00,Chaetoceros curvisetus,Diatom,207000
+IMOS,2011-10-19 00:00:00,Chaetoceros danicus,Diatom,52000
+IMOS,2011-10-19 00:00:00,Chaetoceros eibenii,Diatom,207000
+IMOS,2011-10-19 00:00:00,Chaetoceros lorenzianus,Diatom,104000
+IMOS,2011-10-19 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,673000
+IMOS,2011-10-19 00:00:00,Coscinodiscus spp.,Diatom,52000
+IMOS,2011-10-19 00:00:00,Cyanobacteria cluster,Cyanobacteria,1553000
+IMOS,2011-10-19 00:00:00,Dinophysis spp.,Dinoflagellate,52000
+IMOS,2011-10-19 00:00:00,Eucampia spp. <100 µm cell length,Diatom,259000
+IMOS,2011-10-19 00:00:00,Gonyaulax spp.,Dinoflagellate,52000
+IMOS,2011-10-19 00:00:00,Guinardia delicatula,Diatom,5331000
+IMOS,2011-10-19 00:00:00,Guinardia flaccida <150 µm length,Diatom,52000
+IMOS,2011-10-19 00:00:00,Guinardia striata,Diatom,518000
+IMOS,2011-10-19 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,362000
+IMOS,2011-10-19 00:00:00,Gyrodinium spp.,Dinoflagellate,362000
+IMOS,2011-10-19 00:00:00,Hemiaulus spp.,Diatom,104000
+IMOS,2011-10-19 00:00:00,Lauderia annulata < 70 µm length,Diatom,207000
+IMOS,2011-10-19 00:00:00,Leptocylindrus danicus,Diatom,2536000
+IMOS,2011-10-19 00:00:00,Leptocylindrus mediterraneus,Diatom,104000
+IMOS,2011-10-19 00:00:00,Leptocylindrus minimus,Diatom,311000
+IMOS,2011-10-19 00:00:00,Navicula cf. 60-80 µm length,Diatom,362000
+IMOS,2011-10-19 00:00:00,Navicula septentrionalis,Diatom,621000
+IMOS,2011-10-19 00:00:00,Noctiluca scintillans,Dinoflagellate,21000
+IMOS,2011-10-19 00:00:00,Oxytoxum spp.,Dinoflagellate,52000
+IMOS,2011-10-19 00:00:00,Pleurosigma spp. < 150 µm,Diatom,259000
+IMOS,2011-10-19 00:00:00,Proboscia alata,Diatom,776000
+IMOS,2011-10-19 00:00:00,Protoperidinium pellucidum,Dinoflagellate,104000
+IMOS,2011-10-19 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,7971000
+IMOS,2011-10-19 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,2070000
+IMOS,2011-10-19 00:00:00,Rhizosolenia fallax,Diatom,259000
+IMOS,2011-10-19 00:00:00,Rhizosolenia setigera,Diatom,104000
+IMOS,2011-10-19 00:00:00,Skeletonema spp.,Diatom,1760000
+IMOS,2011-10-19 00:00:00,Stephanopyxis spp.,Diatom,828000
+IMOS,2011-10-19 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,104000
+IMOS,2011-10-19 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,414000
+IMOS,2011-10-19 00:00:00,Trichodesmium spp.,Cyanobacteria,52000
+IMOS,2011-12-07 00:00:00,Bacteriastrum spp.,Diatom,80000
+IMOS,2011-12-07 00:00:00,Cerataulina spp. ~150 µm length,Diatom,400000
+IMOS,2011-12-07 00:00:00,Ceratoneis closterium,Diatom,320000
+IMOS,2011-12-07 00:00:00,Chaetoceros didymus,Diatom,80000
+IMOS,2011-12-07 00:00:00,Chaetoceros eibenii,Diatom,80000
+IMOS,2011-12-07 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,1399000
+IMOS,2011-12-07 00:00:00,Coscinodiscus spp.,Diatom,80000
+IMOS,2011-12-07 00:00:00,Dactyliosolen fragilissimus,Diatom,639000
+IMOS,2011-12-07 00:00:00,Eucampia spp. <100 µm cell length,Diatom,639000
+IMOS,2011-12-07 00:00:00,Guinardia delicatula,Diatom,2557000
+IMOS,2011-12-07 00:00:00,Guinardia flaccida <150 µm length,Diatom,80000
+IMOS,2011-12-07 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,240000
+IMOS,2011-12-07 00:00:00,Gyrodinium spp.,Dinoflagellate,360000
+IMOS,2011-12-07 00:00:00,Lauderia annulata < 70 µm length,Diatom,280000
+IMOS,2011-12-07 00:00:00,Leptocylindrus danicus,Diatom,4196000
+IMOS,2011-12-07 00:00:00,Navicula cf. 60-80 µm length,Diatom,360000
+IMOS,2011-12-07 00:00:00,Navicula cf. 80-100 µm length,Diatom,80000
+IMOS,2011-12-07 00:00:00,Noctiluca scintillans,Dinoflagellate,8000
+IMOS,2011-12-07 00:00:00,Oxytoxum spp.,Dinoflagellate,480000
+IMOS,2011-12-07 00:00:00,Pleurosigma spp. < 150 µm,Diatom,80000
+IMOS,2011-12-07 00:00:00,Proboscia alata,Diatom,7872000
+IMOS,2011-12-07 00:00:00,Protoperidinium pellucidum,Dinoflagellate,80000
+IMOS,2011-12-07 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,5594000
+IMOS,2011-12-07 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,1119000
+IMOS,2011-12-07 00:00:00,Pseudosolenia spp. ~60 µm cell width,Diatom,40000
+IMOS,2011-12-07 00:00:00,Scrippsiella spp.,Dinoflagellate,280000
+IMOS,2011-12-07 00:00:00,Skeletonema spp.,Diatom,1039000
+IMOS,2011-12-07 00:00:00,Stephanopyxis spp.,Diatom,160000
+IMOS,2011-12-07 00:00:00,Thalassionema spp. > 100 µm length,Diatom,80000
+IMOS,2011-12-07 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,400000
+IMOS,2011-12-07 00:00:00,Trichodesmium spp.,Cyanobacteria,40000
+IMOS,2011-05-18 00:00:00,Ceratoneis closterium,Diatom,120000
+IMOS,2011-05-18 00:00:00,Chaetoceros peruvianus < 40 µm cell width,Diatom,24000
+IMOS,2011-05-18 00:00:00,Chaetoceros spp.,Diatom,96000
+IMOS,2011-05-18 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,48000
+IMOS,2011-05-18 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,216000
+IMOS,2011-05-18 00:00:00,Climacodium spp.,Diatom,259000
+IMOS,2011-05-18 00:00:00,Corethron pennatum,Diatom,24000
+IMOS,2011-05-18 00:00:00,Cyanobacteria cluster,Cyanobacteria,48000
+IMOS,2011-05-18 00:00:00,Dactyliosolen fragilissimus,Diatom,432000
+IMOS,2011-05-18 00:00:00,Ditylum brightwellii < 40 µm width,Diatom,72000
+IMOS,2011-05-18 00:00:00,Guinardia striata,Diatom,408000
+IMOS,2011-05-18 00:00:00,Gyrodinium spp.,Dinoflagellate,48000
+IMOS,2011-05-18 00:00:00,Leptocylindrus danicus,Diatom,1128000
+IMOS,2011-05-18 00:00:00,Leptocylindrus minimus,Diatom,2903000
+IMOS,2011-05-18 00:00:00,Navicula septentrionalis,Diatom,120000
+IMOS,2011-05-18 00:00:00,Proboscia alata,Diatom,72000
+IMOS,2011-05-18 00:00:00,Protoperidinium spp.,Dinoflagellate,24000
+IMOS,2011-05-18 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,2615000
+IMOS,2011-05-18 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,624000
+IMOS,2011-05-18 00:00:00,Rhizosolenia setigera,Diatom,72000
+IMOS,2011-05-18 00:00:00,Thalassionema spp. < 100 µm length,Diatom,120000
+IMOS,2011-05-18 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,48000
+IMOS,2011-05-18 00:00:00,Thalassiothrix spp.,Diatom,72000
+IMOS,2011-05-18 00:00:00,Tripos muelleri,Dinoflagellate,24000
+IMOS,2009-07-15 00:00:00,Asterionellopsis glacialis,Diatom,4069000
+IMOS,2009-07-15 00:00:00,Cerataulina pelagica,Diatom,931000
+IMOS,2009-07-15 00:00:00,Ceratoneis closterium,Diatom,441000
+IMOS,2009-07-15 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,15049000
+IMOS,2009-07-15 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,2647000
+IMOS,2009-07-15 00:00:00,Corethron pennatum,Diatom,441000
+IMOS,2009-07-15 00:00:00,Coscinodiscus radiatus,Diatom,49000
+IMOS,2009-07-15 00:00:00,Coscinodiscus spp.,Diatom,98000
+IMOS,2009-07-15 00:00:00,Coscinodiscus wailesii,Diatom,20000
+IMOS,2009-07-15 00:00:00,Dactyliosolen fragilissimus,Diatom,147000
+IMOS,2009-07-15 00:00:00,Dinophysis spp.,Dinoflagellate,98000
+IMOS,2009-07-15 00:00:00,Ditylum brightwellii > 40 µm width,Diatom,98000
+IMOS,2009-07-15 00:00:00,Eucampia spp. <100 µm cell length,Diatom,1225000
+IMOS,2009-07-15 00:00:00,Guinardia delicatula,Diatom,1863000
+IMOS,2009-07-15 00:00:00,Guinardia flaccida <150 µm length,Diatom,98000
+IMOS,2009-07-15 00:00:00,Guinardia striata,Diatom,931000
+IMOS,2009-07-15 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,49000
+IMOS,2009-07-15 00:00:00,Gyrodinium spp.,Dinoflagellate,98000
+IMOS,2009-07-15 00:00:00,Helicotheca spp.,Diatom,196000
+IMOS,2009-07-15 00:00:00,Lauderia annulata < 70 µm length,Diatom,441000
+IMOS,2009-07-15 00:00:00,Leptocylindrus danicus,Diatom,2696000
+IMOS,2009-07-15 00:00:00,Leptocylindrus mediterraneus,Diatom,98000
+IMOS,2009-07-15 00:00:00,Lithodesmium spp.,Diatom,98000
+IMOS,2009-07-15 00:00:00,Meuniera membranacea,Diatom,686000
+IMOS,2009-07-15 00:00:00,Pleurosigma spp. < 150 µm,Diatom,147000
+IMOS,2009-07-15 00:00:00,Proboscia alata,Diatom,49000
+IMOS,2009-07-15 00:00:00,Protoperidinium spp.,Dinoflagellate,98000
+IMOS,2009-07-15 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,2941000
+IMOS,2009-07-15 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,4510000
+IMOS,2009-07-15 00:00:00,Rhizosolenia fallax,Diatom,980000
+IMOS,2009-07-15 00:00:00,Stephanopyxis spp.,Diatom,539000
+IMOS,2009-07-15 00:00:00,Thalassionema spp. < 100 µm length,Diatom,147000
+IMOS,2009-07-15 00:00:00,Thalassiosira gravida,Diatom,1961000
+IMOS,2009-07-15 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,343000
+IMOS,2009-07-15 00:00:00,Tripos spp.,Dinoflagellate,49000
+IMOS,2009-04-23 00:00:00,Ceratoneis closterium,Diatom,443000
+IMOS,2009-04-23 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,222000
+IMOS,2009-04-23 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,222000
+IMOS,2009-04-23 00:00:00,Cyanobacteria cluster,Cyanobacteria,443000
+IMOS,2009-04-23 00:00:00,Dinophysis spp.,Dinoflagellate,18000
+IMOS,2009-04-23 00:00:00,Gyrodinium spp.,Dinoflagellate,222000
+IMOS,2009-04-23 00:00:00,Leptocylindrus danicus,Diatom,1663000
+IMOS,2009-04-23 00:00:00,Leptocylindrus mediterraneus,Diatom,111000
+IMOS,2009-04-23 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,26490000
+IMOS,2009-04-23 00:00:00,Rhizosolenia setigera,Diatom,665000
+IMOS,2009-04-23 00:00:00,Skeletonema spp.,Diatom,443000
+IMOS,2009-04-23 00:00:00,Tripos spp.,Dinoflagellate,44000
+IMOS,2009-05-19 00:00:00,Bacteriastrum spp.,Diatom,92000
+IMOS,2009-05-19 00:00:00,Cerataulina pelagica,Diatom,554000
+IMOS,2009-05-19 00:00:00,Ceratoneis closterium,Diatom,2585000
+IMOS,2009-05-19 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,11308000
+IMOS,2009-05-19 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,2031000
+IMOS,2009-05-19 00:00:00,Climacodium spp.,Diatom,2077000
+IMOS,2009-05-19 00:00:00,Corethron pennatum,Diatom,508000
+IMOS,2009-05-19 00:00:00,Coscinodiscus radiatus,Diatom,92000
+IMOS,2009-05-19 00:00:00,Coscinodiscus wailesii,Diatom,9000
+IMOS,2009-05-19 00:00:00,Dactyliosolen fragilissimus,Diatom,1338000
+IMOS,2009-05-19 00:00:00,Guinardia delicatula,Diatom,2538000
+IMOS,2009-05-19 00:00:00,Guinardia flaccida <150 µm length,Diatom,554000
+IMOS,2009-05-19 00:00:00,Guinardia striata,Diatom,6000000
+IMOS,2009-05-19 00:00:00,Helicotheca spp.,Diatom,185000
+IMOS,2009-05-19 00:00:00,Hemiaulus spp.,Diatom,462000
+IMOS,2009-05-19 00:00:00,Lauderia annulata < 70 µm length,Diatom,738000
+IMOS,2009-05-19 00:00:00,Leptocylindrus danicus,Diatom,2538000
+IMOS,2009-05-19 00:00:00,Leptocylindrus mediterraneus,Diatom,692000
+IMOS,2009-05-19 00:00:00,Navicula cf. 40-60 µm length,Diatom,138000
+IMOS,2009-05-19 00:00:00,Noctiluca scintillans,Dinoflagellate,9000
+IMOS,2009-05-19 00:00:00,Oxytoxum spp.,Dinoflagellate,92000
+IMOS,2009-05-19 00:00:00,Pleurosigma spp. < 150 µm,Diatom,231000
+IMOS,2009-05-19 00:00:00,Proboscia alata,Diatom,185000
+IMOS,2009-05-19 00:00:00,Protoperidinium spp.,Dinoflagellate,185000
+IMOS,2009-05-19 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,5354000
+IMOS,2009-05-19 00:00:00,Rhizosolenia setigera,Diatom,415000
+IMOS,2009-05-19 00:00:00,Skeletonema spp.,Diatom,831000
+IMOS,2009-05-19 00:00:00,Thalassiosira gravida,Diatom,185000
+IMOS,2009-05-19 00:00:00,Tripos spp.,Dinoflagellate,46000
+IMOS,2009-12-07 00:00:00,Ceratoneis closterium,Diatom,244000
+IMOS,2009-12-07 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,19000
+IMOS,2009-12-07 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,131000
+IMOS,2009-12-07 00:00:00,Climacodium spp.,Diatom,431000
+IMOS,2009-12-07 00:00:00,Dactyliosolen fragilissimus,Diatom,1388000
+IMOS,2009-12-07 00:00:00,Diploneis spp.,Diatom,19000
+IMOS,2009-12-07 00:00:00,Guinardia delicatula,Diatom,113000
+IMOS,2009-12-07 00:00:00,Guinardia striata,Diatom,188000
+IMOS,2009-12-07 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,56000
+IMOS,2009-12-07 00:00:00,Gyrodinium spp.,Dinoflagellate,131000
+IMOS,2009-12-07 00:00:00,Hemiaulus spp.,Diatom,94000
+IMOS,2009-12-07 00:00:00,Leptocylindrus danicus,Diatom,2119000
+IMOS,2009-12-07 00:00:00,Leptocylindrus minimus,Diatom,319000
+IMOS,2009-12-07 00:00:00,Noctiluca scintillans,Dinoflagellate,8000
+IMOS,2009-12-07 00:00:00,Oxytoxum spp.,Dinoflagellate,38000
+IMOS,2009-12-07 00:00:00,Proboscia alata,Diatom,131000
+IMOS,2009-12-07 00:00:00,Protoperidinium oceanicum,Dinoflagellate,38000
+IMOS,2009-12-07 00:00:00,Protoperidinium pellucidum,Dinoflagellate,319000
+IMOS,2009-12-07 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,263000
+IMOS,2009-12-07 00:00:00,Pyrophacus spp.,Dinoflagellate,23000
+IMOS,2009-12-07 00:00:00,Rhizosolenia fallax,Diatom,38000
+IMOS,2009-12-07 00:00:00,Rhizosolenia imbricata,Diatom,56000
+IMOS,2009-12-07 00:00:00,Rhizosolenia setigera,Diatom,56000
+IMOS,2009-12-07 00:00:00,Scrippsiella spp.,Dinoflagellate,113000
+IMOS,2009-12-07 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,38000
+IMOS,2009-12-07 00:00:00,Tripos spp.,Dinoflagellate,56000
+IMOS,2009-11-11 00:00:00,Ceratoneis closterium,Diatom,4914000
+IMOS,2009-11-11 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,1034000
+IMOS,2009-11-11 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,1293000
+IMOS,2009-11-11 00:00:00,Leptocylindrus danicus,Diatom,87414000
+IMOS,2009-11-11 00:00:00,Leptocylindrus mediterraneus,Diatom,517000
+IMOS,2009-11-11 00:00:00,Leptocylindrus minimus,Diatom,26379000
+IMOS,2009-11-11 00:00:00,Noctiluca scintillans,Dinoflagellate,21000
+IMOS,2009-11-11 00:00:00,Oxytoxum spp.,Dinoflagellate,172000
+IMOS,2009-11-11 00:00:00,Proboscia alata,Diatom,2845000
+IMOS,2009-11-11 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,5172000
+IMOS,2009-11-11 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,35948000
+IMOS,2009-11-11 00:00:00,Skeletonema spp.,Diatom,1016000
+IMOS,2009-11-11 00:00:00,Stephanopyxis spp.,Diatom,103000
+IMOS,2010-03-17 00:00:00,Amphidinium spp. <30 µm cell height,Dinoflagellate,126000
+IMOS,2010-03-17 00:00:00,Bacteriastrum spp.,Diatom,2609000
+IMOS,2010-03-17 00:00:00,Cerataulina pelagica,Diatom,168000
+IMOS,2010-03-17 00:00:00,Ceratoneis closterium,Diatom,2020000
+IMOS,2010-03-17 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,1767000
+IMOS,2010-03-17 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,10604000
+IMOS,2010-03-17 00:00:00,Climacodium spp.,Diatom,884000
+IMOS,2010-03-17 00:00:00,Dactyliosolen fragilissimus,Diatom,11782000
+IMOS,2010-03-17 00:00:00,Guinardia delicatula,Diatom,337000
+IMOS,2010-03-17 00:00:00,Guinardia flaccida <150 µm length,Diatom,34000
+IMOS,2010-03-17 00:00:00,Guinardia striata,Diatom,1431000
+IMOS,2010-03-17 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,84000
+IMOS,2010-03-17 00:00:00,Gyrodinium spp.,Dinoflagellate,126000
+IMOS,2010-03-17 00:00:00,Hemiaulus spp.,Diatom,1094000
+IMOS,2010-03-17 00:00:00,Leptocylindrus danicus,Diatom,13802000
+IMOS,2010-03-17 00:00:00,Leptocylindrus mediterraneus,Diatom,168000
+IMOS,2010-03-17 00:00:00,Leptocylindrus minimus,Diatom,2777000
+IMOS,2010-03-17 00:00:00,Meuniera membranacea,Diatom,59000
+IMOS,2010-03-17 00:00:00,Oxytoxum spp.,Dinoflagellate,42000
+IMOS,2010-03-17 00:00:00,Proboscia alata,Diatom,1010000
+IMOS,2010-03-17 00:00:00,Protoperidinium spp.,Dinoflagellate,126000
+IMOS,2010-03-17 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,3535000
+IMOS,2010-03-17 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,1010000
+IMOS,2010-03-17 00:00:00,Rhizosolenia fallax,Diatom,337000
+IMOS,2010-03-17 00:00:00,Rhizosolenia imbricata,Diatom,84000
+IMOS,2010-03-17 00:00:00,Rhizosolenia setigera,Diatom,1094000
+IMOS,2010-03-17 00:00:00,Trichodesmium spp.,Cyanobacteria,337000
+IMOS,2010-03-17 00:00:00,Tripos spp.,Dinoflagellate,17000
+IMOS,2010-10-20 00:00:00,Ceratoneis closterium,Diatom,75000
+IMOS,2010-10-20 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,188000
+IMOS,2010-10-20 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,942000
+IMOS,2010-10-20 00:00:00,Climacodium spp.,Diatom,68000
+IMOS,2010-10-20 00:00:00,Dactyliosolen fragilissimus,Diatom,452000
+IMOS,2010-10-20 00:00:00,Guinardia delicatula,Diatom,75000
+IMOS,2010-10-20 00:00:00,Guinardia flaccida <150 µm length,Diatom,75000
+IMOS,2010-10-20 00:00:00,Gyrodinium spp.,Dinoflagellate,603000
+IMOS,2010-10-20 00:00:00,Helicotheca spp.,Diatom,113000
+IMOS,2010-10-20 00:00:00,Hemiaulus spp.,Diatom,75000
+IMOS,2010-10-20 00:00:00,Lauderia annulata < 70 µm length,Diatom,75000
+IMOS,2010-10-20 00:00:00,Leptocylindrus danicus,Diatom,1432000
+IMOS,2010-10-20 00:00:00,Leptocylindrus minimus,Diatom,641000
+IMOS,2010-10-20 00:00:00,Navicula cf. 60-80 µm length,Diatom,113000
+IMOS,2010-10-20 00:00:00,Noctiluca scintillans,Dinoflagellate,98000
+IMOS,2010-10-20 00:00:00,Proboscia alata,Diatom,113000
+IMOS,2010-10-20 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,2035000
+IMOS,2010-10-20 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,151000
+IMOS,2010-10-20 00:00:00,Rhizosolenia fallax,Diatom,75000
+IMOS,2010-10-20 00:00:00,Skeletonema spp.,Diatom,678000
+IMOS,2010-10-20 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,415000
+IMOS,2011-06-20 00:00:00,Bacteriastrum spp.,Diatom,48000
+IMOS,2011-06-20 00:00:00,Ceratoneis closterium,Diatom,524000
+IMOS,2011-06-20 00:00:00,Chaetoceros atlanticus,Diatom,119000
+IMOS,2011-06-20 00:00:00,Chaetoceros decipiens < 15 µm cell width,Diatom,95000
+IMOS,2011-06-20 00:00:00,Chaetoceros lorenzianus,Diatom,95000
+IMOS,2011-06-20 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,310000
+IMOS,2011-06-20 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,572000
+IMOS,2011-06-20 00:00:00,Climacodium spp.,Diatom,143000
+IMOS,2011-06-20 00:00:00,Coscinodiscus spp.,Diatom,48000
+IMOS,2011-06-20 00:00:00,Dactyliosolen fragilissimus,Diatom,95000
+IMOS,2011-06-20 00:00:00,Ditylum brightwellii > 40 µm width,Diatom,48000
+IMOS,2011-06-20 00:00:00,Gonyaulax spp.,Dinoflagellate,71000
+IMOS,2011-06-20 00:00:00,Guinardia delicatula,Diatom,191000
+IMOS,2011-06-20 00:00:00,Guinardia flaccida <150 µm length,Diatom,24000
+IMOS,2011-06-20 00:00:00,Guinardia striata,Diatom,238000
+IMOS,2011-06-20 00:00:00,Gyrodinium spp.,Dinoflagellate,95000
+IMOS,2011-06-20 00:00:00,Helicotheca spp.,Diatom,24000
+IMOS,2011-06-20 00:00:00,Hemiaulus spp.,Diatom,48000
+IMOS,2011-06-20 00:00:00,Leptocylindrus danicus,Diatom,572000
+IMOS,2011-06-20 00:00:00,Leptocylindrus mediterraneus,Diatom,24000
+IMOS,2011-06-20 00:00:00,Leptocylindrus minimus,Diatom,357000
+IMOS,2011-06-20 00:00:00,Navicula septentrionalis,Diatom,143000
+IMOS,2011-06-20 00:00:00,Pleurosigma spp. < 150 µm,Diatom,24000
+IMOS,2011-06-20 00:00:00,Proboscia alata,Diatom,48000
+IMOS,2011-06-20 00:00:00,Prorocentrum spp.,Dinoflagellate,71000
+IMOS,2011-06-20 00:00:00,Protoperidinium spp.,Dinoflagellate,48000
+IMOS,2011-06-20 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,1334000
+IMOS,2011-06-20 00:00:00,Pseudosolenia spp. ~30 µm cell width,Diatom,48000
+IMOS,2011-06-20 00:00:00,Rhizosolenia fallax,Diatom,24000
+IMOS,2011-06-20 00:00:00,Rhizosolenia setigera,Diatom,405000
+IMOS,2011-06-20 00:00:00,Thalassionema spp. > 100 µm length,Diatom,214000
+IMOS,2011-06-20 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,262000
+IMOS,2011-06-20 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,71000
+IMOS,2011-06-20 00:00:00,Trichodesmium spp.,Cyanobacteria,24000
+IMOS,2011-06-20 00:00:00,Tripos fusus,Dinoflagellate,95000
+IMOS,2011-06-20 00:00:00,Tripos lineatus,Dinoflagellate,71000
+IMOS,2011-06-20 00:00:00,Tripos muelleri type,Dinoflagellate,24000
+IMOS,2011-06-20 00:00:00,Tripos pentagonus,Dinoflagellate,71000
+IMOS,2009-03-19 00:00:00,Bacteriastrum spp.,Diatom,235000
+IMOS,2009-03-19 00:00:00,Cerataulina pelagica,Diatom,941000
+IMOS,2009-03-19 00:00:00,Ceratoneis closterium,Diatom,1176000
+IMOS,2009-03-19 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,33861000
+IMOS,2009-03-19 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,4233000
+IMOS,2009-03-19 00:00:00,Climacodium spp.,Diatom,150000
+IMOS,2009-03-19 00:00:00,Coscinodiscus radiatus,Diatom,235000
+IMOS,2009-03-19 00:00:00,Cyanobacteria cluster,Cyanobacteria,47000
+IMOS,2009-03-19 00:00:00,Dactyliosolen fragilissimus,Diatom,5173000
+IMOS,2009-03-19 00:00:00,Guinardia striata,Diatom,1646000
+IMOS,2009-03-19 00:00:00,Helicotheca spp.,Diatom,705000
+IMOS,2009-03-19 00:00:00,Hemiaulus spp.,Diatom,941000
+IMOS,2009-03-19 00:00:00,Leptocylindrus danicus,Diatom,40446000
+IMOS,2009-03-19 00:00:00,Meuniera membranacea,Diatom,66000
+IMOS,2009-03-19 00:00:00,Oxytoxum spp.,Dinoflagellate,235000
+IMOS,2009-03-19 00:00:00,Proboscia alata,Diatom,235000
+IMOS,2009-03-19 00:00:00,Prorocentrum spp.,Dinoflagellate,235000
+IMOS,2009-03-19 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,47265000
+IMOS,2009-03-19 00:00:00,Rhizosolenia setigera,Diatom,6114000
+IMOS,2009-03-19 00:00:00,Skeletonema spp.,Diatom,6114000
+IMOS,2009-03-19 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,470000
+IMOS,2009-03-19 00:00:00,Tripos spp.,Dinoflagellate,47000
+IMOS,2009-10-12 00:00:00,Ceratoneis closterium,Diatom,879000
+IMOS,2009-10-12 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,352000
+IMOS,2009-10-12 00:00:00,Dactyliosolen fragilissimus,Diatom,176000
+IMOS,2009-10-12 00:00:00,Fragilariopsis spp.,Diatom,176000
+IMOS,2009-10-12 00:00:00,Guinardia delicatula,Diatom,879000
+IMOS,2009-10-12 00:00:00,Gyrodinium spp.,Dinoflagellate,2513000
+IMOS,2009-10-12 00:00:00,Leptocylindrus danicus,Diatom,1055000
+IMOS,2009-10-12 00:00:00,Leptocylindrus minimus,Diatom,37111000
+IMOS,2009-10-12 00:00:00,Noctiluca scintillans,Dinoflagellate,264000
+IMOS,2009-10-12 00:00:00,Proboscia alata,Diatom,704000
+IMOS,2009-10-12 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,4397000
+IMOS,2009-10-12 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,15829000
+IMOS,2009-10-12 00:00:00,Rhizosolenia fallax,Diatom,528000
+IMOS,2009-10-12 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,176000
+IMOS,2009-10-12 00:00:00,Tripos spp.,Dinoflagellate,176000
+IMOS,2010-12-14 00:00:00,Ceratoneis closterium,Diatom,1688000
+IMOS,2010-12-14 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,7477000
+IMOS,2010-12-14 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,1608000
+IMOS,2010-12-14 00:00:00,Dactyliosolen fragilissimus,Diatom,322000
+IMOS,2010-12-14 00:00:00,Dinophysis spp.,Dinoflagellate,322000
+IMOS,2010-12-14 00:00:00,Eucampia spp. <100 µm cell length,Diatom,2251000
+IMOS,2010-12-14 00:00:00,Guinardia striata,Diatom,161000
+IMOS,2010-12-14 00:00:00,Gyrodinium spp.,Dinoflagellate,241000
+IMOS,2010-12-14 00:00:00,Lauderia annulata < 70 µm length,Diatom,402000
+IMOS,2010-12-14 00:00:00,Leptocylindrus danicus,Diatom,1930000
+IMOS,2010-12-14 00:00:00,Leptocylindrus minimus,Diatom,322000
+IMOS,2010-12-14 00:00:00,Navicula cf. 40-60 µm length,Diatom,80000
+IMOS,2010-12-14 00:00:00,Navicula septentrionalis,Diatom,80000
+IMOS,2010-12-14 00:00:00,Noctiluca scintillans,Dinoflagellate,121000
+IMOS,2010-12-14 00:00:00,Pleurosigma spp. < 150 µm,Diatom,322000
+IMOS,2010-12-14 00:00:00,Proboscia alata,Diatom,14070000
+IMOS,2010-12-14 00:00:00,Prorocentrum spp.,Dinoflagellate,80000
+IMOS,2010-12-14 00:00:00,Protoperidinium pellucidum,Dinoflagellate,80000
+IMOS,2010-12-14 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,11256000
+IMOS,2010-12-14 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,10452000
+IMOS,2010-12-14 00:00:00,Rhizosolenia spp.,Diatom,322000
+IMOS,2010-12-14 00:00:00,Thalassiosira gravida,Diatom,643000
+IMOS,2010-12-14 00:00:00,Tripos furca,Dinoflagellate,322000
+IMOS,2010-11-11 00:00:00,Ceratoneis closterium,Diatom,1086000
+IMOS,2010-11-11 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,89000
+IMOS,2010-11-11 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,244000
+IMOS,2010-11-11 00:00:00,Guinardia delicatula,Diatom,222000
+IMOS,2010-11-11 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,44000
+IMOS,2010-11-11 00:00:00,Gyrodinium spp.,Dinoflagellate,355000
+IMOS,2010-11-11 00:00:00,Leptocylindrus danicus,Diatom,975000
+IMOS,2010-11-11 00:00:00,Leptocylindrus mediterraneus,Diatom,89000
+IMOS,2010-11-11 00:00:00,Leptocylindrus minimus,Diatom,2039000
+IMOS,2010-11-11 00:00:00,Navicula cf. 60-80 µm length,Diatom,67000
+IMOS,2010-11-11 00:00:00,Noctiluca scintillans,Dinoflagellate,35000
+IMOS,2010-11-11 00:00:00,Pleurosigma spp. < 150 µm,Diatom,44000
+IMOS,2010-11-11 00:00:00,Proboscia alata,Diatom,44000
+IMOS,2010-11-11 00:00:00,Prorocentrum spp.,Dinoflagellate,67000
+IMOS,2010-11-11 00:00:00,Protoperidinium oceanicum,Dinoflagellate,44000
+IMOS,2010-11-11 00:00:00,Protoperidinium pellucidum,Dinoflagellate,67000
+IMOS,2010-11-11 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,3835000
+IMOS,2010-11-11 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,266000
+IMOS,2010-11-11 00:00:00,Rhizosolenia setigera,Diatom,89000
+IMOS,2010-11-11 00:00:00,Scrippsiella spp.,Dinoflagellate,155000
+IMOS,2010-11-11 00:00:00,Skeletonema spp.,Diatom,89000
+IMOS,2010-11-11 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,155000
+IMOS,2010-11-11 00:00:00,Tripos furca type,Dinoflagellate,22000
+IMOS,2011-02-04 00:00:00,Amphidinium spp. <30 µm cell height,Dinoflagellate,48000
+IMOS,2011-02-04 00:00:00,Cerataulina spp. ~150 µm length,Diatom,48000
+IMOS,2011-02-04 00:00:00,Ceratoneis closterium,Diatom,824000
+IMOS,2011-02-04 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,776000
+IMOS,2011-02-04 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,1212000
+IMOS,2011-02-04 00:00:00,Dactyliosolen fragilissimus,Diatom,1309000
+IMOS,2011-02-04 00:00:00,Dactyliosolen phuketensis,Diatom,679000
+IMOS,2011-02-04 00:00:00,Guinardia delicatula,Diatom,97000
+IMOS,2011-02-04 00:00:00,Guinardia flaccida <150 µm length,Diatom,48000
+IMOS,2011-02-04 00:00:00,Guinardia striata,Diatom,485000
+IMOS,2011-02-04 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,48000
+IMOS,2011-02-04 00:00:00,Gyrodinium spp.,Dinoflagellate,242000
+IMOS,2011-02-04 00:00:00,Hemiaulus spp.,Diatom,145000
+IMOS,2011-02-04 00:00:00,Leptocylindrus danicus,Diatom,119235000
+IMOS,2011-02-04 00:00:00,Leptocylindrus minimus,Diatom,4847000
+IMOS,2011-02-04 00:00:00,Noctiluca scintillans,Dinoflagellate,10000
+IMOS,2011-02-04 00:00:00,Proboscia alata,Diatom,727000
+IMOS,2011-02-04 00:00:00,Protoperidinium pellucidum,Dinoflagellate,48000
+IMOS,2011-02-04 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,4847000
+IMOS,2011-02-04 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,388000
+IMOS,2011-02-04 00:00:00,Pseudosolenia spp. ~30 µm cell width,Diatom,97000
+IMOS,2011-02-04 00:00:00,Rhizosolenia imbricata,Diatom,194000
+IMOS,2011-02-04 00:00:00,Rhizosolenia setigera,Diatom,97000
+IMOS,2011-02-04 00:00:00,Scrippsiella spp.,Dinoflagellate,194000
+IMOS,2011-02-04 00:00:00,Thalassiosira gravida,Diatom,97000
+IMOS,2011-02-04 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,3684000
+IMOS,2011-02-04 00:00:00,Thalassiothrix spp.,Diatom,145000
+IMOS,2011-02-04 00:00:00,Trichodesmium spp.,Cyanobacteria,58000
+IMOS,2011-03-01 00:00:00,Ceratoneis closterium,Diatom,832000
+IMOS,2011-03-01 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,40000
+IMOS,2011-03-01 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,79000
+IMOS,2011-03-01 00:00:00,Dactyliosolen fragilissimus,Diatom,1228000
+IMOS,2011-03-01 00:00:00,Gyrodinium spp.,Dinoflagellate,396000
+IMOS,2011-03-01 00:00:00,Leptocylindrus danicus,Diatom,4198000
+IMOS,2011-03-01 00:00:00,Leptocylindrus minimus,Diatom,4554000
+IMOS,2011-03-01 00:00:00,Mesodinium rubrum,Ciliate,40000
+IMOS,2011-03-01 00:00:00,Oxytoxum spp.,Dinoflagellate,40000
+IMOS,2011-03-01 00:00:00,Protoperidinium spp.,Dinoflagellate,119000
+IMOS,2011-03-01 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,2218000
+IMOS,2011-03-01 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,1188000
+IMOS,2011-03-01 00:00:00,Rhizosolenia fallax,Diatom,119000
+IMOS,2011-03-01 00:00:00,Scrippsiella spp.,Dinoflagellate,198000
+IMOS,2011-03-01 00:00:00,Thalassiosira gravida,Diatom,40000
+IMOS,2011-03-01 00:00:00,Trichodesmium spp.,Cyanobacteria,48000
+IMOS,2011-03-01 00:00:00,Tripos trichoceros,Dinoflagellate,8000
+IMOS,2011-11-18 00:00:00,Cerataulina spp. ~150 µm length,Diatom,2207000
+IMOS,2011-11-18 00:00:00,Ceratoneis closterium,Diatom,3611000
+IMOS,2011-11-18 00:00:00,Coscinodiscus spp.,Diatom,100000
+IMOS,2011-11-18 00:00:00,Dactyliosolen fragilissimus,Diatom,1003000
+IMOS,2011-11-18 00:00:00,Dinophysis spp.,Dinoflagellate,802000
+IMOS,2011-11-18 00:00:00,Eucampia spp. <100 µm cell length,Diatom,100000
+IMOS,2011-11-18 00:00:00,Guinardia flaccida <150 µm length,Diatom,20000
+IMOS,2011-11-18 00:00:00,Guinardia striata,Diatom,201000
+IMOS,2011-11-18 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,1003000
+IMOS,2011-11-18 00:00:00,Gyrodinium spp.,Dinoflagellate,1304000
+IMOS,2011-11-18 00:00:00,Leptocylindrus danicus,Diatom,69709000
+IMOS,2011-11-18 00:00:00,Leptocylindrus minimus,Diatom,5517000
+IMOS,2011-11-18 00:00:00,Navicula cf. 60-80 µm length,Diatom,201000
+IMOS,2011-11-18 00:00:00,Navicula septentrionalis,Diatom,802000
+IMOS,2011-11-18 00:00:00,Noctiluca scintillans,Dinoflagellate,30000
+IMOS,2011-11-18 00:00:00,Oxytoxum spp.,Dinoflagellate,201000
+IMOS,2011-11-18 00:00:00,Proboscia alata,Diatom,903000
+IMOS,2011-11-18 00:00:00,Prorocentrum spp.,Dinoflagellate,201000
+IMOS,2011-11-18 00:00:00,Protoperidinium oceanicum,Dinoflagellate,100000
+IMOS,2011-11-18 00:00:00,Protoperidinium pellucidum,Dinoflagellate,602000
+IMOS,2011-11-18 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,3611000
+IMOS,2011-11-18 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,2508000
+IMOS,2011-11-18 00:00:00,Rhizosolenia fallax,Diatom,301000
+IMOS,2011-11-18 00:00:00,Scrippsiella spp.,Dinoflagellate,1505000
+IMOS,2011-11-18 00:00:00,Skeletonema spp.,Diatom,903000
+IMOS,2011-11-18 00:00:00,Thalassionema spp. < 100 µm length,Diatom,401000
+IMOS,2011-11-18 00:00:00,Trichodesmium spp.,Cyanobacteria,50000
+IMOS,2011-11-18 00:00:00,Tripos furca,Dinoflagellate,100000
+IMOS,2011-11-18 00:00:00,Tripos fusus,Dinoflagellate,100000
+IMOS,2011-11-18 00:00:00,Tripos lineatus,Dinoflagellate,201000
+IMOS,2009-10-19 00:00:00,Cerataulina pelagica,Diatom,175000
+IMOS,2009-10-19 00:00:00,Ceratoneis closterium,Diatom,3325000
+IMOS,2009-10-19 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,350000
+IMOS,2009-10-19 00:00:00,Dactyliosolen fragilissimus,Diatom,175000
+IMOS,2009-10-19 00:00:00,Guinardia delicatula,Diatom,1400000
+IMOS,2009-10-19 00:00:00,Guinardia flaccida <150 µm length,Diatom,175000
+IMOS,2009-10-19 00:00:00,Gyrodinium spp.,Dinoflagellate,333000
+IMOS,2009-10-19 00:00:00,Leptocylindrus danicus,Diatom,1575000
+IMOS,2009-10-19 00:00:00,Leptocylindrus minimus,Diatom,40950000
+IMOS,2009-10-19 00:00:00,Meuniera membranacea,Diatom,175000
+IMOS,2009-10-19 00:00:00,Noctiluca scintillans,Dinoflagellate,53000
+IMOS,2009-10-19 00:00:00,Oxytoxum spp.,Dinoflagellate,175000
+IMOS,2009-10-19 00:00:00,Proboscia alata,Diatom,3675000
+IMOS,2009-10-19 00:00:00,Prorocentrum spp.,Dinoflagellate,175000
+IMOS,2009-10-19 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,3500000
+IMOS,2009-10-19 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,21525000
+IMOS,2009-10-19 00:00:00,Skeletonema spp.,Diatom,847000
+IMOS,2009-10-19 00:00:00,Tripos spp.,Dinoflagellate,350000
+IMOS,2010-09-09 00:00:00,Bacteriastrum spp.,Diatom,95000
+IMOS,2010-09-09 00:00:00,Cerataulina pelagica,Diatom,1418000
+IMOS,2010-09-09 00:00:00,Ceratoneis closterium,Diatom,662000
+IMOS,2010-09-09 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,1134000
+IMOS,2010-09-09 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,4632000
+IMOS,2010-09-09 00:00:00,Dactyliosolen fragilissimus,Diatom,2174000
+IMOS,2010-09-09 00:00:00,Eucampia spp. <100 µm cell length,Diatom,378000
+IMOS,2010-09-09 00:00:00,Guinardia delicatula,Diatom,30910000
+IMOS,2010-09-09 00:00:00,Guinardia flaccida <150 µm length,Diatom,473000
+IMOS,2010-09-09 00:00:00,Guinardia striata,Diatom,6144000
+IMOS,2010-09-09 00:00:00,Gyrodinium spp.,Dinoflagellate,567000
+IMOS,2010-09-09 00:00:00,Helicotheca spp.,Diatom,473000
+IMOS,2010-09-09 00:00:00,Lauderia annulata < 70 µm length,Diatom,4726000
+IMOS,2010-09-09 00:00:00,Leptocylindrus danicus,Diatom,2269000
+IMOS,2010-09-09 00:00:00,Navicula cf. 60-80 µm length,Diatom,95000
+IMOS,2010-09-09 00:00:00,Navicula septentrionalis,Diatom,945000
+IMOS,2010-09-09 00:00:00,Noctiluca scintillans,Dinoflagellate,9000
+IMOS,2010-09-09 00:00:00,Proboscia alata,Diatom,189000
+IMOS,2010-09-09 00:00:00,Prorocentrum spp.,Dinoflagellate,95000
+IMOS,2010-09-09 00:00:00,Protoperidinium pellucidum,Dinoflagellate,95000
+IMOS,2010-09-09 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,3592000
+IMOS,2010-09-09 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,2930000
+IMOS,2010-09-09 00:00:00,Rhizosolenia fallax,Diatom,189000
+IMOS,2010-09-09 00:00:00,Rhizosolenia setigera,Diatom,1323000
+IMOS,2010-09-09 00:00:00,Stephanopyxis spp.,Diatom,95000
+IMOS,2010-09-09 00:00:00,Thalassiosira gravida,Diatom,10587000
+IMOS,2010-09-09 00:00:00,Tripos spp.,Dinoflagellate,9000
+IMOS,2012-05-18 00:00:00,Asterionellopsis spp. ~50 µm length,Diatom,373000
+IMOS,2012-05-18 00:00:00,Bacteriastrum spp.,Diatom,3507000
+IMOS,2012-05-18 00:00:00,Cerataulina spp. ~150 µm length,Diatom,373000
+IMOS,2012-05-18 00:00:00,Ceratoneis closterium,Diatom,746000
+IMOS,2012-05-18 00:00:00,Chaetoceros compressus,Diatom,746000
+IMOS,2012-05-18 00:00:00,Chaetoceros curvisetus,Diatom,709000
+IMOS,2012-05-18 00:00:00,Chaetoceros danicus,Diatom,112000
+IMOS,2012-05-18 00:00:00,Chaetoceros decipiens < 15 µm cell width,Diatom,784000
+IMOS,2012-05-18 00:00:00,Chaetoceros lorenzianus,Diatom,634000
+IMOS,2012-05-18 00:00:00,Chaetoceros peruvianus < 40 µm cell width,Diatom,149000
+IMOS,2012-05-18 00:00:00,Chaetoceros spp.,Diatom,709000
+IMOS,2012-05-18 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,149000
+IMOS,2012-05-18 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,2910000
+IMOS,2012-05-18 00:00:00,Climacodium spp.,Diatom,784000
+IMOS,2012-05-18 00:00:00,Corethron pennatum,Diatom,112000
+IMOS,2012-05-18 00:00:00,Coscinodiscus radiatus,Diatom,37000
+IMOS,2012-05-18 00:00:00,Dactyliosolen fragilissimus,Diatom,261000
+IMOS,2012-05-18 00:00:00,Dactyliosolen phuketensis,Diatom,560000
+IMOS,2012-05-18 00:00:00,Detonula pumila,Diatom,224000
+IMOS,2012-05-18 00:00:00,Guinardia cylindrus,Diatom,37000
+IMOS,2012-05-18 00:00:00,Guinardia delicatula,Diatom,37000
+IMOS,2012-05-18 00:00:00,Guinardia flaccida <150 µm length,Diatom,75000
+IMOS,2012-05-18 00:00:00,Guinardia striata,Diatom,2462000
+IMOS,2012-05-18 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,75000
+IMOS,2012-05-18 00:00:00,Gyrodinium spp.,Dinoflagellate,75000
+IMOS,2012-05-18 00:00:00,Hemiaulus spp.,Diatom,448000
+IMOS,2012-05-18 00:00:00,Lauderia annulata < 70 µm length,Diatom,224000
+IMOS,2012-05-18 00:00:00,Leptocylindrus danicus,Diatom,4739000
+IMOS,2012-05-18 00:00:00,Leptocylindrus mediterraneus,Diatom,75000
+IMOS,2012-05-18 00:00:00,Leptocylindrus minimus,Diatom,1978000
+IMOS,2012-05-18 00:00:00,Navicula cf. 100-120 µm length,Diatom,37000
+IMOS,2012-05-18 00:00:00,Navicula cf. 40-60 µm length,Diatom,75000
+IMOS,2012-05-18 00:00:00,Navicula septentrionalis,Diatom,149000
+IMOS,2012-05-18 00:00:00,Phalacroma rotundatum,Dinoflagellate,37000
+IMOS,2012-05-18 00:00:00,Pleurosigma spp. < 150 µm,Diatom,112000
+IMOS,2012-05-18 00:00:00,Proboscia alata,Diatom,75000
+IMOS,2012-05-18 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,7836000
+IMOS,2012-05-18 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,1903000
+IMOS,2012-05-18 00:00:00,Pseudosolenia spp. ~30 µm cell width,Diatom,75000
+IMOS,2012-05-18 00:00:00,Pseudosolenia spp. ~60 µm cell width,Diatom,75000
+IMOS,2012-05-18 00:00:00,Rhizosolenia imbricata,Diatom,485000
+IMOS,2012-05-18 00:00:00,Rhizosolenia setigera,Diatom,896000
+IMOS,2012-05-18 00:00:00,Skeletonema spp.,Diatom,112000
+IMOS,2012-05-18 00:00:00,Thalassionema spp. < 100 µm length,Diatom,597000
+IMOS,2012-05-18 00:00:00,Thalassionema spp. > 100 µm length,Diatom,112000
+IMOS,2012-05-18 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,75000
+IMOS,2012-05-18 00:00:00,Thalassiothrix spp.,Diatom,75000
+IMOS,2012-05-18 00:00:00,Trichodesmium spp.,Cyanobacteria,37000
+IMOS,2012-05-18 00:00:00,Tripos trichoceros,Dinoflagellate,37000
+IMOS,2009-02-24 00:00:00,Cerataulina pelagica,Diatom,2111000
+IMOS,2009-02-24 00:00:00,Ceratoneis closterium,Diatom,444000
+IMOS,2009-02-24 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,1389000
+IMOS,2009-02-24 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,556000
+IMOS,2009-02-24 00:00:00,Dactyliosolen fragilissimus,Diatom,944000
+IMOS,2009-02-24 00:00:00,Dinophysis spp.,Dinoflagellate,111000
+IMOS,2009-02-24 00:00:00,Guinardia delicatula,Diatom,778000
+IMOS,2009-02-24 00:00:00,Guinardia striata,Diatom,722000
+IMOS,2009-02-24 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,222000
+IMOS,2009-02-24 00:00:00,Helicotheca spp.,Diatom,167000
+IMOS,2009-02-24 00:00:00,Hemiaulus spp.,Diatom,222000
+IMOS,2009-02-24 00:00:00,Lauderia annulata < 70 µm length,Diatom,111000
+IMOS,2009-02-24 00:00:00,Leptocylindrus danicus,Diatom,9556000
+IMOS,2009-02-24 00:00:00,Pleurosigma spp. < 150 µm,Diatom,111000
+IMOS,2009-02-24 00:00:00,Prorocentrum spp.,Dinoflagellate,111000
+IMOS,2009-02-24 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,1556000
+IMOS,2009-02-24 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,111000
+IMOS,2009-02-24 00:00:00,Rhizosolenia fallax,Diatom,111000
+IMOS,2009-02-24 00:00:00,Skeletonema spp.,Diatom,12222000
+IMOS,2009-02-24 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,111000
+IMOS,2009-02-24 00:00:00,Trichodesmium spp.,Cyanobacteria,111000
+IMOS,2009-09-21 00:00:00,Ceratoneis closterium,Diatom,6099000
+IMOS,2009-09-21 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,12452000
+IMOS,2009-09-21 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,23887000
+IMOS,2009-09-21 00:00:00,Dactyliosolen fragilissimus,Diatom,1779000
+IMOS,2009-09-21 00:00:00,Eucampia spp. <100 µm cell length,Diatom,3049000
+IMOS,2009-09-21 00:00:00,Guinardia delicatula,Diatom,8132000
+IMOS,2009-09-21 00:00:00,Gyrodinium spp.,Dinoflagellate,762000
+IMOS,2009-09-21 00:00:00,Leptocylindrus danicus,Diatom,33289000
+IMOS,2009-09-21 00:00:00,Leptocylindrus minimus,Diatom,24141000
+IMOS,2009-09-21 00:00:00,Meuniera membranacea,Diatom,1016000
+IMOS,2009-09-21 00:00:00,Navicula cf. 40-60 µm length,Diatom,254000
+IMOS,2009-09-21 00:00:00,Noctiluca scintillans,Dinoflagellate,10000
+IMOS,2009-09-21 00:00:00,Pleurosigma spp. < 150 µm,Diatom,508000
+IMOS,2009-09-21 00:00:00,Proboscia alata,Diatom,1016000
+IMOS,2009-09-21 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,10165000
+IMOS,2009-09-21 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,9148000
+IMOS,2009-09-21 00:00:00,Rhizosolenia fallax,Diatom,254000
+IMOS,2009-09-21 00:00:00,Rhizosolenia setigera,Diatom,2795000
+IMOS,2009-09-21 00:00:00,Skeletonema spp.,Diatom,7623000
+IMOS,2009-09-21 00:00:00,Thalassiosira gravida,Diatom,762000
+IMOS,2009-09-21 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,1271000
+IMOS,2009-09-21 00:00:00,Tripos spp.,Dinoflagellate,254000
+IMOS,2009-09-25 00:00:00,Ceratoneis closterium,Diatom,1936000
+IMOS,2009-09-25 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,2420000
+IMOS,2009-09-25 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,3872000
+IMOS,2009-09-25 00:00:00,Dactyliosolen fragilissimus,Diatom,2420000
+IMOS,2009-09-25 00:00:00,Eucampia spp. <100 µm cell length,Diatom,968000
+IMOS,2009-09-25 00:00:00,Guinardia delicatula,Diatom,11133000
+IMOS,2009-09-25 00:00:00,Guinardia striata,Diatom,968000
+IMOS,2009-09-25 00:00:00,Gyrodinium spp.,Dinoflagellate,968000
+IMOS,2009-09-25 00:00:00,Leptocylindrus danicus,Diatom,12101000
+IMOS,2009-09-25 00:00:00,Leptocylindrus minimus,Diatom,96805000
+IMOS,2009-09-25 00:00:00,Meuniera membranacea,Diatom,2420000
+IMOS,2009-09-25 00:00:00,Noctiluca scintillans,Dinoflagellate,39000
+IMOS,2009-09-25 00:00:00,Proboscia alata,Diatom,1936000
+IMOS,2009-09-25 00:00:00,Protoperidinium spp.,Dinoflagellate,484000
+IMOS,2009-09-25 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,58083000
+IMOS,2009-09-25 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,150048000
+IMOS,2009-09-25 00:00:00,Rhizosolenia fallax,Diatom,2904000
+IMOS,2009-09-25 00:00:00,Rhizosolenia setigera,Diatom,1452000
+IMOS,2009-09-25 00:00:00,Stephanopyxis spp.,Diatom,19000
+IMOS,2009-09-25 00:00:00,Thalassiosira gravida,Diatom,2904000
+IMOS,2009-09-25 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,1452000
+IMOS,2010-05-11 00:00:00,Actinocyclus spp.,Diatom,25000
+IMOS,2010-05-11 00:00:00,Bacteriastrum spp.,Diatom,275000
+IMOS,2010-05-11 00:00:00,Ceratoneis closterium,Diatom,1225000
+IMOS,2010-05-11 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,1075000
+IMOS,2010-05-11 00:00:00,Climacodium spp.,Diatom,200000
+IMOS,2010-05-11 00:00:00,Dactyliosolen fragilissimus,Diatom,75000
+IMOS,2010-05-11 00:00:00,Gyrodinium spp.,Dinoflagellate,50000
+IMOS,2010-05-11 00:00:00,Helicotheca spp.,Diatom,25000
+IMOS,2010-05-11 00:00:00,Leptocylindrus danicus,Diatom,75000
+IMOS,2010-05-11 00:00:00,Leptocylindrus mediterraneus,Diatom,25000
+IMOS,2010-05-11 00:00:00,Leptocylindrus minimus,Diatom,100000
+IMOS,2010-05-11 00:00:00,Oxytoxum laticeps,Dinoflagellate,25000
+IMOS,2010-05-11 00:00:00,Pleurosigma spp. < 150 µm,Diatom,50000
+IMOS,2010-05-11 00:00:00,Proboscia alata,Diatom,50000
+IMOS,2010-05-11 00:00:00,Protoperidinium pellucidum,Dinoflagellate,25000
+IMOS,2010-05-11 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,1275000
+IMOS,2010-05-11 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,125000
+IMOS,2010-05-11 00:00:00,Rhizosolenia setigera,Diatom,100000
+IMOS,2010-05-11 00:00:00,Scrippsiella spp.,Dinoflagellate,25000
+IMOS,2010-05-11 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,75000
+IMOS,2010-05-11 00:00:00,Trichodesmium spp.,Cyanobacteria,350000
+IMOS,2010-07-02 00:00:00,Bacteriastrum spp.,Diatom,89000
+IMOS,2010-07-02 00:00:00,Cerataulina pelagica,Diatom,22000
+IMOS,2010-07-02 00:00:00,Ceratoneis closterium,Diatom,245000
+IMOS,2010-07-02 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,45000
+IMOS,2010-07-02 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,646000
+IMOS,2010-07-02 00:00:00,Dactyliosolen fragilissimus,Diatom,156000
+IMOS,2010-07-02 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,67000
+IMOS,2010-07-02 00:00:00,Gyrodinium spp.,Dinoflagellate,89000
+IMOS,2010-07-02 00:00:00,Hemiaulus spp.,Diatom,22000
+IMOS,2010-07-02 00:00:00,Navicula cf. 20-40 µm length,Diatom,223000
+IMOS,2010-07-02 00:00:00,Navicula septentrionalis,Diatom,156000
+IMOS,2010-07-02 00:00:00,Oxytoxum spp.,Dinoflagellate,22000
+IMOS,2010-07-02 00:00:00,Pleurosigma spp. < 150 µm,Diatom,22000
+IMOS,2010-07-02 00:00:00,Proboscia alata,Diatom,45000
+IMOS,2010-07-02 00:00:00,Prorocentrum spp.,Dinoflagellate,89000
+IMOS,2010-07-02 00:00:00,Protoperidinium pellucidum,Dinoflagellate,22000
+IMOS,2010-07-02 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,334000
+IMOS,2010-07-02 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,22000
+IMOS,2010-07-02 00:00:00,Rhizosolenia setigera,Diatom,22000
+IMOS,2010-07-02 00:00:00,Thalassiosira gravida,Diatom,45000
+IMOS,2010-07-02 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,67000
+IMOS,2010-07-02 00:00:00,Trichodesmium spp.,Cyanobacteria,22000
+IMOS,2010-08-18 00:00:00,Actinocyclus spp.,Diatom,45000
+IMOS,2010-08-18 00:00:00,Bacteriastrum spp.,Diatom,45000
+IMOS,2010-08-18 00:00:00,Cerataulina pelagica,Diatom,45000
+IMOS,2010-08-18 00:00:00,Ceratoneis closterium,Diatom,201000
+IMOS,2010-08-18 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,201000
+IMOS,2010-08-18 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,918000
+IMOS,2010-08-18 00:00:00,Dactyliosolen fragilissimus,Diatom,537000
+IMOS,2010-08-18 00:00:00,Guinardia delicatula,Diatom,157000
+IMOS,2010-08-18 00:00:00,Guinardia flaccida <150 µm length,Diatom,90000
+IMOS,2010-08-18 00:00:00,Guinardia striata,Diatom,649000
+IMOS,2010-08-18 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,67000
+IMOS,2010-08-18 00:00:00,Gyrodinium spp.,Dinoflagellate,90000
+IMOS,2010-08-18 00:00:00,Leptocylindrus danicus,Diatom,179000
+IMOS,2010-08-18 00:00:00,Navicula cf. 20-40 µm length,Diatom,90000
+IMOS,2010-08-18 00:00:00,Oxytoxum spp.,Dinoflagellate,22000
+IMOS,2010-08-18 00:00:00,Pleurosigma spp. < 150 µm,Diatom,45000
+IMOS,2010-08-18 00:00:00,Prorocentrum spp.,Dinoflagellate,45000
+IMOS,2010-08-18 00:00:00,Protoperidinium pellucidum,Dinoflagellate,22000
+IMOS,2010-08-18 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,582000
+IMOS,2010-08-18 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,45000
+IMOS,2010-08-18 00:00:00,Rhizosolenia fallax,Diatom,134000
+IMOS,2010-08-18 00:00:00,Scrippsiella spp.,Dinoflagellate,22000
+IMOS,2010-08-18 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,425000
+IMOS,2010-08-18 00:00:00,Tripos fusus type,Dinoflagellate,22000
+IMOS,2010-10-14 00:00:00,Bacteriastrum spp.,Diatom,48000
+IMOS,2010-10-14 00:00:00,Cerataulina pelagica,Diatom,71000
+IMOS,2010-10-14 00:00:00,Ceratoneis closterium,Diatom,1501000
+IMOS,2010-10-14 00:00:00,Climacodium spp.,Diatom,667000
+IMOS,2010-10-14 00:00:00,Dactyliosolen fragilissimus,Diatom,71000
+IMOS,2010-10-14 00:00:00,Dinophysis tripos,Dinoflagellate,119000
+IMOS,2010-10-14 00:00:00,Fragilariopsis spp.,Diatom,48000
+IMOS,2010-10-14 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,48000
+IMOS,2010-10-14 00:00:00,Gyrodinium spp.,Dinoflagellate,48000
+IMOS,2010-10-14 00:00:00,Helicotheca spp.,Diatom,24000
+IMOS,2010-10-14 00:00:00,Leptocylindrus danicus,Diatom,48000
+IMOS,2010-10-14 00:00:00,Leptocylindrus mediterraneus,Diatom,95000
+IMOS,2010-10-14 00:00:00,Leptocylindrus minimus,Diatom,214000
+IMOS,2010-10-14 00:00:00,Navicula cf. 60-80 µm length,Diatom,24000
+IMOS,2010-10-14 00:00:00,Proboscia alata,Diatom,619000
+IMOS,2010-10-14 00:00:00,Prorocentrum spp.,Dinoflagellate,24000
+IMOS,2010-10-14 00:00:00,Protoperidinium oceanicum,Dinoflagellate,24000
+IMOS,2010-10-14 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,810000
+IMOS,2010-10-14 00:00:00,Pseudosolenia spp. ~30 µm cell width,Diatom,48000
+IMOS,2010-10-14 00:00:00,Rhizosolenia fallax,Diatom,119000
+IMOS,2010-10-14 00:00:00,Scrippsiella spp.,Dinoflagellate,24000
+IMOS,2010-10-14 00:00:00,Trichodesmium spp.,Cyanobacteria,2597000
+IMOS,2010-10-14 00:00:00,Tripos horridus,Dinoflagellate,71000
+IMOS,2011-03-30 00:00:00,Bacteriastrum spp.,Diatom,124000
+IMOS,2011-03-30 00:00:00,Ceratoneis closterium,Diatom,618000
+IMOS,2011-03-30 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,148000
+IMOS,2011-03-30 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,965000
+IMOS,2011-03-30 00:00:00,Cyanobacteria cluster,Cyanobacteria,1484000
+IMOS,2011-03-30 00:00:00,Dactyliosolen fragilissimus,Diatom,2424000
+IMOS,2011-03-30 00:00:00,Dactyliosolen phuketensis,Diatom,49000
+IMOS,2011-03-30 00:00:00,Guinardia striata,Diatom,49000
+IMOS,2011-03-30 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,49000
+IMOS,2011-03-30 00:00:00,Gyrodinium spp.,Dinoflagellate,25000
+IMOS,2011-03-30 00:00:00,Hemiaulus spp.,Diatom,49000
+IMOS,2011-03-30 00:00:00,Leptocylindrus danicus,Diatom,4602000
+IMOS,2011-03-30 00:00:00,Leptocylindrus mediterraneus,Diatom,198000
+IMOS,2011-03-30 00:00:00,Leptocylindrus minimus,Diatom,1831000
+IMOS,2011-03-30 00:00:00,Navicula septentrionalis,Diatom,173000
+IMOS,2011-03-30 00:00:00,Oxytoxum spp.,Dinoflagellate,49000
+IMOS,2011-03-30 00:00:00,Proboscia alata,Diatom,74000
+IMOS,2011-03-30 00:00:00,Prorocentrum spp.,Dinoflagellate,74000
+IMOS,2011-03-30 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,3909000
+IMOS,2011-03-30 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,990000
+IMOS,2011-03-30 00:00:00,Rhizosolenia robusta,Diatom,25000
+IMOS,2011-03-30 00:00:00,Rhizosolenia setigera,Diatom,49000
+IMOS,2011-03-30 00:00:00,Scrippsiella spp.,Dinoflagellate,74000
+IMOS,2011-03-30 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,371000
+IMOS,2011-03-30 00:00:00,Thalassiothrix spp.,Diatom,25000
+IMOS,2011-03-30 00:00:00,Trichodesmium spp.,Cyanobacteria,396000
+IMOS,2011-07-18 00:00:00,Asterionellopsis spp. ~50 µm length,Diatom,1697000
+IMOS,2011-07-18 00:00:00,Bacteriastrum spp.,Diatom,4242000
+IMOS,2011-07-18 00:00:00,Bellerochea spp.,Diatom,424000
+IMOS,2011-07-18 00:00:00,Ceratoneis closterium,Diatom,2969000
+IMOS,2011-07-18 00:00:00,Chaetoceros decipiens < 15 µm cell width,Diatom,1527000
+IMOS,2011-07-18 00:00:00,Chaetoceros lorenzianus,Diatom,170000
+IMOS,2011-07-18 00:00:00,Chaetoceros peruvianus < 40 µm cell width,Diatom,424000
+IMOS,2011-07-18 00:00:00,Chaetoceros spp. 10-20 µm,Diatom,509000
+IMOS,2011-07-18 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,5768000
+IMOS,2011-07-18 00:00:00,Climacodium spp.,Diatom,339000
+IMOS,2011-07-18 00:00:00,Corethron pennatum,Diatom,339000
+IMOS,2011-07-18 00:00:00,Coscinodiscus spp.,Diatom,254000
+IMOS,2011-07-18 00:00:00,Dactyliosolen fragilissimus,Diatom,848000
+IMOS,2011-07-18 00:00:00,Dinophysis spp.,Dinoflagellate,85000
+IMOS,2011-07-18 00:00:00,Ditylum brightwellii < 40 µm width,Diatom,85000
+IMOS,2011-07-18 00:00:00,Gonyaulax spp.,Dinoflagellate,424000
+IMOS,2011-07-18 00:00:00,Guinardia delicatula,Diatom,254000
+IMOS,2011-07-18 00:00:00,Guinardia striata,Diatom,1188000
+IMOS,2011-07-18 00:00:00,Gyrodinium spp.,Dinoflagellate,42000
+IMOS,2011-07-18 00:00:00,Helicotheca spp.,Diatom,763000
+IMOS,2011-07-18 00:00:00,Hemiaulus spp.,Diatom,170000
+IMOS,2011-07-18 00:00:00,Lauderia annulata < 70 µm length,Diatom,254000
+IMOS,2011-07-18 00:00:00,Leptocylindrus danicus,Diatom,3139000
+IMOS,2011-07-18 00:00:00,Leptocylindrus minimus,Diatom,509000
+IMOS,2011-07-18 00:00:00,Navicula cf. 140-160 µm length,Diatom,85000
+IMOS,2011-07-18 00:00:00,Navicula septentrionalis,Diatom,424000
+IMOS,2011-07-18 00:00:00,Oxytoxum spp.,Dinoflagellate,170000
+IMOS,2011-07-18 00:00:00,Pleurosigma spp. < 150 µm,Diatom,85000
+IMOS,2011-07-18 00:00:00,Prorocentrum spp.,Dinoflagellate,85000
+IMOS,2011-07-18 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,4750000
+IMOS,2011-07-18 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,1357000
+IMOS,2011-07-18 00:00:00,Pseudosolenia spp. ~60 µm cell width,Diatom,339000
+IMOS,2011-07-18 00:00:00,Rhizosolenia robusta,Diatom,8000
+IMOS,2011-07-18 00:00:00,Rhizosolenia setigera,Diatom,254000
+IMOS,2011-07-18 00:00:00,Thalassionema spp. > 100 µm length,Diatom,1781000
+IMOS,2011-07-18 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,509000
+IMOS,2011-07-18 00:00:00,Thalassiothrix spp.,Diatom,339000
+IMOS,2011-07-18 00:00:00,Trichodesmium spp.,Cyanobacteria,8000
+IMOS,2011-07-18 00:00:00,Tripos fusus,Dinoflagellate,85000
+IMOS,2011-07-18 00:00:00,Tripos muelleri,Dinoflagellate,8000
+IMOS,2011-08-29 00:00:00,Asterionellopsis spp. ~50 µm length,Diatom,1368000
+IMOS,2011-08-29 00:00:00,Bacteriastrum spp.,Diatom,132000
+IMOS,2011-08-29 00:00:00,Cerataulina pelagica,Diatom,44000
+IMOS,2011-08-29 00:00:00,Ceratoneis closterium,Diatom,750000
+IMOS,2011-08-29 00:00:00,Chaetoceros curvisetus,Diatom,1994000
+IMOS,2011-08-29 00:00:00,Chaetoceros danicus,Diatom,88000
+IMOS,2011-08-29 00:00:00,Chaetoceros decipiens < 15 µm cell width,Diatom,353000
+IMOS,2011-08-29 00:00:00,Chaetoceros peruvianus < 40 µm cell width,Diatom,44000
+IMOS,2011-08-29 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,309000
+IMOS,2011-08-29 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,2029000
+IMOS,2011-08-29 00:00:00,Chaetoceros subtilis,Diatom,1951000
+IMOS,2011-08-29 00:00:00,Corethron pennatum,Diatom,88000
+IMOS,2011-08-29 00:00:00,Coscinodiscus spp.,Diatom,309000
+IMOS,2011-08-29 00:00:00,Dactyliosolen fragilissimus,Diatom,132000
+IMOS,2011-08-29 00:00:00,Ditylum brightwellii > 40 µm width,Diatom,220000
+IMOS,2011-08-29 00:00:00,Guinardia delicatula,Diatom,1544000
+IMOS,2011-08-29 00:00:00,Guinardia flaccida <150 µm length,Diatom,132000
+IMOS,2011-08-29 00:00:00,Guinardia striata,Diatom,264000
+IMOS,2011-08-29 00:00:00,Gyrodinium spp.,Dinoflagellate,221000
+IMOS,2011-08-29 00:00:00,Helicotheca spp.,Diatom,353000
+IMOS,2011-08-29 00:00:00,Lauderia annulata < 70 µm length,Diatom,1500000
+IMOS,2011-08-29 00:00:00,Leptocylindrus danicus,Diatom,176000
+IMOS,2011-08-29 00:00:00,Leptocylindrus minimus,Diatom,176000
+IMOS,2011-08-29 00:00:00,Navicula septentrionalis,Diatom,309000
+IMOS,2011-08-29 00:00:00,Pleurosigma spp. < 150 µm,Diatom,88000
+IMOS,2011-08-29 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,1897000
+IMOS,2011-08-29 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,1853000
+IMOS,2011-08-29 00:00:00,Rhizosolenia setigera,Diatom,309000
+IMOS,2011-08-29 00:00:00,Scrippsiella spp.,Dinoflagellate,44000
+IMOS,2011-08-29 00:00:00,Skeletonema spp.,Diatom,706000
+IMOS,2011-08-29 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,4588000
+IMOS,2011-09-15 00:00:00,Amphidinium spp. <30 µm cell height,Dinoflagellate,189000
+IMOS,2011-09-15 00:00:00,Asterionellopsis spp. ~50 µm length,Diatom,662000
+IMOS,2011-09-15 00:00:00,Bacteriastrum spp.,Diatom,2836000
+IMOS,2011-09-15 00:00:00,Cerataulina pelagica,Diatom,189000
+IMOS,2011-09-15 00:00:00,Ceratoneis closterium,Diatom,567000
+IMOS,2011-09-15 00:00:00,Chaetoceros decipiens < 15 µm cell width,Diatom,10871000
+IMOS,2011-09-15 00:00:00,Chaetoceros didymus,Diatom,9925000
+IMOS,2011-09-15 00:00:00,Chaetoceros lorenzianus,Diatom,5672000
+IMOS,2011-09-15 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,4726000
+IMOS,2011-09-15 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,114851000
+IMOS,2011-09-15 00:00:00,Dinophysis spp.,Dinoflagellate,95000
+IMOS,2011-09-15 00:00:00,Gonyaulax spp.,Dinoflagellate,95000
+IMOS,2011-09-15 00:00:00,Guinardia delicatula,Diatom,473000
+IMOS,2011-09-15 00:00:00,Guinardia flaccida <150 µm length,Diatom,284000
+IMOS,2011-09-15 00:00:00,Guinardia striata,Diatom,95000
+IMOS,2011-09-15 00:00:00,Gyrodinium spp.,Dinoflagellate,662000
+IMOS,2011-09-15 00:00:00,Lauderia annulata < 70 µm length,Diatom,95000
+IMOS,2011-09-15 00:00:00,Leptocylindrus danicus,Diatom,2741000
+IMOS,2011-09-15 00:00:00,Leptocylindrus minimus,Diatom,1891000
+IMOS,2011-09-15 00:00:00,Navicula septentrionalis,Diatom,57000
+IMOS,2011-09-15 00:00:00,Oxytoxum spp.,Dinoflagellate,95000
+IMOS,2011-09-15 00:00:00,Pleurosigma spp. < 150 µm,Diatom,95000
+IMOS,2011-09-15 00:00:00,Proboscia alata,Diatom,473000
+IMOS,2011-09-15 00:00:00,Prorocentrum spp.,Dinoflagellate,189000
+IMOS,2011-09-15 00:00:00,Protoperidinium spp.,Dinoflagellate,189000
+IMOS,2011-09-15 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,1418000
+IMOS,2011-09-15 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,945000
+IMOS,2011-09-15 00:00:00,Scrippsiella spp.,Dinoflagellate,473000
+IMOS,2011-09-15 00:00:00,Skeletonema spp.,Diatom,851000
+IMOS,2011-09-15 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,378000
+IMOS,2011-09-15 00:00:00,Tripos fusus,Dinoflagellate,189000
+IMOS,2012-07-17 00:00:00,Asterionellopsis spp. ~50 µm length,Diatom,153266330
+IMOS,2012-07-17 00:00:00,Bacteriastrum spp.,Diatom,502510
+IMOS,2012-07-17 00:00:00,Ceratoneis closterium,Diatom,100500
+IMOS,2012-07-17 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,4924620
+IMOS,2012-07-17 00:00:00,Coscinodiscus spp. 100-150 µm,Diatom,100500
+IMOS,2012-07-17 00:00:00,Dactyliosolen phuketensis,Diatom,402010
+IMOS,2012-07-17 00:00:00,Dictyocha fibula,Silicoflagellate,201010
+IMOS,2012-07-17 00:00:00,Ditylum brightwellii < 40 µm width,Diatom,1005030
+IMOS,2012-07-17 00:00:00,Guinardia flaccida <150 µm length,Diatom,11859300
+IMOS,2012-07-17 00:00:00,Guinardia striata,Diatom,402010
+IMOS,2012-07-17 00:00:00,Helicotheca spp.,Diatom,804020
+IMOS,2012-07-17 00:00:00,Lauderia annulata < 70 µm length,Diatom,2713570
+IMOS,2012-07-17 00:00:00,Meuniera membranacea,Diatom,1407040
+IMOS,2012-07-17 00:00:00,Nitzschia cf. bicapitata,Diatom,100500
+IMOS,2012-07-17 00:00:00,Pleurosigma spp. < 150 µm,Diatom,502510
+IMOS,2012-07-17 00:00:00,Proboscia alata,Diatom,100500
+IMOS,2012-07-17 00:00:00,Prorocentrum spp.,Dinoflagellate,100500
+IMOS,2012-07-17 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,502510
+IMOS,2012-07-17 00:00:00,Rhizosolenia imbricata group,Diatom,100500
+IMOS,2012-07-17 00:00:00,Rhizosolenia setigera group,Diatom,301510
+IMOS,2012-07-17 00:00:00,Strombidium spp.,Ciliate,502510
+IMOS,2012-07-17 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,5829150
+IMOS,2012-07-17 00:00:00,Trichodesmium spp.,Cyanobacteria,14271360
+IMOS,2012-07-17 00:00:00,Tripos fusus,Dinoflagellate,100500
+IMOS,2012-08-22 00:00:00,Asterionellopsis spp. ~50 µm length,Diatom,4923860
+IMOS,2012-08-22 00:00:00,Bacteriastrum spp.,Diatom,25380
+IMOS,2012-08-22 00:00:00,Ceratoneis closterium,Diatom,203050
+IMOS,2012-08-22 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,812180
+IMOS,2012-08-22 00:00:00,Coccolithophore cf.,Coccolithophore,126900
+IMOS,2012-08-22 00:00:00,Cyanobacteria cluster,Cyanobacteria,25380710
+IMOS,2012-08-22 00:00:00,Cyanobacteria coccoid chain,Cyanobacteria,101520
+IMOS,2012-08-22 00:00:00,Dactyliosolen fragillissimus <150 µm length,Diatom,50760
+IMOS,2012-08-22 00:00:00,Guinardia flaccida <150 µm length,Diatom,76140
+IMOS,2012-08-22 00:00:00,Guinardia striata,Diatom,279190
+IMOS,2012-08-22 00:00:00,Karenia spp.,Dinoflagellate,50760
+IMOS,2012-08-22 00:00:00,Leptocylindrus danicus,Diatom,253810
+IMOS,2012-08-22 00:00:00,Leptocylindrus minimus,Diatom,152280
+IMOS,2012-08-22 00:00:00,Meuniera membranacea,Diatom,152280
+IMOS,2012-08-22 00:00:00,Navicula cf. 40-60 µm length,Diatom,203050
+IMOS,2012-08-22 00:00:00,Nitzschia bicapitata,Diatom,583760
+IMOS,2012-08-22 00:00:00,Oxytoxum spp.,Dinoflagellate,101520
+IMOS,2012-08-22 00:00:00,Pleurosigma spp. < 150 µm,Diatom,76140
+IMOS,2012-08-22 00:00:00,Prorocentrum spp.,Dinoflagellate,203050
+IMOS,2012-08-22 00:00:00,Protoperidinium spp.,Dinoflagellate,25380
+IMOS,2012-08-22 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,101520
+IMOS,2012-08-22 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,456850
+IMOS,2012-08-22 00:00:00,Rhizosolenia setigera group,Diatom,50760
+IMOS,2012-08-22 00:00:00,Rhizosolenia spp.,Diatom,279190
+IMOS,2012-08-22 00:00:00,Scrippsiella spp.,Dinoflagellate,50760
+IMOS,2012-08-22 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,203050
+IMOS,2012-08-22 00:00:00,Tripos fusus,Dinoflagellate,25380
+IMOS,2012-10-10 00:00:00,Amphora spp.,Diatom,502510
+IMOS,2012-10-10 00:00:00,Cerataulina spp. ~150 µm length,Diatom,2010050
+IMOS,2012-10-10 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,1005030
+IMOS,2012-10-10 00:00:00,Coccolithophore cf.,Coccolithophore,3015080
+IMOS,2012-10-10 00:00:00,Guinardia flaccida <150 µm length,Diatom,6030150
+IMOS,2012-10-10 00:00:00,Gyrodinium spp.,Dinoflagellate,502510
+IMOS,2012-10-10 00:00:00,Leptocylindrus danicus,Diatom,187300140
+IMOS,2012-10-10 00:00:00,Leptocylindrus minimus,Diatom,1507540
+IMOS,2012-10-10 00:00:00,Mesodinium rubrum,Ciliate,2010050
+IMOS,2012-10-10 00:00:00,Navicula cf. 20-40 µm length,Diatom,502510
+IMOS,2012-10-10 00:00:00,Prorocentrum spp.,Dinoflagellate,502510
+IMOS,2012-10-10 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,502510
+IMOS,2012-10-10 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,23618090
+IMOS,2012-10-10 00:00:00,Scrippsiella spp.,Dinoflagellate,502510
+IMOS,2012-10-10 00:00:00,Strombidium spp.,Ciliate,1507540
+IMOS,2012-10-10 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,23115580
+IMOS,2012-10-10 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,3015080
+IMOS,2012-10-10 00:00:00,Thalassiosira spp. 40-60 µm,Diatom,1005030
+IMOS,2012-09-18 00:00:00,Ceratoneis closterium,Diatom,843880
+IMOS,2012-09-18 00:00:00,Chaetoceros spp. 10-20 µm,Diatom,140650
+IMOS,2012-09-18 00:00:00,Dinoflagellate cyst,Dinoflagellate,281290
+IMOS,2012-09-18 00:00:00,Leptocylindrus danicus,Diatom,35583680
+IMOS,2012-09-18 00:00:00,Navicula cf. 20-40 µm length,Diatom,140650
+IMOS,2012-09-18 00:00:00,Oxytoxum caudatum,Dinoflagellate,140650
+IMOS,2012-09-18 00:00:00,Oxytoxum parvum,Dinoflagellate,140650
+IMOS,2012-09-18 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,140650
+IMOS,2012-09-18 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,2391000
+IMOS,2012-09-18 00:00:00,Pyrophacus spp.,Dinoflagellate,140650
+IMOS,2012-09-18 00:00:00,Rhizosolenia fallax group,Diatom,140650
+IMOS,2012-09-18 00:00:00,Stephanopyxis spp.,Diatom,140650
+IMOS,2012-09-18 00:00:00,Strombidium spp.,Ciliate,421940
+IMOS,2012-11-21 00:00:00,Ceratoneis closterium,Diatom,5522090
+IMOS,2012-11-21 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,2259040
+IMOS,2012-11-21 00:00:00,Guinardia flaccida <150 µm length,Diatom,251000
+IMOS,2012-11-21 00:00:00,Gyrodinium spp.,Dinoflagellate,502010
+IMOS,2012-11-21 00:00:00,Leptocylindrus danicus,Diatom,2510040
+IMOS,2012-11-21 00:00:00,Navicula cf. 140-160 µm length,Diatom,753010
+IMOS,2012-11-21 00:00:00,Navicula cf. 20-40 µm length,Diatom,1757030
+IMOS,2012-11-21 00:00:00,Navicula cf. 60-80 µm length,Diatom,753010
+IMOS,2012-11-21 00:00:00,Noctiluca scintillans,Dinoflagellate,160640
+IMOS,2012-11-21 00:00:00,Octactis octonaria,Silicoflagellate,251000
+IMOS,2012-11-21 00:00:00,Oxytoxum spp.,Dinoflagellate,502010
+IMOS,2012-11-21 00:00:00,Pleurosigma spp. < 150 µm,Diatom,502010
+IMOS,2012-11-21 00:00:00,Proboscia alata,Diatom,99220410
+IMOS,2012-11-21 00:00:00,Prorocentrum spp.,Dinoflagellate,1004020
+IMOS,2012-11-21 00:00:00,Protoperidinium spp.,Dinoflagellate,251000
+IMOS,2012-11-21 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,753010
+IMOS,2012-11-21 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,753010
+IMOS,2012-11-21 00:00:00,Rhizosolenia setigera group,Diatom,251000
+IMOS,2012-11-21 00:00:00,Scrippsiella spp.,Dinoflagellate,251000
+IMOS,2012-11-21 00:00:00,Thalassiosira spp. 40-60 µm,Diatom,502010
+IMOS,2013-02-28 00:00:00,Asterionellopsis spp. ~50 µm length,Diatom,83955600
+IMOS,2013-02-28 00:00:00,Bacteriastrum spp.,Diatom,403630
+IMOS,2013-02-28 00:00:00,Ceratoneis closterium,Diatom,3027250
+IMOS,2013-02-28 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,2018160
+IMOS,2013-02-28 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,1009080
+IMOS,2013-02-28 00:00:00,Dactyliosolen fragillissimus <150 µm length,Diatom,1210900
+IMOS,2013-02-28 00:00:00,Ditylum brightwellii < 40 µm width,Diatom,201820
+IMOS,2013-02-28 00:00:00,Guinardia flaccida <150 µm length,Diatom,605450
+IMOS,2013-02-28 00:00:00,Guinardia striata,Diatom,1009080
+IMOS,2013-02-28 00:00:00,Hemiaulus spp.,Diatom,201820
+IMOS,2013-02-28 00:00:00,Lauderia annulata < 70 µm length,Diatom,403630
+IMOS,2013-02-28 00:00:00,Leptocylindrus danicus,Diatom,9081740
+IMOS,2013-02-28 00:00:00,Leptocylindrus mediterraneus,Diatom,807270
+IMOS,2013-02-28 00:00:00,Navicula cf. 20-40 µm length,Diatom,605450
+IMOS,2013-02-28 00:00:00,Navicula cf. 40-60 µm length,Diatom,201820
+IMOS,2013-02-28 00:00:00,Nitzschia cf. bicapitata,Diatom,201820
+IMOS,2013-02-28 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,12916250
+IMOS,2013-02-28 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,2421800
+IMOS,2013-02-28 00:00:00,Rhizosolenia setigera group,Diatom,201820
+IMOS,2013-02-28 00:00:00,Skeletonema spp.,Diatom,14732590
+IMOS,2013-02-28 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,403630
+IMOS,2013-02-28 00:00:00,Trichodesmium spp.,Cyanobacteria,15136230
+IMOS,2012-12-19 00:00:00,Ceratoneis closterium,Diatom,405680
+IMOS,2012-12-19 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,26344430
+IMOS,2012-12-19 00:00:00,Corethron pennatum,Diatom,101420
+IMOS,2012-12-19 00:00:00,Dactyliosolen phuketensis,Diatom,608520
+IMOS,2012-12-19 00:00:00,Meuniera membranacea,Diatom,1217040
+IMOS,2012-12-19 00:00:00,Navicula cf. 20-40 µm length,Diatom,1318460
+IMOS,2012-12-19 00:00:00,Noctiluca scintillans,Dinoflagellate,70990
+IMOS,2012-12-19 00:00:00,Octactis octonaria,Silicoflagellate,202840
+IMOS,2012-12-19 00:00:00,Prorocentrum spp.,Dinoflagellate,304260
+IMOS,2012-12-19 00:00:00,Protoperidinium spp.,Dinoflagellate,1318460
+IMOS,2012-12-19 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,511156190
+IMOS,2012-12-19 00:00:00,Strombidium spp.,Ciliate,304260
+IMOS,2012-12-19 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,304260
+IMOS,2012-12-19 00:00:00,Tripos furca,Dinoflagellate,202840
+IMOS,2013-06-12 00:00:00,Bacteriastrum spp.,Diatom,24930
+IMOS,2013-06-12 00:00:00,Ceratoneis closterium,Diatom,24930
+IMOS,2013-06-12 00:00:00,Ciliate (Inc. tintinnid),Ciliate,648060
+IMOS,2013-06-12 00:00:00,Climacocylis spp.,Ciliate,24930
+IMOS,2013-06-12 00:00:00,Dictyocha fibula,Silicoflagellate,224330
+IMOS,2013-06-12 00:00:00,Guinardia flaccida <150 µm length,Diatom,74780
+IMOS,2013-06-12 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,348950
+IMOS,2013-06-12 00:00:00,Gyrodinium spp.,Dinoflagellate,299100
+IMOS,2013-06-12 00:00:00,Mesodinium rubrum,Ciliate,822530
+IMOS,2013-06-12 00:00:00,Navicula cf. 40-60 µm length,Diatom,124630
+IMOS,2013-06-12 00:00:00,Navicula cf. 60-80 µm length,Diatom,49850
+IMOS,2013-06-12 00:00:00,Oxytoxum spp.,Dinoflagellate,99700
+IMOS,2013-06-12 00:00:00,Protoperidinium spp.,Dinoflagellate,49850
+IMOS,2013-06-12 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,199400
+IMOS,2013-06-12 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,74780
+IMOS,2013-06-12 00:00:00,Strombidium spp.,Ciliate,174480
+IMOS,2013-06-12 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,5009970
+IMOS,2013-06-12 00:00:00,Trichodesmium spp.,Cyanobacteria,822530
+IMOS,2013-06-12 00:00:00,Tripos fusus,Dinoflagellate,24930
+IMOS,2013-06-12 00:00:00,Undella spp.,Ciliate,74780
+IMOS,2013-07-26 00:00:00,Asterionellopsis spp. ~50 µm length,Diatom,50100
+IMOS,2013-07-26 00:00:00,Bacteriastrum spp.,Diatom,100200
+IMOS,2013-07-26 00:00:00,Ceratoneis closterium,Diatom,275550
+IMOS,2013-07-26 00:00:00,Chaetoceros atlanticus,Diatom,175350
+IMOS,2013-07-26 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,75150
+IMOS,2013-07-26 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,1002000
+IMOS,2013-07-26 00:00:00,Ciliate (Inc. tintinnid),Ciliate,275550
+IMOS,2013-07-26 00:00:00,Coccolithophore cf.,Coccolithophore,325650
+IMOS,2013-07-26 00:00:00,Dactyliosolen fragillissimus <150 µm length,Diatom,225450
+IMOS,2013-07-26 00:00:00,Dictyocha fibula,Silicoflagellate,75150
+IMOS,2013-07-26 00:00:00,Dinophysis spp.,Dinoflagellate,25050
+IMOS,2013-07-26 00:00:00,Guinardia flaccida <150 µm length,Diatom,2655310
+IMOS,2013-07-26 00:00:00,Guinardia striata,Diatom,100200
+IMOS,2013-07-26 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,450900
+IMOS,2013-07-26 00:00:00,Gyrodinium spp.,Dinoflagellate,475950
+IMOS,2013-07-26 00:00:00,Leptocylindrus danicus,Diatom,876750
+IMOS,2013-07-26 00:00:00,Leptocylindrus minimus,Diatom,475950
+IMOS,2013-07-26 00:00:00,Mesodinium rubrum,Ciliate,75150
+IMOS,2013-07-26 00:00:00,Meuniera membranacea,Diatom,175350
+IMOS,2013-07-26 00:00:00,Navicula cf. 20-40 µm length,Diatom,601200
+IMOS,2013-07-26 00:00:00,Navicula cf. 40-60 µm length,Diatom,75150
+IMOS,2013-07-26 00:00:00,Navicula cf. 80-100 µm length,Diatom,25050
+IMOS,2013-07-26 00:00:00,Neostreptotheca spp.,Diatom,25050
+IMOS,2013-07-26 00:00:00,Noctiluca scintillans,Dinoflagellate,20040
+IMOS,2013-07-26 00:00:00,Octactis octonaria,Silicoflagellate,200400
+IMOS,2013-07-26 00:00:00,Oxytoxum spp.,Dinoflagellate,125250
+IMOS,2013-07-26 00:00:00,Proboscia alata,Diatom,25050
+IMOS,2013-07-26 00:00:00,Prorocentrum spp.,Dinoflagellate,601200
+IMOS,2013-07-26 00:00:00,Protoperidinium spp.,Dinoflagellate,125250
+IMOS,2013-07-26 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,375750
+IMOS,2013-07-26 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,776550
+IMOS,2013-07-26 00:00:00,Rhizosolenia spp.,Diatom,25050
+IMOS,2013-07-26 00:00:00,Thalassionema spp. < 100 µm length,Diatom,25050
+IMOS,2013-07-26 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,1628260
+IMOS,2013-07-26 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,3907820
+IMOS,2013-07-26 00:00:00,Thalassiosira spp. 40-60 µm,Diatom,50100
+IMOS,2013-08-27 00:00:00,Bacteriastrum hyalinum,Diatom,25030
+IMOS,2013-08-27 00:00:00,Cerataulina pelagica,Diatom,375380
+IMOS,2013-08-27 00:00:00,Chaetoceros spp. 10-20 µm,Diatom,25030
+IMOS,2013-08-27 00:00:00,Cyanobacteria cluster,Cyanobacteria,300300
+IMOS,2013-08-27 00:00:00,Guinardia delicatula,Diatom,200200
+IMOS,2013-08-27 00:00:00,Guinardia striata,Diatom,150150
+IMOS,2013-08-27 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,50050
+IMOS,2013-08-27 00:00:00,Gyrodinium spp.,Dinoflagellate,50050
+IMOS,2013-08-27 00:00:00,Hemiaulus spp.,Diatom,25030
+IMOS,2013-08-27 00:00:00,Leptocylindrus danicus,Diatom,275280
+IMOS,2013-08-27 00:00:00,Mesodinium rubrum,Ciliate,25030
+IMOS,2013-08-27 00:00:00,Meuniera membranacea,Diatom,25030
+IMOS,2013-08-27 00:00:00,Navicula cf. 20-40 µm length,Diatom,125130
+IMOS,2013-08-27 00:00:00,Octactis octonaria,Silicoflagellate,10010
+IMOS,2013-08-27 00:00:00,Oxytoxum spp.,Dinoflagellate,50050
+IMOS,2013-08-27 00:00:00,Pennate diatom > 100 µm,Diatom,450450
+IMOS,2013-08-27 00:00:00,Prorocentrum micans,Dinoflagellate,25030
+IMOS,2013-08-27 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,325330
+IMOS,2013-08-27 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,250250
+IMOS,2013-08-27 00:00:00,Rhizosolenia spp.,Diatom,100100
+IMOS,2013-08-27 00:00:00,Scrippsiella spp.,Dinoflagellate,50050
+IMOS,2013-08-27 00:00:00,Thalassionema spp. < 100 µm length,Diatom,175180
+IMOS,2013-08-27 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,150150
+IMOS,2013-08-27 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,100100
+IMOS,2013-08-27 00:00:00,Thalassiosira spp. 40-60 µm,Diatom,100100
+IMOS,2013-08-27 00:00:00,Tripos fusus,Dinoflagellate,10010
+IMOS,2013-08-27 00:00:00,Tripos pentagonus,Dinoflagellate,25030
+IMOS,2013-08-27 00:00:00,Xystonella spp.,Ciliate,10010
+IMOS,2013-09-16 00:00:00,Ceratoneis closterium,Diatom,335350
+IMOS,2013-09-16 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,670690
+IMOS,2013-09-16 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,1006040
+IMOS,2013-09-16 00:00:00,Codonellopsis spp.,Ciliate,50300
+IMOS,2013-09-16 00:00:00,Dadayiella spp.,Ciliate,335350
+IMOS,2013-09-16 00:00:00,Eucampia spp. <100 µm cell length,Diatom,1006040
+IMOS,2013-09-16 00:00:00,Guinardia delicatula,Diatom,2347420
+IMOS,2013-09-16 00:00:00,Guinardia striata,Diatom,1006040
+IMOS,2013-09-16 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,1341380
+IMOS,2013-09-16 00:00:00,Leptocylindrus danicus,Diatom,1676730
+IMOS,2013-09-16 00:00:00,Leptocylindrus minimus,Diatom,1006040
+IMOS,2013-09-16 00:00:00,Meuniera membranacea,Diatom,2682760
+IMOS,2013-09-16 00:00:00,Navicula cf. 40-60 µm length,Diatom,670690
+IMOS,2013-09-16 00:00:00,Navicula cf. 60-80 µm length,Diatom,335350
+IMOS,2013-09-16 00:00:00,Octactis octonaria,Silicoflagellate,335350
+IMOS,2013-09-16 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,2347420
+IMOS,2013-09-16 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,71428570
+IMOS,2013-09-16 00:00:00,Rhizosolenia fallax group,Diatom,335350
+IMOS,2013-09-16 00:00:00,Rhizosolenia setigera group,Diatom,335350
+IMOS,2013-09-16 00:00:00,Stephanopyxis spp.,Diatom,670690
+IMOS,2013-09-16 00:00:00,Thalassiosira gravida,Diatom,335350
+IMOS,2013-09-16 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,335350
+IMOS,2013-09-16 00:00:00,Thalassiosira spp. 40-60 µm,Diatom,3688800
+IMOS,2013-09-16 00:00:00,Xystonella spp.,Ciliate,10060
+IMOS,2013-03-20 00:00:00,Bacteriastrum spp.,Diatom,801600
+IMOS,2013-03-20 00:00:00,Cerataulina pelagica,Diatom,75150
+IMOS,2013-03-20 00:00:00,Ceratoneis closterium,Diatom,576150
+IMOS,2013-03-20 00:00:00,Chaetoceros peruvianus < 40 µm cell width,Diatom,25050
+IMOS,2013-03-20 00:00:00,Chaetoceros spp. 10-20 µm,Diatom,651300
+IMOS,2013-03-20 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,976950
+IMOS,2013-03-20 00:00:00,Cyanobacteral filament,Cyanobacteria,3006010
+IMOS,2013-03-20 00:00:00,Dactyliosolen fragillissimus <150 µm length,Diatom,776550
+IMOS,2013-03-20 00:00:00,Dactyliosolen phuketensis,Diatom,250500
+IMOS,2013-03-20 00:00:00,Eucampia spp. <100 µm cell length,Diatom,75150
+IMOS,2013-03-20 00:00:00,Guinardia flaccida <150 µm length,Diatom,350700
+IMOS,2013-03-20 00:00:00,Guinardia striata,Diatom,275550
+IMOS,2013-03-20 00:00:00,Gyrodinium spp.,Dinoflagellate,75150
+IMOS,2013-03-20 00:00:00,Hemiaulus hauckii,Diatom,450900
+IMOS,2013-03-20 00:00:00,Hemiaulus spp.,Diatom,175350
+IMOS,2013-03-20 00:00:00,Lauderia spp.,Diatom,25050
+IMOS,2013-03-20 00:00:00,Leptocylindrus danicus,Diatom,851700
+IMOS,2013-03-20 00:00:00,Leptocylindrus minimus,Diatom,1377760
+IMOS,2013-03-20 00:00:00,Meuniera membranacea,Diatom,175350
+IMOS,2013-03-20 00:00:00,Navicula cf. 20-40 µm length,Diatom,300600
+IMOS,2013-03-20 00:00:00,Proboscia alata,Diatom,175350
+IMOS,2013-03-20 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,3431860
+IMOS,2013-03-20 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,100200
+IMOS,2013-03-20 00:00:00,Rhizosolenia setigera group,Diatom,375750
+IMOS,2013-03-20 00:00:00,Rhizosolenia spp.,Diatom,125250
+IMOS,2013-03-20 00:00:00,Thalassionema spp. < 100 µm length,Diatom,225450
+IMOS,2013-03-20 00:00:00,Tripos furca,Dinoflagellate,50100
+IMOS,2013-04-23 00:00:00,Actinopoda,Radiozoa,25130
+IMOS,2013-04-23 00:00:00,Ceratoneis closterium,Diatom,251260
+IMOS,2013-04-23 00:00:00,Ciliate (Inc. tintinnid),Ciliate,175880
+IMOS,2013-04-23 00:00:00,Climacodium spp.,Diatom,50250
+IMOS,2013-04-23 00:00:00,Cyanobacteria cluster,Cyanobacteria,527640
+IMOS,2013-04-23 00:00:00,Dictyocha fibula,Silicoflagellate,25130
+IMOS,2013-04-23 00:00:00,Eutintinnus spp.,Ciliate,25130
+IMOS,2013-04-23 00:00:00,Foraminifera,Foraminifera,25130
+IMOS,2013-04-23 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,1130650
+IMOS,2013-04-23 00:00:00,Gyrodinium spp.,Dinoflagellate,226130
+IMOS,2013-04-23 00:00:00,Leptocylindrus danicus,Diatom,25130
+IMOS,2013-04-23 00:00:00,Leptocylindrus minimus,Diatom,100500
+IMOS,2013-04-23 00:00:00,Navicula cf. 20-40 µm length,Diatom,427140
+IMOS,2013-04-23 00:00:00,Oxytoxum spp.,Dinoflagellate,402010
+IMOS,2013-04-23 00:00:00,Pronoctiluca spp.,Dinoflagellate,50250
+IMOS,2013-04-23 00:00:00,Prorocentrum lima,Dinoflagellate,75380
+IMOS,2013-04-23 00:00:00,Prorocentrum spp.,Dinoflagellate,351760
+IMOS,2013-04-23 00:00:00,Protoperidinium spp.,Dinoflagellate,50250
+IMOS,2013-04-23 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,75380
+IMOS,2013-04-23 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,100500
+IMOS,2013-04-23 00:00:00,Scrippsiella spp.,Dinoflagellate,75380
+IMOS,2013-04-23 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,175880
+IMOS,2013-04-23 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,50250
+IMOS,2013-04-23 00:00:00,Tripos lineatus,Dinoflagellate,25130
+IMOS,2013-05-15 00:00:00,Asterionellopsis spp. ~50 µm length,Diatom,606060
+IMOS,2013-05-15 00:00:00,Ceratoneis closterium,Diatom,2222220
+IMOS,2013-05-15 00:00:00,Chaetoceros peruvianus < 40 µm cell width,Diatom,25250
+IMOS,2013-05-15 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,606060
+IMOS,2013-05-15 00:00:00,Ciliate (Inc. tintinnid),Ciliate,277780
+IMOS,2013-05-15 00:00:00,Climacodium spp.,Diatom,202020
+IMOS,2013-05-15 00:00:00,Codonellopsis spp.,Ciliate,101010
+IMOS,2013-05-15 00:00:00,Dictyocha fibula,Silicoflagellate,126260
+IMOS,2013-05-15 00:00:00,Ditylum brightwellii < 40 µm width,Diatom,25250
+IMOS,2013-05-15 00:00:00,Fragilariopsis spp.,Diatom,328280
+IMOS,2013-05-15 00:00:00,Guinardia striata,Diatom,75760
+IMOS,2013-05-15 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,353540
+IMOS,2013-05-15 00:00:00,Gyrodinium spp.,Dinoflagellate,151520
+IMOS,2013-05-15 00:00:00,Helicotheca spp.,Diatom,25250
+IMOS,2013-05-15 00:00:00,Leptocylindrus danicus,Diatom,404040
+IMOS,2013-05-15 00:00:00,Leptocylindrus minimus,Diatom,505050
+IMOS,2013-05-15 00:00:00,Navicula cf. 20-40 µm length,Diatom,858590
+IMOS,2013-05-15 00:00:00,Navicula cf. 60-80 µm length,Diatom,75760
+IMOS,2013-05-15 00:00:00,Nitzschia cf. bicapitata,Diatom,50510
+IMOS,2013-05-15 00:00:00,Octactis octonaria,Silicoflagellate,101010
+IMOS,2013-05-15 00:00:00,Oxytoxum spp.,Dinoflagellate,25250
+IMOS,2013-05-15 00:00:00,Pennate diatom > 10 µm,Diatom,25250
+IMOS,2013-05-15 00:00:00,Pleurosigma spp. < 150 µm,Diatom,50510
+IMOS,2013-05-15 00:00:00,Proboscia alata,Diatom,101010
+IMOS,2013-05-15 00:00:00,Prorocentrum spp.,Dinoflagellate,176770
+IMOS,2013-05-15 00:00:00,Protoperidinium spp.,Dinoflagellate,101010
+IMOS,2013-05-15 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,1868690
+IMOS,2013-05-15 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,151520
+IMOS,2013-05-15 00:00:00,Rhizosolenia setigera group,Diatom,176770
+IMOS,2013-05-15 00:00:00,Scrippsiella spp.,Dinoflagellate,252530
+IMOS,2013-05-15 00:00:00,Strombidium spp.,Ciliate,25250
+IMOS,2013-05-15 00:00:00,Thalassionema spp. < 100 µm length,Diatom,126260
+IMOS,2013-05-15 00:00:00,Thalassiosira spp. 40-60 µm,Diatom,50510
+IMOS,2013-05-15 00:00:00,Tintinnopsis spp.,Ciliate,479800
+IMOS,2013-05-15 00:00:00,Tripos fusus,Dinoflagellate,25250
+IMOS,2014-03-18 00:00:00,Ascampbelliella spp.,Ciliate,25180
+IMOS,2014-03-18 00:00:00,Centric diatom,Diatom,25180
+IMOS,2014-03-18 00:00:00,Cerataulina spp. ~150 µm length,Diatom,75530
+IMOS,2014-03-18 00:00:00,Ceratoneis closterium,Diatom,75530
+IMOS,2014-03-18 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,50350
+IMOS,2014-03-18 00:00:00,Gonyaulax spp.,Dinoflagellate,25180
+IMOS,2014-03-18 00:00:00,Guinardia striata,Diatom,75530
+IMOS,2014-03-18 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,125880
+IMOS,2014-03-18 00:00:00,Gyrodinium spp.,Dinoflagellate,75530
+IMOS,2014-03-18 00:00:00,Hemiaulus spp.,Diatom,25180
+IMOS,2014-03-18 00:00:00,Leptocylindrus danicus,Diatom,503520
+IMOS,2014-03-18 00:00:00,Membraneis spp.,Diatom,25180
+IMOS,2014-03-18 00:00:00,Navicula cf. 20-40 µm length,Diatom,25180
+IMOS,2014-03-18 00:00:00,Octactis octonaria,Silicoflagellate,25180
+IMOS,2014-03-18 00:00:00,Proboscia alata,Diatom,25180
+IMOS,2014-03-18 00:00:00,Protoperidinium spp.,Dinoflagellate,25180
+IMOS,2014-03-18 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,251760
+IMOS,2014-03-18 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,125880
+IMOS,2014-03-18 00:00:00,Rhabdonella spp.,Ciliate,25180
+IMOS,2014-03-18 00:00:00,Rhizosolenia setigera group,Diatom,25180
+IMOS,2014-03-18 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,75530
+IMOS,2014-03-18 00:00:00,Trichodesmium spp.,Cyanobacteria,18126890
+IMOS,2014-04-28 00:00:00,Amphorides spp.,Ciliate,25250
+IMOS,2014-04-28 00:00:00,Ceratoneis closterium,Diatom,656570
+IMOS,2014-04-28 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,50510
+IMOS,2014-04-28 00:00:00,Ciliate (Inc. tintinnid),Ciliate,151520
+IMOS,2014-04-28 00:00:00,Climacodium spp.,Diatom,50510
+IMOS,2014-04-28 00:00:00,Codonellopsis spp.,Ciliate,25250
+IMOS,2014-04-28 00:00:00,Cyanobacteral filament,Cyanobacteria,29292930
+IMOS,2014-04-28 00:00:00,Dictyocha fibula,Silicoflagellate,25250
+IMOS,2014-04-28 00:00:00,Gyrodinium spp.,Dinoflagellate,378790
+IMOS,2014-04-28 00:00:00,Leptocylindrus danicus,Diatom,50510
+IMOS,2014-04-28 00:00:00,Leptocylindrus minimus,Diatom,126260
+IMOS,2014-04-28 00:00:00,Navicula cf. 20-40 µm length,Diatom,75760
+IMOS,2014-04-28 00:00:00,Oxytoxum spp.,Dinoflagellate,101010
+IMOS,2014-04-28 00:00:00,Pleurosigma spp. < 150 µm,Diatom,25250
+IMOS,2014-04-28 00:00:00,Prorocentrum gracile,Dinoflagellate,25250
+IMOS,2014-04-28 00:00:00,Prorocentrum spp.,Dinoflagellate,75760
+IMOS,2014-04-28 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,303030
+IMOS,2014-04-28 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,101010
+IMOS,2014-04-28 00:00:00,Rhizosolenia setigera group,Diatom,25250
+IMOS,2014-04-28 00:00:00,Salpingella spp.,Ciliate,50510
+IMOS,2014-04-28 00:00:00,Tripos fusus,Dinoflagellate,25250
+IMOS,2014-06-13 00:00:00,Asterionellopsis glacialis,Diatom,75910
+IMOS,2014-06-13 00:00:00,Bacteriastrum spp.,Diatom,25300
+IMOS,2014-06-13 00:00:00,Centric diatom,Diatom,25300
+IMOS,2014-06-13 00:00:00,Ceratoneis closterium,Diatom,809720
+IMOS,2014-06-13 00:00:00,Chaetoceros spp. 10-20 µm,Diatom,25300
+IMOS,2014-06-13 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,1012150
+IMOS,2014-06-13 00:00:00,Climacodium spp.,Diatom,151820
+IMOS,2014-06-13 00:00:00,Coscinodiscus spp. 100-150 µm,Diatom,75910
+IMOS,2014-06-13 00:00:00,Coscinodiscus spp. 150-200 µm,Diatom,25300
+IMOS,2014-06-13 00:00:00,Dactyliosolen fragillissimus <150 µm length,Diatom,253040
+IMOS,2014-06-13 00:00:00,Dactyliosolen phuketensis,Diatom,25300
+IMOS,2014-06-13 00:00:00,Dictyocha fibula,Silicoflagellate,75910
+IMOS,2014-06-13 00:00:00,Eucampia spp. <100 µm cell length,Diatom,25300
+IMOS,2014-06-13 00:00:00,Guinardia flaccida <150 µm length,Diatom,25300
+IMOS,2014-06-13 00:00:00,Guinardia striata,Diatom,177130
+IMOS,2014-06-13 00:00:00,Gyrodinium spp.,Dinoflagellate,101210
+IMOS,2014-06-13 00:00:00,Helicotheca spp.,Diatom,126520
+IMOS,2014-06-13 00:00:00,Hemiaulus spp.,Diatom,177130
+IMOS,2014-06-13 00:00:00,Lauderia annulata < 70 µm length,Diatom,202430
+IMOS,2014-06-13 00:00:00,Leptocylindrus danicus,Diatom,253040
+IMOS,2014-06-13 00:00:00,Leptocylindrus mediterraneus,Diatom,25300
+IMOS,2014-06-13 00:00:00,Meuniera membranacea,Diatom,50610
+IMOS,2014-06-13 00:00:00,Navicula cf. 60-80 µm length,Diatom,177130
+IMOS,2014-06-13 00:00:00,Neostreptotheca spp.,Diatom,101210
+IMOS,2014-06-13 00:00:00,Pennate diatom 10 - 25 µm,Diatom,253040
+IMOS,2014-06-13 00:00:00,Pennate diatom 75 - 100 µm,Diatom,556680
+IMOS,2014-06-13 00:00:00,Pennate diatom > 100 µm,Diatom,50610
+IMOS,2014-06-13 00:00:00,Pleurosigma spp. < 150 µm,Diatom,75910
+IMOS,2014-06-13 00:00:00,Proboscia alata,Diatom,25300
+IMOS,2014-06-13 00:00:00,Protoperidinium spp.,Dinoflagellate,50610
+IMOS,2014-06-13 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,1366400
+IMOS,2014-06-13 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,379550
+IMOS,2014-06-13 00:00:00,Rhizosolenia imbricata group,Diatom,126520
+IMOS,2014-06-13 00:00:00,Rhizosolenia setigera group,Diatom,202430
+IMOS,2014-06-13 00:00:00,Rhizosolenia spp.,Diatom,25300
+IMOS,2014-06-13 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,151820
+IMOS,2014-06-13 00:00:00,Thalassiosira spp. 40-60 µm,Diatom,101210
+IMOS,2014-06-13 00:00:00,Thalassiothrix spp.,Diatom,50610
+IMOS,2014-06-13 00:00:00,Trichodesmium spp.,Cyanobacteria,581980
+IMOS,2014-07-16 00:00:00,Centric diatom,Diatom,25050
+IMOS,2014-07-16 00:00:00,Cerataulina pelagica,Diatom,25050
+IMOS,2014-07-16 00:00:00,Ciliate (Inc. tintinnid),Ciliate,100200
+IMOS,2014-07-16 00:00:00,Coscinodiscus spp. 60-80 µm,Diatom,25050
+IMOS,2014-07-16 00:00:00,Dictyocha fibula,Silicoflagellate,200400
+IMOS,2014-07-16 00:00:00,Dictyocha speculum,Silicoflagellate,25050
+IMOS,2014-07-16 00:00:00,Guinardia flaccida <150 µm length,Diatom,25050
+IMOS,2014-07-16 00:00:00,Gyrodinium spp. 20-40 µm,Dinoflagellate,25050
+IMOS,2014-07-16 00:00:00,Gyrodinium spp. 60-80 µm,Dinoflagellate,25050
+IMOS,2014-07-16 00:00:00,Mesodinium rubrum,Ciliate,150300
+IMOS,2014-07-16 00:00:00,Meuniera membranacea,Diatom,75150
+IMOS,2014-07-16 00:00:00,Navicula cf. 100-120 µm length,Diatom,25050
+IMOS,2014-07-16 00:00:00,Oxytoxum laticeps,Dinoflagellate,25050
+IMOS,2014-07-16 00:00:00,Prorocentrum spp.,Dinoflagellate,75150
+IMOS,2014-07-16 00:00:00,Protoperidinium spp.,Dinoflagellate,25050
+IMOS,2014-07-16 00:00:00,Rhizosolenia setigera group,Diatom,25050
+IMOS,2014-07-16 00:00:00,Scrippsiella spp.,Dinoflagellate,25050
+IMOS,2014-07-16 00:00:00,Thalassiosira spp. 40-60 µm,Diatom,25050
+IMOS,2014-07-16 00:00:00,Tintinnina ,Ciliate,25050
+IMOS,2014-07-16 00:00:00,Tripos fusus,Dinoflagellate,25050
+IMOS,2014-07-16 00:00:00,Tripos kofoidii,Dinoflagellate,25050
+IMOS,2014-08-25 00:00:00,Bacteriastrum spp.,Diatom,25280
+IMOS,2014-08-25 00:00:00,Ciliate (Inc. tintinnid),Ciliate,252780
+IMOS,2014-08-25 00:00:00,Dictyocha fibula,Silicoflagellate,25280
+IMOS,2014-08-25 00:00:00,Dinophysis acuminata,Dinoflagellate,101110
+IMOS,2014-08-25 00:00:00,Grammatophora oceanica,Diatom,25280
+IMOS,2014-08-25 00:00:00,Guinardia delicatula,Diatom,75830
+IMOS,2014-08-25 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,75830
+IMOS,2014-08-25 00:00:00,Gyrodinium spp. 60-80 µm,Dinoflagellate,75830
+IMOS,2014-08-25 00:00:00,Mesodinium rubrum,Ciliate,25280
+IMOS,2014-08-25 00:00:00,Navicula cf. 80-100 µm length,Diatom,50560
+IMOS,2014-08-25 00:00:00,Octactis octonaria,Silicoflagellate,25280
+IMOS,2014-08-25 00:00:00,Proboscia alata,Diatom,25280
+IMOS,2014-08-25 00:00:00,Protoperidinium spp.,Dinoflagellate,25280
+IMOS,2014-08-25 00:00:00,Rhizosolenia setigera,Diatom,25280
+IMOS,2014-08-25 00:00:00,Scrippsiella spp.,Dinoflagellate,176950
+IMOS,2014-08-25 00:00:00,Tripos arietinus,Dinoflagellate,25280
+IMOS,2014-09-11 00:00:00,Alexandrium pseudogonyaulax,Dinoflagellate,5448770
+IMOS,2014-09-11 00:00:00,Chaetoceros spp. 10-20 µm,Diatom,2424240
+IMOS,2014-09-11 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,646460
+IMOS,2014-09-11 00:00:00,Climacodium spp.,Diatom,46180
+IMOS,2014-09-11 00:00:00,Guinardia delicatula,Diatom,161620
+IMOS,2014-09-11 00:00:00,Noctiluca scintillans,Dinoflagellate,80810
+IMOS,2014-09-11 00:00:00,Octactis octonaria,Silicoflagellate,346320
+IMOS,2014-09-11 00:00:00,Pennate diatom 75 - 100 µm,Diatom,230880
+IMOS,2014-09-11 00:00:00,Protoperidinium spp.,Dinoflagellate,92350
+IMOS,2014-09-11 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,23090
+IMOS,2014-09-11 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,138530
+IMOS,2014-09-11 00:00:00,Scrippsiella spp.,Dinoflagellate,253970
+IMOS,2014-09-11 00:00:00,Tripos furca,Dinoflagellate,69260
+IMOS,2014-09-11 00:00:00,Tripos teres,Dinoflagellate,23090
+IMOS,2014-01-21 00:00:00,Cerataulina pelagica,Diatom,61177880
+IMOS,2014-01-21 00:00:00,Ceratoneis closterium,Diatom,2213280
+IMOS,2014-01-21 00:00:00,Dactyliosolen fragillissimus <150 µm length,Diatom,1006040
+IMOS,2014-01-21 00:00:00,Dactyliosolen phuketensis,Diatom,5432600
+IMOS,2014-01-21 00:00:00,Guinardia delicatula,Diatom,3018110
+IMOS,2014-01-21 00:00:00,Guinardia striata,Diatom,2012070
+IMOS,2014-01-21 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,1006040
+IMOS,2014-01-21 00:00:00,Gyrodinium spp.,Dinoflagellate,402410
+IMOS,2014-01-21 00:00:00,Leptocylindrus danicus,Diatom,2615690
+IMOS,2014-01-21 00:00:00,Leptocylindrus minimus,Diatom,402410
+IMOS,2014-01-21 00:00:00,Navicula cf. 40-60 µm length,Diatom,201210
+IMOS,2014-01-21 00:00:00,Noctiluca scintillans,Dinoflagellate,10060
+IMOS,2014-01-21 00:00:00,Pennate diatom 10 - 25 µm,Diatom,402410
+IMOS,2014-01-21 00:00:00,Pennate diatom > 100 µm,Diatom,3420520
+IMOS,2014-01-21 00:00:00,Prorocentrum spp.,Dinoflagellate,201210
+IMOS,2014-01-21 00:00:00,Protoperidinium spp.,Dinoflagellate,402410
+IMOS,2014-01-21 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,1207240
+IMOS,2014-01-21 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,1408450
+IMOS,2014-01-21 00:00:00,Scrippsiella spp.,Dinoflagellate,1207240
+IMOS,2014-01-21 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,4024140
+IMOS,2014-01-21 00:00:00,Tripos lineatus,Dinoflagellate,201210
+IMOS,2014-01-21 00:00:00,Unid diatom,Diatom,201210
+IMOS,2014-02-12 00:00:00,Cerataulina pelagica,Diatom,99966400
+IMOS,2014-02-12 00:00:00,Ceratoneis closterium,Diatom,302420
+IMOS,2014-02-12 00:00:00,Chaetoceros peruvianus < 40 µm cell width,Diatom,100810
+IMOS,2014-02-12 00:00:00,Cyanobacteral filament,Cyanobacteria,705650
+IMOS,2014-02-12 00:00:00,Dactyliosolen fragillissimus <150 µm length,Diatom,1008060
+IMOS,2014-02-12 00:00:00,Guinardia spp.,Diatom,504030
+IMOS,2014-02-12 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,403230
+IMOS,2014-02-12 00:00:00,Gyrodinium spp.,Dinoflagellate,403230
+IMOS,2014-02-12 00:00:00,Navicula cf. 40-60 µm length,Diatom,201610
+IMOS,2014-02-12 00:00:00,Noctiluca scintillans,Dinoflagellate,40320
+IMOS,2014-02-12 00:00:00,Octactis octonaria,Silicoflagellate,705650
+IMOS,2014-02-12 00:00:00,Pennate diatom > 100 µm,Diatom,302420
+IMOS,2014-02-12 00:00:00,Proboscia alata,Diatom,604840
+IMOS,2014-02-12 00:00:00,Prorocentrum spp.,Dinoflagellate,302420
+IMOS,2014-02-12 00:00:00,Protoperidinium spp.,Dinoflagellate,604840
+IMOS,2014-02-12 00:00:00,Tripos furca,Dinoflagellate,201610
+IMOS,2014-02-12 00:00:00,Tripos macroceros,Dinoflagellate,10080
+IMOS,2014-02-12 00:00:00,Tripos muelleri,Dinoflagellate,100810
+IMOS,2014-10-22 00:00:00,Alexandrium pseudogonyaulax,Dinoflagellate,100810
+IMOS,2014-10-22 00:00:00,Ceratoneis closterium,Diatom,1008060
+IMOS,2014-10-22 00:00:00,Chaetoceros spp. 10-20 µm,Diatom,8736560
+IMOS,2014-10-22 00:00:00,Climacocylis spp.,Ciliate,33600
+IMOS,2014-10-22 00:00:00,Climacodium spp.,Diatom,168010
+IMOS,2014-10-22 00:00:00,Coscinodiscus spp.,Diatom,33600
+IMOS,2014-10-22 00:00:00,Eucampia spp. <100 µm cell length,Diatom,4368280
+IMOS,2014-10-22 00:00:00,Eutintinnus spp.,Ciliate,67200
+IMOS,2014-10-22 00:00:00,Guinardia delicatula,Diatom,672040
+IMOS,2014-10-22 00:00:00,Guinardia striata,Diatom,1008060
+IMOS,2014-10-22 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,1008060
+IMOS,2014-10-22 00:00:00,Gyrodinium spp. 20-40 µm,Dinoflagellate,672040
+IMOS,2014-10-22 00:00:00,Karenia spp.,Dinoflagellate,33600
+IMOS,2014-10-22 00:00:00,Leptocylindrus danicus,Diatom,1915320
+IMOS,2014-10-22 00:00:00,Mesodinium rubrum,Ciliate,33600
+IMOS,2014-10-22 00:00:00,Meuniera membranacea,Diatom,268820
+IMOS,2014-10-22 00:00:00,Noctiluca scintillans,Dinoflagellate,30240
+IMOS,2014-10-22 00:00:00,Octactis octonaria,Silicoflagellate,235220
+IMOS,2014-10-22 00:00:00,Pleurosigma spp. < 150 µm,Diatom,33600
+IMOS,2014-10-22 00:00:00,Proboscia alata,Diatom,268820
+IMOS,2014-10-22 00:00:00,Prorocentrum spp.,Dinoflagellate,336020
+IMOS,2014-10-22 00:00:00,Protoperidinium spp.,Dinoflagellate,100810
+IMOS,2014-10-22 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,1008060
+IMOS,2014-10-22 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,4435480
+IMOS,2014-10-22 00:00:00,Rhizosolenia fallax,Diatom,67200
+IMOS,2014-10-22 00:00:00,Rhizosolenia setigera,Diatom,33600
+IMOS,2014-10-22 00:00:00,Rhizosolenia spp.,Diatom,168010
+IMOS,2014-10-22 00:00:00,Scrippsiella spp.,Dinoflagellate,67200
+IMOS,2014-10-22 00:00:00,Steenstrupiella spp.,Ciliate,100810
+IMOS,2014-10-22 00:00:00,Tripos fusus,Dinoflagellate,33600
+IMOS,2014-10-22 00:00:00,Tripos kofoidii,Dinoflagellate,67200
+IMOS,2013-10-21 00:00:00,Amphorides spp.,Ciliate,20280
+IMOS,2013-10-21 00:00:00,Centric diatom,Diatom,1115620
+IMOS,2013-10-21 00:00:00,Cerataulina pelagica,Diatom,507100
+IMOS,2013-10-21 00:00:00,Ceratoneis closterium,Diatom,507100
+IMOS,2013-10-21 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,101420
+IMOS,2013-10-21 00:00:00,Codonellopsis spp.,Ciliate,10140
+IMOS,2013-10-21 00:00:00,Coscinodiscus spp. 60-80 µm,Diatom,101420
+IMOS,2013-10-21 00:00:00,Dactyliosolen fragillissimus <150 µm length,Diatom,101420
+IMOS,2013-10-21 00:00:00,Dinophysis spp.,Dinoflagellate,50710
+IMOS,2013-10-21 00:00:00,Eutintinnus spp.,Ciliate,50710
+IMOS,2013-10-21 00:00:00,Guinardia delicatula,Diatom,1217040
+IMOS,2013-10-21 00:00:00,Guinardia flaccida <150 µm length,Diatom,101420
+IMOS,2013-10-21 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,202840
+IMOS,2013-10-21 00:00:00,Gyrodinium spp.,Dinoflagellate,152130
+IMOS,2013-10-21 00:00:00,Helicostomella spp.,Ciliate,10140
+IMOS,2013-10-21 00:00:00,Leptocylindrus danicus,Diatom,2028400
+IMOS,2013-10-21 00:00:00,Leptocylindrus minimus,Diatom,709940
+IMOS,2013-10-21 00:00:00,Mesodinium rubrum,Ciliate,10140
+IMOS,2013-10-21 00:00:00,Meuniera membranacea,Diatom,1318460
+IMOS,2013-10-21 00:00:00,Navicula cf. 40-60 µm length,Diatom,152130
+IMOS,2013-10-21 00:00:00,Navicula cf. 60-80 µm length,Diatom,304260
+IMOS,2013-10-21 00:00:00,Oxytoxum spp.,Dinoflagellate,101420
+IMOS,2013-10-21 00:00:00,Proboscia alata,Diatom,101420
+IMOS,2013-10-21 00:00:00,Protoperidinium spp.,Dinoflagellate,50710
+IMOS,2013-10-21 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,50710
+IMOS,2013-10-21 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,101420
+IMOS,2013-10-21 00:00:00,Scrippsiella spp.,Dinoflagellate,202840
+IMOS,2013-10-21 00:00:00,Stephanopyxis turris,Diatom,7454360
+IMOS,2013-10-21 00:00:00,Thalassiosira gravida,Diatom,50710
+IMOS,2013-10-21 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,456390
+IMOS,2013-10-21 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,50710
+IMOS,2013-10-21 00:00:00,Tripos kofoidii,Dinoflagellate,101420
+IMOS,2013-10-27 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,176770
+IMOS,2013-10-27 00:00:00,Hemiaulus hauckii,Diatom,25250
+IMOS,2013-10-27 00:00:00,Karenia spp.,Dinoflagellate,75760
+IMOS,2013-10-27 00:00:00,Leptocylindrus danicus,Diatom,202020
+IMOS,2013-10-27 00:00:00,Meuniera membranacea,Diatom,75760
+IMOS,2013-10-27 00:00:00,Navicula cf. 40-60 µm length,Diatom,202020
+IMOS,2013-10-27 00:00:00,Noctiluca scintillans,Dinoflagellate,40400
+IMOS,2013-10-27 00:00:00,Proboscia alata,Diatom,25250
+IMOS,2013-10-27 00:00:00,Protoperidinium spp.,Dinoflagellate,25250
+IMOS,2013-10-27 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,75760
+IMOS,2013-10-27 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,25250
+IMOS,2013-10-27 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,25250
+IMOS,2013-10-27 00:00:00,Tripos kofoidii,Dinoflagellate,25250
+IMOS,2013-10-27 00:00:00,Undella spp.,Ciliate,25250
+IMOS,2013-12-02 00:00:00,Centric diatom,Diatom,25030
+IMOS,2013-12-02 00:00:00,Ceratoneis closterium,Diatom,50050
+IMOS,2013-12-02 00:00:00,Cymatocylis spp.,Ciliate,25030
+IMOS,2013-12-02 00:00:00,Eutintinnus spp.,Ciliate,20020
+IMOS,2013-12-02 00:00:00,Guinardia striata,Diatom,25030
+IMOS,2013-12-02 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,425430
+IMOS,2013-12-02 00:00:00,Gyrodinium spp.,Dinoflagellate,50050
+IMOS,2013-12-02 00:00:00,Hemiaulus hauckii,Diatom,25030
+IMOS,2013-12-02 00:00:00,Hemiaulus membranaceus,Diatom,50050
+IMOS,2013-12-02 00:00:00,Leptocylindrus danicus,Diatom,175180
+IMOS,2013-12-02 00:00:00,Mesodinium rubrum,Ciliate,75080
+IMOS,2013-12-02 00:00:00,Meuniera membranacea,Diatom,100100
+IMOS,2013-12-02 00:00:00,Navicula cf. 40-60 µm length,Diatom,50050
+IMOS,2013-12-02 00:00:00,Noctiluca scintillans,Dinoflagellate,20020
+IMOS,2013-12-02 00:00:00,Pleurosigma spp. < 150 µm,Diatom,25030
+IMOS,2013-12-02 00:00:00,Protoperidinium spp.,Dinoflagellate,125130
+IMOS,2013-12-02 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,75080
+IMOS,2013-12-02 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,25030
+IMOS,2013-12-02 00:00:00,Scrippsiella spp.,Dinoflagellate,50050
+IMOS,2013-12-02 00:00:00,Undella claparedi,Ciliate,10010
+IMOS,2015-01-21 00:00:00,Cerataulina pelagica,Diatom,2977850
+IMOS,2015-01-21 00:00:00,Ceratoneis closterium,Diatom,3350080
+IMOS,2015-01-21 00:00:00,Ceratoperidinium falcatum,Dinoflagellate,1116690
+IMOS,2015-01-21 00:00:00,Chaetoceros danicus,Diatom,744460
+IMOS,2015-01-21 00:00:00,Chaetoceros spp. 10-20 µm,Diatom,13772570
+IMOS,2015-01-21 00:00:00,Dactyliosolen fragillissimus <150 µm length,Diatom,5583470
+IMOS,2015-01-21 00:00:00,Dictyocha fibula,Silicoflagellate,372230
+IMOS,2015-01-21 00:00:00,Guinardia delicatula,Diatom,10050250
+IMOS,2015-01-21 00:00:00,Guinardia flaccida <150 µm length,Diatom,744460
+IMOS,2015-01-21 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,9305790
+IMOS,2015-01-21 00:00:00,Haslea wawrikae,Diatom,372230
+IMOS,2015-01-21 00:00:00,Leptocylindrus danicus,Diatom,80029780
+IMOS,2015-01-21 00:00:00,Leptocylindrus mediterraneus,Diatom,372230
+IMOS,2015-01-21 00:00:00,Lioloma cf. spp.,Diatom,372230
+IMOS,2015-01-21 00:00:00,Proboscia alata,Diatom,744460
+IMOS,2015-01-21 00:00:00,Prorocentrum gracile,Dinoflagellate,1116690
+IMOS,2015-01-21 00:00:00,Prorocentrum spp.,Dinoflagellate,3350080
+IMOS,2015-01-21 00:00:00,Protoperidinium spp.,Dinoflagellate,744460
+IMOS,2015-01-21 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,1488930
+IMOS,2015-01-21 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,3722320
+IMOS,2015-01-21 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,372230
+IMOS,2014-12-09 00:00:00,Bacteriastrum spp.,Diatom,226760
+IMOS,2014-12-09 00:00:00,Cerataulina pelagica,Diatom,453510
+IMOS,2014-12-09 00:00:00,Ceratoneis closterium,Diatom,1587300
+IMOS,2014-12-09 00:00:00,Chaetoceros spp. 10-20 µm,Diatom,46258500
+IMOS,2014-12-09 00:00:00,Dactyliosolen fragillissimus <150 µm length,Diatom,1133790
+IMOS,2014-12-09 00:00:00,Eucampia spp. <100 µm cell length,Diatom,8390020
+IMOS,2014-12-09 00:00:00,Guinardia striata,Diatom,1360540
+IMOS,2014-12-09 00:00:00,Leptocylindrus danicus,Diatom,39909300
+IMOS,2014-12-09 00:00:00,Noctiluca scintillans,Dinoflagellate,81630
+IMOS,2014-12-09 00:00:00,Pleurosigma spp. < 150 µm,Diatom,226760
+IMOS,2014-12-09 00:00:00,Proboscia alata,Diatom,2721090
+IMOS,2014-12-09 00:00:00,Protoperidinium spp.,Dinoflagellate,907030
+IMOS,2014-12-09 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,9523810
+IMOS,2014-12-09 00:00:00,Scrippsiella spp.,Dinoflagellate,453510
+IMOS,2014-12-09 00:00:00,Stephanopyxis turris,Diatom,453510
+IMOS,2014-12-09 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,1133790
+IMOS,2014-12-09 00:00:00,Tintinnopsis spp.,Ciliate,226760
+IMOS,2014-12-09 00:00:00,Tripos candelabrus,Dinoflagellate,226760
+IMOS,2014-11-13 00:00:00,Cerataulina pelagica,Diatom,4809620
+IMOS,2014-11-13 00:00:00,Ceratoneis closterium,Diatom,1402810
+IMOS,2014-11-13 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,5210420
+IMOS,2014-11-13 00:00:00,Dactyliosolen fragillissimus <150 µm length,Diatom,4008020
+IMOS,2014-11-13 00:00:00,Eucampia spp. <100 µm cell length,Diatom,200400
+IMOS,2014-11-13 00:00:00,Guinardia delicatula,Diatom,1002000
+IMOS,2014-11-13 00:00:00,Leptocylindrus danicus,Diatom,41683370
+IMOS,2014-11-13 00:00:00,Noctiluca scintillans,Dinoflagellate,20040
+IMOS,2014-11-13 00:00:00,Oxytoxum scolopax,Dinoflagellate,200400
+IMOS,2014-11-13 00:00:00,Proboscia alata,Diatom,601200
+IMOS,2014-11-13 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,1803610
+IMOS,2014-11-13 00:00:00,Rhizosolenia spp.,Diatom,10020
+IMOS,2014-11-13 00:00:00,Thalassiosira spp. 40-60 µm,Diatom,400800
+IMOS,2015-02-26 00:00:00,Centric diatom,Diatom,142860
+IMOS,2015-02-26 00:00:00,Ceratoneis closterium,Diatom,285710
+IMOS,2015-02-26 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,57140
+IMOS,2015-02-26 00:00:00,Ciliate (naked < 25µm),Ciliate,142860
+IMOS,2015-02-26 00:00:00,Dactyliosolen spp.,Diatom,628570
+IMOS,2015-02-26 00:00:00,Dadayiella ganymedes,Ciliate,28570
+IMOS,2015-02-26 00:00:00,Dinophysis acuminata,Dinoflagellate,28570
+IMOS,2015-02-26 00:00:00,Dinophysis tripos,Dinoflagellate,28570
+IMOS,2015-02-26 00:00:00,Guinardia striata,Diatom,70000
+IMOS,2015-02-26 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,314290
+IMOS,2015-02-26 00:00:00,Gyrodinium spp. 20-40 µm,Dinoflagellate,171430
+IMOS,2015-02-26 00:00:00,Gyrodinium spp. 60-80 µm,Dinoflagellate,28570
+IMOS,2015-02-26 00:00:00,Leptocylindrus danicus,Diatom,5714290
+IMOS,2015-02-26 00:00:00,Meuniera membranacea,Diatom,342860
+IMOS,2015-02-26 00:00:00,Navicula cf. 20-40 µm length,Diatom,28570
+IMOS,2015-02-26 00:00:00,Proboscia alata,Diatom,114290
+IMOS,2015-02-26 00:00:00,Prorocentrum spp.,Dinoflagellate,114290
+IMOS,2015-02-26 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,400000
+IMOS,2015-02-26 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,514290
+IMOS,2015-02-26 00:00:00,Pyrocystis lunula,Dinoflagellate,28570
+IMOS,2015-02-26 00:00:00,Scrippsiella spp.,Dinoflagellate,114290
+IMOS,2015-02-26 00:00:00,Tripos carriensis,Dinoflagellate,28570
+IMOS,2015-02-26 00:00:00,Tripos furca,Dinoflagellate,28570
+IMOS,2015-02-26 00:00:00,Tripos fusus,Dinoflagellate,57140
+IMOS,2015-03-31 00:00:00,Bacteriastrum spp.,Diatom,99010
+IMOS,2015-03-31 00:00:00,Cerataulina pelagica,Diatom,173270
+IMOS,2015-03-31 00:00:00,Ceratoneis closterium,Diatom,396040
+IMOS,2015-03-31 00:00:00,Chaetoceros atlanticus,Diatom,49500
+IMOS,2015-03-31 00:00:00,Chaetoceros compressus,Diatom,495050
+IMOS,2015-03-31 00:00:00,Chaetoceros peruvianus < 40 µm cell width,Diatom,24750
+IMOS,2015-03-31 00:00:00,Chaetoceros resting cyst,Diatom,470300
+IMOS,2015-03-31 00:00:00,Chaetoceros spp. 10-20 µm,Diatom,74260
+IMOS,2015-03-31 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,569310
+IMOS,2015-03-31 00:00:00,Ciliate (Inc. tintinnid),Ciliate,247520
+IMOS,2015-03-31 00:00:00,Climacodium frauenfeldianum,Diatom,693070
+IMOS,2015-03-31 00:00:00,Dactyliosolen fragillissimus <150 µm length,Diatom,1064360
+IMOS,2015-03-31 00:00:00,Dactyliosolen phuketensis,Diatom,1188120
+IMOS,2015-03-31 00:00:00,Guinardia flaccida <150 µm length,Diatom,222770
+IMOS,2015-03-31 00:00:00,Guinardia striata,Diatom,222770
+IMOS,2015-03-31 00:00:00,Gyrodinium spp. 20-40 µm,Dinoflagellate,173270
+IMOS,2015-03-31 00:00:00,Haslea wawrikae,Diatom,24750
+IMOS,2015-03-31 00:00:00,Hemiaulus hauckii,Diatom,49500
+IMOS,2015-03-31 00:00:00,Hemiaulus indicus,Diatom,49500
+IMOS,2015-03-31 00:00:00,Hemiaulus membranaceus,Diatom,24750
+IMOS,2015-03-31 00:00:00,Hemiaulus spp.,Diatom,148510
+IMOS,2015-03-31 00:00:00,Laboea spp.,Ciliate,24750
+IMOS,2015-03-31 00:00:00,Lauderia annulata < 70 µm length,Diatom,74260
+IMOS,2015-03-31 00:00:00,Leptocylindrus danicus,Diatom,495050
+IMOS,2015-03-31 00:00:00,Leptocylindrus mediterraneus,Diatom,74260
+IMOS,2015-03-31 00:00:00,Leptocylindrus minimus,Diatom,148510
+IMOS,2015-03-31 00:00:00,Navicula cf. 20-40 µm length,Diatom,123760
+IMOS,2015-03-31 00:00:00,Navicula cf. 40-60 µm length,Diatom,148510
+IMOS,2015-03-31 00:00:00,Proboscia alata,Diatom,594060
+IMOS,2015-03-31 00:00:00,Pronoctiluca spp.,Dinoflagellate,24750
+IMOS,2015-03-31 00:00:00,Prorocentrum spp.,Dinoflagellate,24750
+IMOS,2015-03-31 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,544550
+IMOS,2015-03-31 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,420790
+IMOS,2015-03-31 00:00:00,Pseudosolenia spp. ~30 µm cell width,Diatom,24750
+IMOS,2015-03-31 00:00:00,Rhabdonella amor,Ciliate,24750
+IMOS,2015-03-31 00:00:00,Rhizosolenia imbricata group,Diatom,445540
+IMOS,2015-03-31 00:00:00,Rhizosolenia pungens,Diatom,24750
+IMOS,2015-03-31 00:00:00,Rhizosolenia setigera,Diatom,74260
+IMOS,2015-03-31 00:00:00,Salpingella spp.,Ciliate,24750
+IMOS,2015-03-31 00:00:00,Scrippsiella spp.,Dinoflagellate,24750
+IMOS,2015-03-31 00:00:00,Steenstrupiella spp.,Ciliate,24750
+IMOS,2015-03-31 00:00:00,Trichodesmium spp.,Cyanobacteria,118217820
+IMOS,2015-03-31 00:00:00,Tripos candelabrus,Dinoflagellate,19800
+IMOS,2015-05-19 00:00:00,Centric diatom,Diatom,74260
+IMOS,2015-05-19 00:00:00,Ceratoneis closterium,Diatom,198020
+IMOS,2015-05-19 00:00:00,Chaetoceros criophilus,Diatom,24750
+IMOS,2015-05-19 00:00:00,Chaetoceros spp. 10-20 µm,Diatom,24750
+IMOS,2015-05-19 00:00:00,Ciliate (Inc. tintinnid),Ciliate,346530
+IMOS,2015-05-19 00:00:00,Climacodium frauenfeldianum,Diatom,173270
+IMOS,2015-05-19 00:00:00,Cylindrial diatom,Diatom,123760
+IMOS,2015-05-19 00:00:00,Dactyliosolen fragillissimus <150 µm length,Diatom,346530
+IMOS,2015-05-19 00:00:00,Dactyliosolen phuketensis,Diatom,148510
+IMOS,2015-05-19 00:00:00,Dinophysis caudata,Dinoflagellate,24750
+IMOS,2015-05-19 00:00:00,Ditylum brightwellii < 40 µm width,Diatom,24750
+IMOS,2015-05-19 00:00:00,Guinardia striata,Diatom,49500
+IMOS,2015-05-19 00:00:00,Gyrodinium spp.,Dinoflagellate,272280
+IMOS,2015-05-19 00:00:00,Hemiaulus spp.,Diatom,49500
+IMOS,2015-05-19 00:00:00,Lauderia annulata < 70 µm length,Diatom,24750
+IMOS,2015-05-19 00:00:00,Leptocylindrus danicus,Diatom,272280
+IMOS,2015-05-19 00:00:00,Leptocylindrus mediterraneus,Diatom,123760
+IMOS,2015-05-19 00:00:00,Leptocylindrus minimus,Diatom,74260
+IMOS,2015-05-19 00:00:00,Meuniera membranacea,Diatom,99010
+IMOS,2015-05-19 00:00:00,Navicula cf. 20-40 µm length,Diatom,148510
+IMOS,2015-05-19 00:00:00,Oxytoxum scolopax,Dinoflagellate,24750
+IMOS,2015-05-19 00:00:00,Oxytoxum spp.,Dinoflagellate,24750
+IMOS,2015-05-19 00:00:00,Pleurosigma spp. < 150 µm,Diatom,49500
+IMOS,2015-05-19 00:00:00,Proboscia alata,Diatom,74260
+IMOS,2015-05-19 00:00:00,Pronoctiluca spp.,Dinoflagellate,24750
+IMOS,2015-05-19 00:00:00,Prorocentrum spp.,Dinoflagellate,24750
+IMOS,2015-05-19 00:00:00,Protoperidinium spp.,Dinoflagellate,24750
+IMOS,2015-05-19 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,272280
+IMOS,2015-05-19 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,173270
+IMOS,2015-05-19 00:00:00,Rhabdonella amor,Ciliate,24750
+IMOS,2015-05-19 00:00:00,Rhizosolenia imbricata group,Diatom,198020
+IMOS,2015-05-19 00:00:00,Rhizosolenia pungens,Diatom,24750
+IMOS,2015-05-19 00:00:00,Rhizosolenia setigera,Diatom,24750
+IMOS,2015-05-19 00:00:00,Salpingella spp.,Ciliate,49500
+IMOS,2015-05-19 00:00:00,Skeletonema spp.,Diatom,643560
+IMOS,2015-05-19 00:00:00,Strombidium spp.,Ciliate,24750
+IMOS,2015-05-19 00:00:00,Thalassionema frauenfeldii,Diatom,99010
+IMOS,2015-05-19 00:00:00,Trichodesmium spp.,Cyanobacteria,16501650
+IMOS,2015-05-19 00:00:00,Tripos pentagonus,Dinoflagellate,49500
+IMOS,2015-07-23 00:00:00,Acanthostomella norvegica,Ciliate,25000
+IMOS,2015-07-23 00:00:00,Campylodiscus spp.,Diatom,25000
+IMOS,2015-07-23 00:00:00,Ceratoneis closterium,Diatom,300000
+IMOS,2015-07-23 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,75000
+IMOS,2015-07-23 00:00:00,Ciliate (naked < 25µm),Ciliate,75000
+IMOS,2015-07-23 00:00:00,Dinophysis dens,Dinoflagellate,25000
+IMOS,2015-07-23 00:00:00,Eutintinnus spp.,Ciliate,25000
+IMOS,2015-07-23 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,300000
+IMOS,2015-07-23 00:00:00,Gyrodinium spp.,Dinoflagellate,25000
+IMOS,2015-07-23 00:00:00,Leptocylindrus minimus,Diatom,75000
+IMOS,2015-07-23 00:00:00,Mesodinium rubrum,Ciliate,25000
+IMOS,2015-07-23 00:00:00,Navicula cf. 80-100 µm length,Diatom,25000
+IMOS,2015-07-23 00:00:00,Noctiluca scintillans,Dinoflagellate,10000
+IMOS,2015-07-23 00:00:00,Prorocentrum gracile,Dinoflagellate,25000
+IMOS,2015-07-23 00:00:00,Prorocentrum spp.,Dinoflagellate,25000
+IMOS,2015-07-23 00:00:00,Protoperidinium spp.,Dinoflagellate,100000
+IMOS,2015-07-23 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,125000
+IMOS,2015-07-23 00:00:00,Striatella unipunctata,Diatom,25000
+IMOS,2015-07-23 00:00:00,Thalassionema spp. < 100 µm length,Diatom,25000
+IMOS,2015-06-30 00:00:00,Amphorides spp.,Ciliate,25000
+IMOS,2015-06-30 00:00:00,Centric diatom,Diatom,50000
+IMOS,2015-06-30 00:00:00,Ceratoneis closterium,Diatom,50000
+IMOS,2015-06-30 00:00:00,Chaetoceros danicus,Diatom,25000
+IMOS,2015-06-30 00:00:00,Chaetoceros spp.,Diatom,150000
+IMOS,2015-06-30 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,200000
+IMOS,2015-06-30 00:00:00,Ciliate (Inc. tintinnid),Ciliate,25000
+IMOS,2015-06-30 00:00:00,Climacodium spp.,Diatom,75000
+IMOS,2015-06-30 00:00:00,Cyclotella spp.,Diatom,25000
+IMOS,2015-06-30 00:00:00,Dactyliosolen phuketensis,Diatom,50000
+IMOS,2015-06-30 00:00:00,Detonula pumila,Diatom,75000
+IMOS,2015-06-30 00:00:00,Dictyocha fibula,Silicoflagellate,50000
+IMOS,2015-06-30 00:00:00,Eutintinnus spp.,Ciliate,25000
+IMOS,2015-06-30 00:00:00,Guinardia striata,Diatom,25000
+IMOS,2015-06-30 00:00:00,Gyrodinium spp.,Dinoflagellate,25000
+IMOS,2015-06-30 00:00:00,Laboea spp.,Ciliate,25000
+IMOS,2015-06-30 00:00:00,Leptocylindrus danicus,Diatom,25000
+IMOS,2015-06-30 00:00:00,Leptocylindrus mediterraneus,Diatom,50000
+IMOS,2015-06-30 00:00:00,Mesodinium rubrum,Ciliate,25000
+IMOS,2015-06-30 00:00:00,Navicula cf. 200-250 µm length,Diatom,75000
+IMOS,2015-06-30 00:00:00,Pennate diatom > 100 µm,Diatom,25000
+IMOS,2015-06-30 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,200000
+IMOS,2015-06-30 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,50000
+IMOS,2015-06-30 00:00:00,Rhizosolenia bergonii,Diatom,50000
+IMOS,2015-06-30 00:00:00,Rhizosolenia fallax,Diatom,25000
+IMOS,2015-06-30 00:00:00,Rhizosolenia setigera,Diatom,25000
+IMOS,2015-06-30 00:00:00,Salpingella spp.,Ciliate,25000
+IMOS,2015-08-19 00:00:00,Alexandrium spp.,Dinoflagellate,76190
+IMOS,2015-08-19 00:00:00,Bacteriastrum spp.,Diatom,419050
+IMOS,2015-08-19 00:00:00,Centric diatom 20-30 µm,Diatom,685710
+IMOS,2015-08-19 00:00:00,Cerataulina pelagica,Diatom,495240
+IMOS,2015-08-19 00:00:00,Ceratoneis closterium,Diatom,228570
+IMOS,2015-08-19 00:00:00,Chaetoceros lorenzianus,Diatom,190480
+IMOS,2015-08-19 00:00:00,Ciliate (naked < 25µm),Ciliate,342860
+IMOS,2015-08-19 00:00:00,Climacodium frauenfeldianum,Diatom,685710
+IMOS,2015-08-19 00:00:00,Dactyliosolen fragillissimus <150 µm length,Diatom,190480
+IMOS,2015-08-19 00:00:00,Dactyliosolen phuketensis,Diatom,2057140
+IMOS,2015-08-19 00:00:00,Dadayiella ganymedes,Ciliate,38100
+IMOS,2015-08-19 00:00:00,Guinardia striata,Diatom,1447620
+IMOS,2015-08-19 00:00:00,Hemiaulus hauckii,Diatom,76190
+IMOS,2015-08-19 00:00:00,Laboea spp.,Ciliate,38100
+IMOS,2015-08-19 00:00:00,Leptocylindrus danicus,Diatom,2552380
+IMOS,2015-08-19 00:00:00,Mesodinium rubrum,Ciliate,419050
+IMOS,2015-08-19 00:00:00,Navicula cf. 40-60 µm length,Diatom,76190
+IMOS,2015-08-19 00:00:00,Proboscia alata,Diatom,114290
+IMOS,2015-08-19 00:00:00,Protoperidinium spp.,Dinoflagellate,38100
+IMOS,2015-08-19 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,190480
+IMOS,2015-08-19 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,76190
+IMOS,2015-08-19 00:00:00,Rhizosolenia imbricata,Diatom,38100
+IMOS,2015-08-19 00:00:00,Rhizosolenia setigera,Diatom,38100
+IMOS,2015-08-19 00:00:00,Tripos spp.,Dinoflagellate,571430
+IMOS,2015-10-14 00:00:00,Amphorides spp.,Ciliate,25000
+IMOS,2015-10-14 00:00:00,Centric diatom 20-30 µm,Diatom,750000
+IMOS,2015-10-14 00:00:00,Centric diatom 30-40 µm,Diatom,25000
+IMOS,2015-10-14 00:00:00,Ceratoneis closterium,Diatom,75000
+IMOS,2015-10-14 00:00:00,Ciliate (naked < 25µm),Ciliate,25000
+IMOS,2015-10-14 00:00:00,Dadayiella ganymedes,Ciliate,25000
+IMOS,2015-10-14 00:00:00,Dictyocha fibula,Silicoflagellate,50000
+IMOS,2015-10-14 00:00:00,Eutintinnus medius,Ciliate,25000
+IMOS,2015-10-14 00:00:00,Guinardia striata,Diatom,275000
+IMOS,2015-10-14 00:00:00,Gyrodinium spp. 20-40 µm,Dinoflagellate,50000
+IMOS,2015-10-14 00:00:00,Gyrosigma spp.,Diatom,25000
+IMOS,2015-10-14 00:00:00,Hemiaulus spp.,Diatom,50000
+IMOS,2015-10-14 00:00:00,Leptocylindrus danicus,Diatom,125000
+IMOS,2015-10-14 00:00:00,Meuniera membranacea,Diatom,25000
+IMOS,2015-10-14 00:00:00,Oxytoxum spp.,Dinoflagellate,25000
+IMOS,2015-10-14 00:00:00,Proboscia alata,Diatom,75000
+IMOS,2015-10-14 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,125000
+IMOS,2015-10-14 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,175000
+IMOS,2015-10-14 00:00:00,Scrippsiella spp.,Dinoflagellate,25000
+IMOS,2015-11-16 00:00:00,Centric diatom,Diatom,57575760
+IMOS,2015-11-16 00:00:00,Centric diatom 20-30 µm,Diatom,10101010
+IMOS,2015-11-16 00:00:00,Ceratoneis closterium,Diatom,1515150
+IMOS,2015-11-16 00:00:00,Chaetoceros coarctatus (+ciliates),Diatom,1515150
+IMOS,2015-11-16 00:00:00,Chaetoceros peruvianus < 40 µm cell width,Diatom,505050
+IMOS,2015-11-16 00:00:00,Chaetoceros spp. 10-20 µm,Diatom,113131310
+IMOS,2015-11-16 00:00:00,Ciliate (naked < 25µm),Ciliate,505050
+IMOS,2015-11-16 00:00:00,Dactyliosolen fragillissimus <150 µm length,Diatom,3535350
+IMOS,2015-11-16 00:00:00,Dinophysis spp.,Dinoflagellate,2525250
+IMOS,2015-11-16 00:00:00,Ditylum brightwellii < 40 µm width,Diatom,505050
+IMOS,2015-11-16 00:00:00,Haslea wawrikae,Diatom,505050
+IMOS,2015-11-16 00:00:00,Meuniera membranacea,Diatom,2020200
+IMOS,2015-11-16 00:00:00,Proboscia alata,Diatom,5050510
+IMOS,2015-11-16 00:00:00,Protoperidinium spp.,Dinoflagellate,2020200
+IMOS,2015-11-16 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,5050510
+IMOS,2015-11-16 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,7575760
+IMOS,2015-11-16 00:00:00,Stephanopyxis spp.,Diatom,10101010
+IMOS,2015-11-16 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,2020200
+IMOS,2016-02-02 00:00:00,Asteromphalus spp.,Diatom,47620
+IMOS,2016-02-02 00:00:00,Ceratoneis closterium,Diatom,142860
+IMOS,2016-02-02 00:00:00,Ciliate (naked < 25µm),Ciliate,119050
+IMOS,2016-02-02 00:00:00,Codonellopsis morchella,Ciliate,47620
+IMOS,2016-02-02 00:00:00,Dactyliosolen blavyanus,Diatom,95240
+IMOS,2016-02-02 00:00:00,Gyrodinium spp.,Dinoflagellate,71430
+IMOS,2016-02-02 00:00:00,Navicula cf. 40-60 µm length,Diatom,47620
+IMOS,2016-02-02 00:00:00,Navicula cf. 60-80 µm length,Diatom,47620
+IMOS,2016-02-02 00:00:00,Protoperidinium spp.,Dinoflagellate,71430
+IMOS,2016-02-02 00:00:00,Salpingella spp.,Ciliate,23810
+IMOS,2016-02-02 00:00:00,Scrippsiella spp.,Dinoflagellate,47620
+IMOS,2016-02-02 00:00:00,Skeletonema spp.,Diatom,428570
+IMOS,2016-02-02 00:00:00,Tripos fusus,Dinoflagellate,23810
+IMOS,2016-02-02 00:00:00,Tripos trichoceros,Dinoflagellate,9520
+IMOS,2016-03-01 00:00:00,Ceratoneis closterium,Diatom,388350
+IMOS,2016-03-01 00:00:00,Climacodium spp.,Diatom,388350
+IMOS,2016-03-01 00:00:00,Dinophysis tripos,Dinoflagellate,67960
+IMOS,2016-03-01 00:00:00,Guinardia flaccida <150 µm length,Diatom,194170
+IMOS,2016-03-01 00:00:00,Gyrodinium spp. 20-40 µm,Dinoflagellate,194170
+IMOS,2016-03-01 00:00:00,Phalacroma mitra,Dinoflagellate,9710
+IMOS,2016-03-01 00:00:00,Proboscia alata,Diatom,388350
+IMOS,2016-03-01 00:00:00,Prorocentrum gracile,Dinoflagellate,194170
+IMOS,2016-03-01 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,1747570
+IMOS,2016-03-01 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,2524270
+IMOS,2016-03-01 00:00:00,Pseudosolenia spp. ~60 µm cell width,Diatom,19420
+IMOS,2016-03-01 00:00:00,Stephanopyxis palmeriana,Diatom,19420
+IMOS,2016-04-08 00:00:00,Cerataulina pelagica,Diatom,521740
+IMOS,2016-04-08 00:00:00,Ceratoneis closterium,Diatom,5913040
+IMOS,2016-04-08 00:00:00,Chaetoceros coarctatus (+ciliates),Diatom,86960
+IMOS,2016-04-08 00:00:00,Climacocylis scalaroides,Ciliate,8700
+IMOS,2016-04-08 00:00:00,Climacodium spp.,Diatom,521740
+IMOS,2016-04-08 00:00:00,Eutintinnus spp.,Ciliate,173910
+IMOS,2016-04-08 00:00:00,Guinardia striata,Diatom,347830
+IMOS,2016-04-08 00:00:00,Gyrodinium spp.,Dinoflagellate,347830
+IMOS,2016-04-08 00:00:00,Hemiaulus hauckii,Diatom,173910
+IMOS,2016-04-08 00:00:00,Leptocylindrus danicus,Diatom,347830
+IMOS,2016-04-08 00:00:00,Mesodinium rubrum,Ciliate,695650
+IMOS,2016-04-08 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,10782610
+IMOS,2016-04-08 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,8695650
+IMOS,2016-04-08 00:00:00,Rhizosolenia fallax,Diatom,173910
+IMOS,2016-04-08 00:00:00,Scrippsiella spp.,Dinoflagellate,347830
+IMOS,2016-04-08 00:00:00,Skeletonema spp.,Diatom,57391300
+IMOS,2016-04-08 00:00:00,Tripos furca,Dinoflagellate,173910
+IMOS,2016-05-03 00:00:00,Ceratoneis closterium,Diatom,150000
+IMOS,2016-05-03 00:00:00,Chaetoceros spp. 10-20 µm,Diatom,500000
+IMOS,2016-05-03 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,450000
+IMOS,2016-05-03 00:00:00,Ciliate (naked < 25µm),Ciliate,125000
+IMOS,2016-05-03 00:00:00,Eucampia spp. <100 µm cell length,Diatom,25000
+IMOS,2016-05-03 00:00:00,Haslea wawrikae,Diatom,25000
+IMOS,2016-05-03 00:00:00,Hemiaulus hauckii,Diatom,25000
+IMOS,2016-05-03 00:00:00,Leptocylindrus danicus,Diatom,175000
+IMOS,2016-05-03 00:00:00,Prorocentrum spp.,Dinoflagellate,25000
+IMOS,2016-05-03 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,125000
+IMOS,2016-05-03 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,475000
+IMOS,2016-05-03 00:00:00,Skeletonema spp.,Diatom,1000000
+IMOS,2016-06-15 00:00:00,Amphidinium spp. <30 µm cell height,Dinoflagellate,80000
+IMOS,2016-06-15 00:00:00,Bacteriastrum spp.,Diatom,1440000
+IMOS,2016-06-15 00:00:00,Cerataulina pelagica,Diatom,280000
+IMOS,2016-06-15 00:00:00,Ceratoneis closterium,Diatom,240000
+IMOS,2016-06-15 00:00:00,Chaetoceros anastomosans,Diatom,240000
+IMOS,2016-06-15 00:00:00,Chaetoceros peruvianus < 40 µm cell width,Diatom,160000
+IMOS,2016-06-15 00:00:00,Chaetoceros spp. 10-20 µm,Diatom,440000
+IMOS,2016-06-15 00:00:00,Ciliate (naked < 25µm),Ciliate,160000
+IMOS,2016-06-15 00:00:00,Dactyliosolen fragillissimus <150 µm length,Diatom,1280000
+IMOS,2016-06-15 00:00:00,Dictyocha fibula,Silicoflagellate,80000
+IMOS,2016-06-15 00:00:00,Eucampia cornuta,Diatom,80000
+IMOS,2016-06-15 00:00:00,Guinardia striata,Diatom,1600000
+IMOS,2016-06-15 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,400000
+IMOS,2016-06-15 00:00:00,Gyrodinium spp.,Dinoflagellate,120000
+IMOS,2016-06-15 00:00:00,Gyrosigma spp.,Diatom,40000
+IMOS,2016-06-15 00:00:00,Haslea wawrikae,Diatom,40000
+IMOS,2016-06-15 00:00:00,Hemiaulus hauckii,Diatom,40000
+IMOS,2016-06-15 00:00:00,Laboea spp.,Ciliate,40000
+IMOS,2016-06-15 00:00:00,Leptocylindrus danicus,Diatom,680000
+IMOS,2016-06-15 00:00:00,Navicula septentrionalis,Diatom,40000
+IMOS,2016-06-15 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,1960000
+IMOS,2016-06-15 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,400000
+IMOS,2016-06-15 00:00:00,Rhizosolenia setigera,Diatom,200000
+IMOS,2016-06-15 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,400000
+IMOS,2016-06-15 00:00:00,Tripos fusus,Dinoflagellate,40000
+IMOS,2016-07-19 00:00:00,Acanthostomella norvegica,Ciliate,125000
+IMOS,2016-07-19 00:00:00,Asterionellopsis glacialis,Diatom,25000
+IMOS,2016-07-19 00:00:00,Asteromphalus spp.,Diatom,125000
+IMOS,2016-07-19 00:00:00,Centric diatom 20-30 µm,Diatom,150000
+IMOS,2016-07-19 00:00:00,Centric diatom 30-40 µm,Diatom,50000
+IMOS,2016-07-19 00:00:00,Cerataulina pelagica,Diatom,75000
+IMOS,2016-07-19 00:00:00,Ceratoneis closterium,Diatom,150000
+IMOS,2016-07-19 00:00:00,Chaetoceros didymus,Diatom,175000
+IMOS,2016-07-19 00:00:00,Chaetoceros spp. 10-20 µm,Diatom,600000
+IMOS,2016-07-19 00:00:00,Ciliate (naked < 25µm),Ciliate,500000
+IMOS,2016-07-19 00:00:00,Cladopyxis brachiolata,Dinoflagellate,25000
+IMOS,2016-07-19 00:00:00,Coscinodiscus spp. 100-150 µm,Diatom,25000
+IMOS,2016-07-19 00:00:00,Dactyliosolen fragillissimus <150 µm length,Diatom,125000
+IMOS,2016-07-19 00:00:00,Dictyocha fibula,Silicoflagellate,75000
+IMOS,2016-07-19 00:00:00,Dinophysis tripos,Dinoflagellate,25000
+IMOS,2016-07-19 00:00:00,Diploneis spp.,Diatom,25000
+IMOS,2016-07-19 00:00:00,Ditylum brightwellii < 40 µm width,Diatom,350000
+IMOS,2016-07-19 00:00:00,Gonyaulax spp.,Dinoflagellate,25000
+IMOS,2016-07-19 00:00:00,Guinardia striata,Diatom,250000
+IMOS,2016-07-19 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,75000
+IMOS,2016-07-19 00:00:00,Helicotheca spp.,Diatom,75000
+IMOS,2016-07-19 00:00:00,Hemiaulus hauckii,Diatom,75000
+IMOS,2016-07-19 00:00:00,Laboea spp.,Ciliate,250000
+IMOS,2016-07-19 00:00:00,Lauderia annulata < 70 µm length,Diatom,25000
+IMOS,2016-07-19 00:00:00,Leptocylindrus danicus,Diatom,50000
+IMOS,2016-07-19 00:00:00,Mesodinium rubrum,Ciliate,125000
+IMOS,2016-07-19 00:00:00,Odontella sinensis,Diatom,25000
+IMOS,2016-07-19 00:00:00,Proboscia alata,Diatom,25000
+IMOS,2016-07-19 00:00:00,Protoperidinium spp.,Dinoflagellate,75000
+IMOS,2016-07-19 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,325000
+IMOS,2016-07-19 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,200000
+IMOS,2016-07-19 00:00:00,Pseudosolenia spp. ~60 µm cell width,Diatom,25000
+IMOS,2016-07-19 00:00:00,Rhizosolenia setigera,Diatom,25000
+IMOS,2016-07-19 00:00:00,Skeletonema spp.,Diatom,1300000
+IMOS,2016-07-19 00:00:00,Thalassiosira spp. 40-60 µm,Diatom,75000
+IMOS,2016-07-19 00:00:00,Tripos spp.,Dinoflagellate,25000
+IMOS,2016-08-30 00:00:00,Ciliate (Inc. tintinnid),Ciliate,150000
+IMOS,2016-08-30 00:00:00,Ciliate (naked < 25µm),Ciliate,450000
+IMOS,2016-08-30 00:00:00,Codonellopsis morchella,Ciliate,100000
+IMOS,2016-08-30 00:00:00,Coscinodiscus spp. 100-150 µm,Diatom,25000
+IMOS,2016-08-30 00:00:00,Laboea spp.,Ciliate,25000
+IMOS,2016-08-30 00:00:00,Mesodinium rubrum,Ciliate,75000
+IMOS,2016-08-30 00:00:00,Oxytoxum spp.,Dinoflagellate,25000
+IMOS,2016-08-30 00:00:00,Proboscia alata,Diatom,25000
+IMOS,2016-08-30 00:00:00,Radiolarian,Radiozoa,10000
+IMOS,2016-08-30 00:00:00,Scrippsiella spp.,Dinoflagellate,75000
+IMOS,2016-08-30 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,50000
+IMOS,2016-08-30 00:00:00,Thalassiosira spp. 40-60 µm,Diatom,25000
+IMOS,2016-09-27 00:00:00,Alexandrium spp.,Dinoflagellate,50000
+IMOS,2016-09-27 00:00:00,Bacteriastrum spp.,Diatom,750000
+IMOS,2016-09-27 00:00:00,Ceratoneis closterium,Diatom,375000
+IMOS,2016-09-27 00:00:00,Chaetoceros atlanticus,Diatom,25000
+IMOS,2016-09-27 00:00:00,Chaetoceros danicus,Diatom,100000
+IMOS,2016-09-27 00:00:00,Chaetoceros lorenzianus,Diatom,75000
+IMOS,2016-09-27 00:00:00,Chaetoceros spp. 10-20 µm,Diatom,625000
+IMOS,2016-09-27 00:00:00,Ciliate (naked 25-50 µm),Ciliate,75000
+IMOS,2016-09-27 00:00:00,Ciliate (naked < 25µm),Ciliate,125000
+IMOS,2016-09-27 00:00:00,Corethron pennatum,Diatom,250000
+IMOS,2016-09-27 00:00:00,Coscinodiscus wailesii,Diatom,10000
+IMOS,2016-09-27 00:00:00,Cyanobacteria cluster,Cyanobacteria,300000
+IMOS,2016-09-27 00:00:00,Dactyliosolen fragillissimus <150 µm length,Diatom,500000
+IMOS,2016-09-27 00:00:00,Dadayiella ganymedes,Ciliate,25000
+IMOS,2016-09-27 00:00:00,Guinardia delicatula,Diatom,175000
+IMOS,2016-09-27 00:00:00,Guinardia striata,Diatom,125000
+IMOS,2016-09-27 00:00:00,Gyrodinium spp. 20-40 µm,Dinoflagellate,50000
+IMOS,2016-09-27 00:00:00,Laboea spp.,Ciliate,75000
+IMOS,2016-09-27 00:00:00,Leptocylindrus minimus,Diatom,125000
+IMOS,2016-09-27 00:00:00,Navicula cf. 40-60 µm length,Diatom,25000
+IMOS,2016-09-27 00:00:00,Octactis octonaria,Silicoflagellate,25000
+IMOS,2016-09-27 00:00:00,Oxytoxum spp.,Dinoflagellate,50000
+IMOS,2016-09-27 00:00:00,Pennate diatom 10 - 25 µm,Diatom,375000
+IMOS,2016-09-27 00:00:00,Prorocentrum spp.,Dinoflagellate,25000
+IMOS,2016-09-27 00:00:00,Protoperidinium spp.,Dinoflagellate,125000
+IMOS,2016-09-27 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,900000
+IMOS,2016-09-27 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,250000
+IMOS,2016-09-27 00:00:00,Rhizosolenia bergonii,Diatom,75000
+IMOS,2016-09-27 00:00:00,Rhizosolenia setigera,Diatom,50000
+IMOS,2016-09-27 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,225000
+IMOS,2016-09-27 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,25000
+IMOS,2016-09-27 00:00:00,Trichodesmium spp.,Cyanobacteria,2875000
+IMOS,2016-10-31 00:00:00,Centric diatom,Diatom,39938560
+IMOS,2016-10-31 00:00:00,Guinardia delicatula,Diatom,307220
+IMOS,2016-10-31 00:00:00,Leptocylindrus mediterraneus,Diatom,921660
+IMOS,2016-10-31 00:00:00,Octactis octonaria,Silicoflagellate,307220
+IMOS,2016-10-31 00:00:00,Proboscia alata,Diatom,307220
+IMOS,2016-10-31 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,1536100
+IMOS,2016-10-31 00:00:00,Stephanopyxis spp.,Diatom,307220
+IMOS,2016-10-31 00:00:00,Thalassiosira spp. <10 µm,Diatom,63901690
+IMOS,2016-10-31 00:00:00,Tripos furca,Dinoflagellate,307220
+IMOS,2016-12-05 00:00:00,Ceratoneis closterium,Diatom,450000
+IMOS,2016-12-05 00:00:00,Ciliate (naked 25-50 µm),Ciliate,100000
+IMOS,2016-12-05 00:00:00,Dactyliosolen fragillissimus <150 µm length,Diatom,875000
+IMOS,2016-12-05 00:00:00,Dactyliosolen phuketensis,Diatom,50000
+IMOS,2016-12-05 00:00:00,Gyrodinium spp. 60-80 µm,Dinoflagellate,25000
+IMOS,2016-12-05 00:00:00,Gyrosigma spp.,Diatom,25000
+IMOS,2016-12-05 00:00:00,Haslea wawrikae,Diatom,75000
+IMOS,2016-12-05 00:00:00,Leptocylindrus danicus,Diatom,1125000
+IMOS,2016-12-05 00:00:00,Mesoporos perforatus,Dinoflagellate,200000
+IMOS,2016-12-05 00:00:00,Noctiluca scintillans,Dinoflagellate,10000
+IMOS,2016-12-05 00:00:00,Octactis octonaria,Silicoflagellate,125000
+IMOS,2016-12-05 00:00:00,Proboscia alata,Diatom,250000
+IMOS,2016-12-05 00:00:00,Protoperidinium spp.,Dinoflagellate,25000
+IMOS,2016-12-05 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,125000
+IMOS,2016-12-05 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,50000
+IMOS,2016-12-05 00:00:00,Rhizosolenia imbricata group,Diatom,75000
+IMOS,2016-12-05 00:00:00,Scrippsiella spp.,Dinoflagellate,50000
+IMOS,2016-12-05 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,50000
+IMOS,2016-12-05 00:00:00,Thalassiosira spp. <10 µm,Diatom,30500000
+IMOS,2016-12-05 00:00:00,Tripos furca,Dinoflagellate,300000
+IMOS,2016-12-05 00:00:00,Tripos fusus,Dinoflagellate,75000
+IMOS,2017-02-06 00:00:00,Ceratoneis closterium,Diatom,175000
+IMOS,2017-02-06 00:00:00,Chaetoceros coarctatus (+ciliates),Diatom,50000
+IMOS,2017-02-06 00:00:00,Guinardia flaccida <150 µm length,Diatom,25000
+IMOS,2017-02-06 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,50000
+IMOS,2017-02-06 00:00:00,Gyrosigma spp.,Diatom,50000
+IMOS,2017-02-06 00:00:00,Membraneis spp.,Diatom,25000
+IMOS,2017-02-06 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,50000
+IMOS,2017-02-06 00:00:00,Striatella unipunctata,Diatom,25000
+IMOS,2017-02-06 00:00:00,Trichodesmium spp.,Cyanobacteria,1000000
+IMOS,2017-02-06 00:00:00,Tripos candelabrus,Dinoflagellate,10000
+IMOS,2017-02-06 00:00:00,Tripos fusus,Dinoflagellate,50000
+IMOS,2017-02-06 00:00:00,Tripos horridus,Dinoflagellate,25000
+IMOS,2017-03-22 00:00:00,Ceratoneis closterium,Diatom,880000
+IMOS,2017-03-22 00:00:00,Chaetoceros danicus,Diatom,80000
+IMOS,2017-03-22 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,360000
+IMOS,2017-03-22 00:00:00,Ciliate (naked < 25µm),Ciliate,200000
+IMOS,2017-03-22 00:00:00,Dactyliosolen spp.,Diatom,40000
+IMOS,2017-03-22 00:00:00,Eucampia cornuta,Diatom,40000
+IMOS,2017-03-22 00:00:00,Leptocylindrus minimus,Diatom,160000
+IMOS,2017-03-22 00:00:00,Pennate diatom 25 - 50 µm,Diatom,6080000
+IMOS,2017-03-22 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,400000
+IMOS,2017-03-22 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,680000
+IMOS,2017-03-22 00:00:00,Skeletonema spp.,Diatom,160000
+IMOS,2017-05-18 00:00:00,Dinophysis tripos,Dinoflagellate,75000
+IMOS,2017-05-18 00:00:00,Leptocylindrus mediterraneus,Diatom,25000
+IMOS,2017-05-18 00:00:00,Tripos fusus,Dinoflagellate,25000
+IMOS,2017-06-15 00:00:00,Acanthostomella norvegica,Ciliate,25130
+IMOS,2017-06-15 00:00:00,Ascampbelliella spp.,Ciliate,25130
+IMOS,2017-06-15 00:00:00,Bacteriastrum spp.,Diatom,25130
+IMOS,2017-06-15 00:00:00,Ceratocorys horrida,Dinoflagellate,10050
+IMOS,2017-06-15 00:00:00,Ceratoneis closterium,Diatom,150750
+IMOS,2017-06-15 00:00:00,Chaetoceros coarctatus (+ciliates),Diatom,70350
+IMOS,2017-06-15 00:00:00,Ciliate (naked < 25µm),Ciliate,251260
+IMOS,2017-06-15 00:00:00,Climacodium frauenfeldianum,Diatom,50250
+IMOS,2017-06-15 00:00:00,Codonellopsis morchella,Ciliate,75380
+IMOS,2017-06-15 00:00:00,Dactyliosolen phuketensis,Diatom,25130
+IMOS,2017-06-15 00:00:00,Dictyocha fibula,Silicoflagellate,100500
+IMOS,2017-06-15 00:00:00,Dinophysis caudata,Dinoflagellate,50250
+IMOS,2017-06-15 00:00:00,Eutintinnus spp.,Ciliate,75380
+IMOS,2017-06-15 00:00:00,Guinardia flaccida <150 µm length,Diatom,50250
+IMOS,2017-06-15 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,25130
+IMOS,2017-06-15 00:00:00,Gyrodinium spp.,Dinoflagellate,25130
+IMOS,2017-06-15 00:00:00,Helicotheca spp.,Diatom,25130
+IMOS,2017-06-15 00:00:00,Hemiaulus membranaceus,Diatom,75380
+IMOS,2017-06-15 00:00:00,Hemiaulus sinensis,Diatom,25130
+IMOS,2017-06-15 00:00:00,Lauderia annulata < 70 µm length,Diatom,75380
+IMOS,2017-06-15 00:00:00,Neostreptotheca spp.,Diatom,50250
+IMOS,2017-06-15 00:00:00,Prorocentrum spp.,Dinoflagellate,25130
+IMOS,2017-06-15 00:00:00,Protoperidinium spp.,Dinoflagellate,25130
+IMOS,2017-06-15 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,276380
+IMOS,2017-06-15 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,75380
+IMOS,2017-06-15 00:00:00,Pseudosolenia spp. ~30 µm cell width,Diatom,50250
+IMOS,2017-06-15 00:00:00,Radiolarian,Radiozoa,25130
+IMOS,2017-06-15 00:00:00,Rhizosolenia imbricata group,Diatom,251260
+IMOS,2017-06-15 00:00:00,Thalassiosira spp. 40-60 µm,Diatom,50250
+IMOS,2017-06-15 00:00:00,Tripos furca,Dinoflagellate,25130
+IMOS,2017-06-15 00:00:00,Tripos fusus,Dinoflagellate,25130
+IMOS,2017-06-15 00:00:00,Tripos macroceros,Dinoflagellate,10050
+IMOS,2017-06-15 00:00:00,Xystonella treforti,Ciliate,10050
+IMOS,2017-07-17 00:00:00,Bacteriastrum spp.,Diatom,2985440
+IMOS,2017-07-17 00:00:00,Cerataulina pelagica,Diatom,145630
+IMOS,2017-07-17 00:00:00,Ceratoneis closterium,Diatom,291260
+IMOS,2017-07-17 00:00:00,Chaetoceros danicus,Diatom,145630
+IMOS,2017-07-17 00:00:00,Chaetoceros lorenzianus,Diatom,145630
+IMOS,2017-07-17 00:00:00,Chaetoceros spp. 10-20 µm,Diatom,461170
+IMOS,2017-07-17 00:00:00,Ciliate (naked 25-50 µm),Ciliate,24270
+IMOS,2017-07-17 00:00:00,Ciliate (naked < 25µm),Ciliate,48540
+IMOS,2017-07-17 00:00:00,Corethron pennatum,Diatom,97090
+IMOS,2017-07-17 00:00:00,Cyclotella spp.,Diatom,24270
+IMOS,2017-07-17 00:00:00,Dactyliosolen phuketensis,Diatom,145630
+IMOS,2017-07-17 00:00:00,Dactyliosolen spp.,Diatom,242720
+IMOS,2017-07-17 00:00:00,Dictyocha fibula,Silicoflagellate,48540
+IMOS,2017-07-17 00:00:00,Guinardia striata,Diatom,728160
+IMOS,2017-07-17 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,194170
+IMOS,2017-07-17 00:00:00,Gyrodinium spp.,Dinoflagellate,24270
+IMOS,2017-07-17 00:00:00,Hemiaulus hauckii,Diatom,48540
+IMOS,2017-07-17 00:00:00,Hemiaulus membranaceus,Diatom,242720
+IMOS,2017-07-17 00:00:00,Leptocylindrus danicus,Diatom,291260
+IMOS,2017-07-17 00:00:00,Leptocylindrus mediterraneus (with flagellates),Diatom,24270
+IMOS,2017-07-17 00:00:00,Leptocylindrus minimus,Diatom,97090
+IMOS,2017-07-17 00:00:00,Meuniera membranacea,Diatom,339810
+IMOS,2017-07-17 00:00:00,Nitzschia longissima,Diatom,145630
+IMOS,2017-07-17 00:00:00,Phalacroma rotundatum,Dinoflagellate,24270
+IMOS,2017-07-17 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,461170
+IMOS,2017-07-17 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,121360
+IMOS,2017-07-17 00:00:00,Rhizosolenia setigera,Diatom,24270
+IMOS,2017-07-17 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,218450
+IMOS,2017-07-17 00:00:00,Thalassiosira spp. 40-60 µm,Diatom,121360
+IMOS,2017-09-21 00:00:00,Cerataulina pelagica,Diatom,1266670
+IMOS,2017-09-21 00:00:00,Ceratoneis closterium,Diatom,333330
+IMOS,2017-09-21 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,1733330
+IMOS,2017-09-21 00:00:00,Ciliate (Inc. tintinnid),Ciliate,1133330
+IMOS,2017-09-21 00:00:00,Cylindrial diatom,Diatom,1000000
+IMOS,2017-09-21 00:00:00,Dactyliosolen fragillissimus <150 µm length,Diatom,3000000
+IMOS,2017-09-21 00:00:00,Dactyliosolen phuketensis,Diatom,333330
+IMOS,2017-09-21 00:00:00,Guinardia delicatula,Diatom,2266670
+IMOS,2017-09-21 00:00:00,Guinardia flaccida <150 µm length,Diatom,133330
+IMOS,2017-09-21 00:00:00,Gyrodinium spp. 20-40 µm,Dinoflagellate,466670
+IMOS,2017-09-21 00:00:00,Hemiaulus membranaceus,Diatom,66670
+IMOS,2017-09-21 00:00:00,Lauderia annulata < 70 µm length,Diatom,4800000
+IMOS,2017-09-21 00:00:00,Leptocylindrus danicus,Diatom,333330
+IMOS,2017-09-21 00:00:00,Leptocylindrus minimus,Diatom,333330
+IMOS,2017-09-21 00:00:00,Navicula cf. 100-120 µm length,Diatom,66670
+IMOS,2017-09-21 00:00:00,Navicula cf. 20-40 µm length,Diatom,133330
+IMOS,2017-09-21 00:00:00,Navicula cf. 40-60 µm length,Diatom,266670
+IMOS,2017-09-21 00:00:00,Oxytoxum spp.,Dinoflagellate,66670
+IMOS,2017-09-21 00:00:00,Prorocentrum gracile,Dinoflagellate,66670
+IMOS,2017-09-21 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,333330
+IMOS,2017-09-21 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,2000000
+IMOS,2017-09-21 00:00:00,Rhizosolenia spp.,Diatom,400000
+IMOS,2017-09-21 00:00:00,Scrippsiella spp.,Dinoflagellate,133330
+IMOS,2017-09-21 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,4066670
+IMOS,2017-09-21 00:00:00,Tripos furca,Dinoflagellate,66670
+IMOS,2017-10-25 00:00:00,Asterionellopsis glacialis,Diatom,1941750
+IMOS,2017-10-25 00:00:00,Ceratoneis closterium,Diatom,15533980
+IMOS,2017-10-25 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,7766990
+IMOS,2017-10-25 00:00:00,Ciliate (naked 25-50 µm),Ciliate,1941750
+IMOS,2017-10-25 00:00:00,Dactyliosolen phuketensis,Diatom,1941750
+IMOS,2017-10-25 00:00:00,Dinophysis caudata,Dinoflagellate,1941750
+IMOS,2017-10-25 00:00:00,Guinardia delicatula,Diatom,33009710
+IMOS,2017-10-25 00:00:00,Gyrodinium spp. 20-40 µm,Dinoflagellate,1941750
+IMOS,2017-10-25 00:00:00,Lauderia annulata < 70 µm length,Diatom,3883500
+IMOS,2017-10-25 00:00:00,Leptocylindrus danicus,Diatom,33009710
+IMOS,2017-10-25 00:00:00,Leptocylindrus minimus,Diatom,108737860
+IMOS,2017-10-25 00:00:00,Noctiluca scintillans,Dinoflagellate,58250
+IMOS,2017-10-25 00:00:00,Proboscia alata,Diatom,1941750
+IMOS,2017-10-25 00:00:00,Prorocentrum dentatum,Dinoflagellate,11650490
+IMOS,2017-10-25 00:00:00,Prorocentrum lima,Dinoflagellate,1941750
+IMOS,2017-10-25 00:00:00,Prorocentrum micans,Dinoflagellate,1941750
+IMOS,2017-10-25 00:00:00,Prorocentrum triestinum,Dinoflagellate,5825240
+IMOS,2017-10-25 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,33009710
+IMOS,2017-10-25 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,17475730
+IMOS,2017-10-25 00:00:00,Rhizosolenia imbricata group,Diatom,1941750
+IMOS,2017-10-25 00:00:00,Rhizosolenia setigera,Diatom,1941750
+IMOS,2017-10-25 00:00:00,Scrippsiella spp.,Dinoflagellate,1941750
+IMOS,2017-10-25 00:00:00,Strombidium spp.,Ciliate,1941750
+IMOS,2017-10-25 00:00:00,Thalassiosira gravida,Diatom,3883500
+IMOS,2017-10-25 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,570388350
+IMOS,2017-10-25 00:00:00,Undella spp.,Ciliate,1941750
+IMOS,2017-08-21 00:00:00,Asteromphalus spp.,Diatom,25000
+IMOS,2017-08-21 00:00:00,Cerataulina pelagica,Diatom,125000
+IMOS,2017-08-21 00:00:00,Ceratoneis closterium,Diatom,300000
+IMOS,2017-08-21 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,300000
+IMOS,2017-08-21 00:00:00,Ciliate (naked < 25µm),Ciliate,400000
+IMOS,2017-08-21 00:00:00,Climacodium spp.,Diatom,100000
+IMOS,2017-08-21 00:00:00,Dinophysis acuminata,Dinoflagellate,25000
+IMOS,2017-08-21 00:00:00,Gonyaulax spp.,Dinoflagellate,50000
+IMOS,2017-08-21 00:00:00,Laboea spp.,Ciliate,25000
+IMOS,2017-08-21 00:00:00,Mesodinium rubrum,Ciliate,200000
+IMOS,2017-08-21 00:00:00,Protoperidinium spp.,Dinoflagellate,50000
+IMOS,2017-08-21 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,25000
+IMOS,2017-08-21 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,50000
+IMOS,2017-08-21 00:00:00,Salpingella spp.,Ciliate,25000
+IMOS,2017-08-21 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,125000
+IMOS,2017-08-21 00:00:00,Tripos fusus,Dinoflagellate,25000
+IMOS,2017-12-12 00:00:00,Cerataulina pelagica,Diatom,408160
+IMOS,2017-12-12 00:00:00,Chaetoceros didymus,Diatom,204080
+IMOS,2017-12-12 00:00:00,Chaetoceros peruvianus < 40 µm cell width,Diatom,40820
+IMOS,2017-12-12 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,163270
+IMOS,2017-12-12 00:00:00,Ciliate (naked 25-50 µm),Ciliate,40820
+IMOS,2017-12-12 00:00:00,Ciliate (naked < 25µm),Ciliate,1959180
+IMOS,2017-12-12 00:00:00,Dactyliosolen spp.,Diatom,612240
+IMOS,2017-12-12 00:00:00,Dadayiella ganymedes,Ciliate,40820
+IMOS,2017-12-12 00:00:00,Guinardia striata,Diatom,122450
+IMOS,2017-12-12 00:00:00,Laboea spp.,Ciliate,40820
+IMOS,2017-12-12 00:00:00,Leptocylindrus danicus,Diatom,612240
+IMOS,2017-12-12 00:00:00,Mesodinium rubrum,Ciliate,40820
+IMOS,2017-12-12 00:00:00,Navicula cf. 60-80 µm length,Diatom,2040820
+IMOS,2017-12-12 00:00:00,Noctiluca scintillans,Dinoflagellate,142860
+IMOS,2017-12-12 00:00:00,Proboscia alata,Diatom,3877550
+IMOS,2017-12-12 00:00:00,Prorocentrum spp.,Dinoflagellate,40820
+IMOS,2017-12-12 00:00:00,Protoperidinium spp.,Dinoflagellate,408160
+IMOS,2017-12-12 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,2040820
+IMOS,2017-12-12 00:00:00,Salpingella spp.,Ciliate,40820
+IMOS,2017-12-12 00:00:00,Scrippsiella spp.,Dinoflagellate,81630
+IMOS,2018-01-24 00:00:00,Ceratoneis closterium,Diatom,125000
+IMOS,2018-01-24 00:00:00,Chaetoceros minimus,Diatom,50000
+IMOS,2018-01-24 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,50000
+IMOS,2018-01-24 00:00:00,Ciliate (Inc. tintinnid),Ciliate,25000
+IMOS,2018-01-24 00:00:00,Codonellopsis morchella,Ciliate,25000
+IMOS,2018-01-24 00:00:00,Dinophysis acuminata,Dinoflagellate,25000
+IMOS,2018-01-24 00:00:00,Diploneis spp.,Diatom,25000
+IMOS,2018-01-24 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,250000
+IMOS,2018-01-24 00:00:00,Gyrodinium spp. 40-60 µm,Dinoflagellate,175000
+IMOS,2018-01-24 00:00:00,Leptocylindrus danicus,Diatom,50000
+IMOS,2018-01-24 00:00:00,Leptocylindrus mediterraneus (with flagellates),Diatom,50000
+IMOS,2018-01-24 00:00:00,Navicula cf. 40-60 µm length,Diatom,25000
+IMOS,2018-01-24 00:00:00,Navicula cf. 80-100 µm length,Diatom,25000
+IMOS,2018-01-24 00:00:00,Octactis octonaria,Silicoflagellate,75000
+IMOS,2018-01-24 00:00:00,Oxytoxum spp.,Dinoflagellate,25000
+IMOS,2018-01-24 00:00:00,Pennate diatom 25 - 50 µm,Diatom,25000
+IMOS,2018-01-24 00:00:00,Prorocentrum spp.,Dinoflagellate,75000
+IMOS,2018-01-24 00:00:00,Prorocentrum triestinum,Dinoflagellate,25000
+IMOS,2018-01-24 00:00:00,Protoperidinium spp.,Dinoflagellate,50000
+IMOS,2018-01-24 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,275000
+IMOS,2018-01-24 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,225000
+IMOS,2018-01-24 00:00:00,Rhabdonella amor,Ciliate,25000
+IMOS,2018-01-24 00:00:00,Rhizosolenia imbricata group,Diatom,25000
+IMOS,2018-01-24 00:00:00,Salpingella subconica,Ciliate,25000
+IMOS,2018-01-24 00:00:00,Scrippsiella spp.,Dinoflagellate,150000
+IMOS,2018-01-24 00:00:00,Striatella unipunctata,Diatom,50000
+IMOS,2018-01-24 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,150000
+IMOS,2018-01-24 00:00:00,Tintinnopsis spp.,Ciliate,50000
+IMOS,2018-01-24 00:00:00,Tripos furca,Dinoflagellate,25000
+IMOS,2018-01-24 00:00:00,Tryblionella compressa,Diatom,75000
+IMOS,2018-02-22 00:00:00,Acanthostomella norvegica,Ciliate,51550
+IMOS,2018-02-22 00:00:00,Actinopoda,Radiozoa,77320
+IMOS,2018-02-22 00:00:00,Bacteriastrum spp.,Diatom,154640
+IMOS,2018-02-22 00:00:00,Ceratoneis closterium,Diatom,335050
+IMOS,2018-02-22 00:00:00,Chaetoceros affinis,Diatom,154640
+IMOS,2018-02-22 00:00:00,Chaetoceros minimus,Diatom,103090
+IMOS,2018-02-22 00:00:00,Chaetoceros spp. 10-20 µm,Diatom,463920
+IMOS,2018-02-22 00:00:00,Ciliate (Inc. tintinnid),Ciliate,154640
+IMOS,2018-02-22 00:00:00,Climacocylis scalaroides,Ciliate,77320
+IMOS,2018-02-22 00:00:00,Cyanobacteria cluster,Cyanobacteria,1572160
+IMOS,2018-02-22 00:00:00,Dactyliosolen fragillissimus <150 µm length,Diatom,77320
+IMOS,2018-02-22 00:00:00,Dictyocha fibula,Silicoflagellate,51550
+IMOS,2018-02-22 00:00:00,Diploneis spp.,Diatom,25770
+IMOS,2018-02-22 00:00:00,Eutintinnus lususundae,Ciliate,25770
+IMOS,2018-02-22 00:00:00,Fragilariopsis spp.,Diatom,103090
+IMOS,2018-02-22 00:00:00,Gymnodinioid dinoflagellate 10-20 µm,Dinoflagellate,103090
+IMOS,2018-02-22 00:00:00,Gyrodinium spp. 20-40 µm,Dinoflagellate,283510
+IMOS,2018-02-22 00:00:00,Gyrodinium spp. 40-60 µm,Dinoflagellate,206190
+IMOS,2018-02-22 00:00:00,Leptocylindrus danicus,Diatom,2087630
+IMOS,2018-02-22 00:00:00,Leptocylindrus mediterraneus (with flagellates),Diatom,283510
+IMOS,2018-02-22 00:00:00,Leptocylindrus minimus,Diatom,103090
+IMOS,2018-02-22 00:00:00,Licmophora spp. < 150 µm,Diatom,103090
+IMOS,2018-02-22 00:00:00,Navicula cf. 20-40 µm length,Diatom,103090
+IMOS,2018-02-22 00:00:00,Navicula cf. 40-60 µm length,Diatom,103090
+IMOS,2018-02-22 00:00:00,Octactis octonaria,Silicoflagellate,25770
+IMOS,2018-02-22 00:00:00,Proboscia alata,Diatom,25770
+IMOS,2018-02-22 00:00:00,Pronoctiluca spp.,Dinoflagellate,51550
+IMOS,2018-02-22 00:00:00,Prorocentrum dentatum,Dinoflagellate,25770
+IMOS,2018-02-22 00:00:00,Prorocentrum spp.,Dinoflagellate,77320
+IMOS,2018-02-22 00:00:00,Prorocentrum triestinum,Dinoflagellate,25770
+IMOS,2018-02-22 00:00:00,Protoperidinium spp.,Dinoflagellate,25770
+IMOS,2018-02-22 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,618560
+IMOS,2018-02-22 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,128870
+IMOS,2018-02-22 00:00:00,Rhizosolenia imbricata group,Diatom,51550
+IMOS,2018-02-22 00:00:00,Scrippsiella spp.,Dinoflagellate,25770
+IMOS,2018-02-22 00:00:00,Skeletonema spp.,Diatom,154640
+IMOS,2018-02-22 00:00:00,Thalassionema spp. < 100 µm length,Diatom,103090
+IMOS,2018-02-22 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,25770
+IMOS,2018-02-22 00:00:00,Tintinnina ,Ciliate,386600
+IMOS,2018-02-22 00:00:00,Trichodesmium spp.,Cyanobacteria,3737110
+IMOS,2018-02-22 00:00:00,Tripos declinatus,Dinoflagellate,25770
+IMOS,2018-02-22 00:00:00,Tripos furca,Dinoflagellate,25770
+IMOS,2018-02-22 00:00:00,Tryblionella compressa,Diatom,25770
+IMOS,2018-03-27 00:00:00,Bacteriastrum spp.,Diatom,1000000
+IMOS,2018-03-27 00:00:00,Ceratoneis closterium,Diatom,1000000
+IMOS,2018-03-27 00:00:00,Chaetoceros danicus,Diatom,200000
+IMOS,2018-03-27 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,866670
+IMOS,2018-03-27 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,3266670
+IMOS,2018-03-27 00:00:00,Ciliate (naked 25-50 µm),Ciliate,133330
+IMOS,2018-03-27 00:00:00,Cymatocylis spp.,Ciliate,20000
+IMOS,2018-03-27 00:00:00,Dactyliosolen phuketensis,Diatom,2200000
+IMOS,2018-03-27 00:00:00,Guinardia striata,Diatom,66670
+IMOS,2018-03-27 00:00:00,Gyrodinium spp. 40-60 µm,Dinoflagellate,66670
+IMOS,2018-03-27 00:00:00,Helicotheca spp.,Diatom,200000
+IMOS,2018-03-27 00:00:00,Lauderia annulata < 70 µm length,Diatom,266670
+IMOS,2018-03-27 00:00:00,Leptocylindrus danicus,Diatom,10333330
+IMOS,2018-03-27 00:00:00,Leptocylindrus minimus,Diatom,1200000
+IMOS,2018-03-27 00:00:00,Pennate diatom 75 - 100 µm,Diatom,533330
+IMOS,2018-03-27 00:00:00,Planktoniella sol,Diatom,10000
+IMOS,2018-03-27 00:00:00,Proboscia alata,Diatom,66670
+IMOS,2018-03-27 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,666670
+IMOS,2018-03-27 00:00:00,Pseudosolenia spp. ~60 µm cell width,Diatom,66670
+IMOS,2018-03-27 00:00:00,Rhizosolenia setigera,Diatom,133330
+IMOS,2018-03-27 00:00:00,Trichodesmium spp.,Cyanobacteria,9000000
+IMOS,2018-03-27 00:00:00,Tripos carriensis,Dinoflagellate,10000
+IMOS,2018-03-27 00:00:00,Unid diatom,Diatom,800000
+IMOS,2018-05-29 00:00:00,Asterionellopsis spp. ~50 µm length,Diatom,194170
+IMOS,2018-05-29 00:00:00,Asteromphalus spp.,Diatom,116500
+IMOS,2018-05-29 00:00:00,Bacteriastrum spp.,Diatom,2019420
+IMOS,2018-05-29 00:00:00,Cerataulina pelagica,Diatom,116500
+IMOS,2018-05-29 00:00:00,Ceratoneis closterium,Diatom,194170
+IMOS,2018-05-29 00:00:00,Chaetoceros danicus,Diatom,194170
+IMOS,2018-05-29 00:00:00,Chaetoceros lorenzianus,Diatom,77670
+IMOS,2018-05-29 00:00:00,Chaetoceros peruvianus < 40 µm cell width,Diatom,116500
+IMOS,2018-05-29 00:00:00,Chaetoceros spp.,Diatom,116500
+IMOS,2018-05-29 00:00:00,Ciliate (naked < 25µm),Ciliate,4582520
+IMOS,2018-05-29 00:00:00,Dactyliosolen phuketensis,Diatom,1242720
+IMOS,2018-05-29 00:00:00,Guinardia flaccida <150 µm length,Diatom,504850
+IMOS,2018-05-29 00:00:00,Guinardia striata,Diatom,271840
+IMOS,2018-05-29 00:00:00,Helicotheca spp.,Diatom,38830
+IMOS,2018-05-29 00:00:00,Leptocylindrus danicus,Diatom,427180
+IMOS,2018-05-29 00:00:00,Navicula cf. 40-60 µm length,Diatom,194170
+IMOS,2018-05-29 00:00:00,Proboscia alata,Diatom,194170
+IMOS,2018-05-29 00:00:00,Prorocentrum spp.,Dinoflagellate,77670
+IMOS,2018-05-29 00:00:00,Protoperidinium spp.,Dinoflagellate,38830
+IMOS,2018-05-29 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,582520
+IMOS,2018-05-29 00:00:00,Rhizosolenia imbricata,Diatom,38830
+IMOS,2018-05-29 00:00:00,Rhizosolenia setigera,Diatom,116500
+IMOS,2018-05-29 00:00:00,Salpingella spp.,Ciliate,38830
+IMOS,2018-05-29 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,854370
+IMOS,2018-05-29 00:00:00,Thalassiosira spp. 40-60 µm,Diatom,271840
+IMOS,2018-05-29 00:00:00,Tintinnina ,Ciliate,38830
+IMOS,2018-06-26 00:00:00,Ascampbelliella spp.,Ciliate,83820
+IMOS,2018-06-26 00:00:00,Ceratoneis closterium,Diatom,1341040
+IMOS,2018-06-26 00:00:00,Chaetoceros lorenzianus,Diatom,167630
+IMOS,2018-06-26 00:00:00,Chaetoceros spp. 10-20 µm,Diatom,2011570
+IMOS,2018-06-26 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,754340
+IMOS,2018-06-26 00:00:00,Ciliate (Inc. tintinnid),Ciliate,335260
+IMOS,2018-06-26 00:00:00,Cylindrial diatom,Diatom,1005780
+IMOS,2018-06-26 00:00:00,Dactyliosolen fragillissimus <150 µm length,Diatom,251450
+IMOS,2018-06-26 00:00:00,Dictyocha fibula,Silicoflagellate,670520
+IMOS,2018-06-26 00:00:00,Gyrodinium spp. 20-40 µm,Dinoflagellate,251450
+IMOS,2018-06-26 00:00:00,Leptocylindrus minimus,Diatom,1005780
+IMOS,2018-06-26 00:00:00,Navicula cf. 20-40 µm length,Diatom,83820
+IMOS,2018-06-26 00:00:00,Navicula cf. 40-60 µm length,Diatom,167630
+IMOS,2018-06-26 00:00:00,Nitzschia bicapitata,Diatom,83820
+IMOS,2018-06-26 00:00:00,Oxytoxum spp.,Dinoflagellate,167630
+IMOS,2018-06-26 00:00:00,Pennate diatom 25 - 50 µm,Diatom,167630
+IMOS,2018-06-26 00:00:00,Prorocentrum triestinum,Dinoflagellate,83820
+IMOS,2018-06-26 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,15086750
+IMOS,2018-06-26 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,4023130
+IMOS,2018-06-26 00:00:00,Rhizosolenia imbricata group,Diatom,83820
+IMOS,2018-06-26 00:00:00,Strombidium spp.,Ciliate,83820
+IMOS,2018-06-26 00:00:00,Thalassionema spp. > 100 µm length,Diatom,167630
+IMOS,2018-06-26 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,167630
+IMOS,2018-06-26 00:00:00,Trichodesmium spp.,Cyanobacteria,3352610
+IMOS,2018-07-25 00:00:00,Ceratoneis closterium,Diatom,561400
+IMOS,2018-07-25 00:00:00,Chaetoceros spp. 20-30 µm,Diatom,140350
+IMOS,2018-07-25 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,1403510
+IMOS,2018-07-25 00:00:00,Ciliate (Inc. tintinnid),Ciliate,70180
+IMOS,2018-07-25 00:00:00,Coscinodiscus spp. 100-150 µm,Diatom,70180
+IMOS,2018-07-25 00:00:00,Cylindrial diatom,Diatom,140350
+IMOS,2018-07-25 00:00:00,Dactyliosolen fragillissimus <150 µm length,Diatom,12070180
+IMOS,2018-07-25 00:00:00,Dactyliosolen phuketensis,Diatom,280700
+IMOS,2018-07-25 00:00:00,Dictyocha fibula,Silicoflagellate,210530
+IMOS,2018-07-25 00:00:00,Guinardia striata,Diatom,140350
+IMOS,2018-07-25 00:00:00,Gyrodinium spp. 20-40 µm,Dinoflagellate,280700
+IMOS,2018-07-25 00:00:00,Gyrodinium spp. 40-60 µm,Dinoflagellate,140350
+IMOS,2018-07-25 00:00:00,Leptocylindrus danicus,Diatom,280700
+IMOS,2018-07-25 00:00:00,Meuniera membranacea,Diatom,771930
+IMOS,2018-07-25 00:00:00,Neostreptotheca spp.,Diatom,561400
+IMOS,2018-07-25 00:00:00,Oxytoxum scolopax,Dinoflagellate,70180
+IMOS,2018-07-25 00:00:00,Pennate diatom 25 - 50 µm,Diatom,140350
+IMOS,2018-07-25 00:00:00,Protoperidinium spp.,Dinoflagellate,70180
+IMOS,2018-07-25 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,1684210
+IMOS,2018-07-25 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,1333330
+IMOS,2018-07-25 00:00:00,Rhizosolenia imbricata group,Diatom,140350
+IMOS,2018-07-25 00:00:00,Rhizosolenia pungens,Diatom,70180
+IMOS,2018-07-25 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,2947370
+IMOS,2018-07-25 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,6175440
+IMOS,2018-07-25 00:00:00,Thalassiosira spp. 40-60 µm,Diatom,140350
+IMOS,2018-07-25 00:00:00,Tripos gametes,Dinoflagellate,70180
+IMOS,2018-11-21 00:00:00,Amphisolenia spp.,Dinoflagellate,9950
+IMOS,2018-11-21 00:00:00,Bacteriastrum spp.,Diatom,199000
+IMOS,2018-11-21 00:00:00,Cerataulina spp.,Diatom,99500
+IMOS,2018-11-21 00:00:00,Ceratoneis closterium,Diatom,2587060
+IMOS,2018-11-21 00:00:00,Chaetoceros spp. 10-20 µm,Diatom,99500
+IMOS,2018-11-21 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,1691540
+IMOS,2018-11-21 00:00:00,Ciliate (Inc. tintinnid),Ciliate,99500
+IMOS,2018-11-21 00:00:00,Guinardia flaccida <150 µm length,Diatom,99500
+IMOS,2018-11-21 00:00:00,Laboea spp.,Ciliate,199000
+IMOS,2018-11-21 00:00:00,Lauderia annulata < 70 µm length,Diatom,99500
+IMOS,2018-11-21 00:00:00,Leptocylindrus danicus,Diatom,4577110
+IMOS,2018-11-21 00:00:00,Licmophora spp. < 150 µm,Diatom,99500
+IMOS,2018-11-21 00:00:00,Meuniera membranacea,Diatom,6865670
+IMOS,2018-11-21 00:00:00,Navicula cf. 100-120 µm length,Diatom,99500
+IMOS,2018-11-21 00:00:00,Navicula cf. 40-60 µm length,Diatom,99500
+IMOS,2018-11-21 00:00:00,Noctiluca scintillans,Dinoflagellate,59700
+IMOS,2018-11-21 00:00:00,Octactis octonaria,Silicoflagellate,3781090
+IMOS,2018-11-21 00:00:00,Proboscia alata,Diatom,199000
+IMOS,2018-11-21 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,1393030
+IMOS,2018-11-21 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,8855720
+IMOS,2018-11-21 00:00:00,Rhizosolenia imbricata group,Diatom,199000
+IMOS,2018-11-21 00:00:00,Rhizosolenia pungens,Diatom,99500
+IMOS,2018-11-21 00:00:00,Rhizosolenia setigera,Diatom,99500
+IMOS,2018-11-21 00:00:00,Skeletonema spp.,Diatom,5970150
+IMOS,2018-11-21 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,597010
+IMOS,2018-11-21 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,497510
+IMOS,2018-11-21 00:00:00,Tripos furca,Dinoflagellate,99500
+IMOS,2018-09-05 00:00:00,Ceratoneis closterium,Diatom,512820
+IMOS,2018-09-05 00:00:00,Ciliate (Inc. tintinnid),Ciliate,410260
+IMOS,2018-09-05 00:00:00,Guinardia delicatula,Diatom,1435900
+IMOS,2018-09-05 00:00:00,Gyrodinium spp. 10-20 µm,Dinoflagellate,410260
+IMOS,2018-09-05 00:00:00,Gyrodinium spp. 20-40 µm,Dinoflagellate,923080
+IMOS,2018-09-05 00:00:00,Navicula cf. 80-100 µm length,Diatom,205130
+IMOS,2018-09-05 00:00:00,Oxytoxum spp.,Dinoflagellate,717950
+IMOS,2018-09-05 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,923080
+IMOS,2018-09-05 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,205130
+IMOS,2018-09-05 00:00:00,Scrippsiella spp.,Dinoflagellate,307690
+IMOS,2018-09-05 00:00:00,Thalassiosira spp. 10-20 µm,Diatom,902564100
+IMOS,2018-09-05 00:00:00,Thalassiosira spp. 20-40 µm,Diatom,512820
+IMOS,2018-09-05 00:00:00,Tripos falcatus,Dinoflagellate,102560
+IMOS,2018-09-27 00:00:00,Alexandrium spp.,Dinoflagellate,25000
+IMOS,2018-09-27 00:00:00,Ascampbelliella spp.,Ciliate,50000
+IMOS,2018-09-27 00:00:00,Ceratoneis closterium,Diatom,125000
+IMOS,2018-09-27 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,225000
+IMOS,2018-09-27 00:00:00,Ciliate (naked < 25µm),Ciliate,475000
+IMOS,2018-09-27 00:00:00,Codonellopsis morchella,Ciliate,25000
+IMOS,2018-09-27 00:00:00,Dinophysis acuminata,Dinoflagellate,50000
+IMOS,2018-09-27 00:00:00,Laboea spp.,Ciliate,50000
+IMOS,2018-09-27 00:00:00,Leptocylindrus danicus,Diatom,25000
+IMOS,2018-09-27 00:00:00,Navicula cf. 60-80 µm length,Diatom,100000
+IMOS,2018-09-27 00:00:00,Noctiluca scintillans,Dinoflagellate,20000
+IMOS,2018-09-27 00:00:00,Ormosella spp.,Ciliate,25000
+IMOS,2018-09-27 00:00:00,Pinus pollen,Other,75000
+IMOS,2018-09-27 00:00:00,Proboscia alata,Diatom,50000
+IMOS,2018-09-27 00:00:00,Protoperidinium spp.,Dinoflagellate,50000
+IMOS,2018-09-27 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,2125000
+IMOS,2018-09-27 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,200000
+IMOS,2018-09-27 00:00:00,Scrippsiella spp.,Dinoflagellate,50000
+IMOS,2018-09-27 00:00:00,Thalassiosira spp. 40-60 µm,Diatom,125000
+IMOS,2018-09-27 00:00:00,Tripos kofoidii,Dinoflagellate,25000
+IMOS,2018-12-18 00:00:00,Ceratoneis closterium,Diatom,16666670
+IMOS,2018-12-18 00:00:00,Chaetoceros spp. 10-20 µm,Diatom,5000000
+IMOS,2018-12-18 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,4166670
+IMOS,2018-12-18 00:00:00,Ciliate (naked 25-50 µm),Ciliate,4166670
+IMOS,2018-12-18 00:00:00,Guinardia striata,Diatom,5833330
+IMOS,2018-12-18 00:00:00,Laboea spp.,Ciliate,833330
+IMOS,2018-12-18 00:00:00,Lauderia spp.,Diatom,4166670
+IMOS,2018-12-18 00:00:00,Leptocylindrus danicus,Diatom,190833330
+IMOS,2018-12-18 00:00:00,Lioloma cf. spp.,Diatom,833330
+IMOS,2018-12-18 00:00:00,Meuniera membranacea,Diatom,4166670
+IMOS,2018-12-18 00:00:00,Proboscia alata,Diatom,10000000
+IMOS,2018-12-18 00:00:00,Prorocentrum gracile,Dinoflagellate,833330
+IMOS,2018-12-18 00:00:00,Protoperidinium spp.,Dinoflagellate,833330
+IMOS,2018-12-18 00:00:00,Scrippsiella spp.,Dinoflagellate,1666670
+IMOS,2018-12-18 00:00:00,Thalassionema spp. > 100 µm length,Diatom,4166670
+IMOS,2018-12-18 00:00:00,Thalassiosira spp. 40-60 µm,Diatom,4166670
+IMOS,2018-12-18 00:00:00,Tripos furca,Dinoflagellate,833330
+IMOS,2018-12-18 00:00:00,Tripos fusus,Dinoflagellate,833330
+IMOS,2018-12-18 00:00:00,Tripos vultur,Dinoflagellate,10000
+IMOS,2019-01-22 00:00:00,Brachidinium spp.,Dinoflagellate,285710
+IMOS,2019-01-22 00:00:00,Cerataulina spp. ~150 µm length,Diatom,2000000
+IMOS,2019-01-22 00:00:00,Ceratoneis closterium,Diatom,1142860
+IMOS,2019-01-22 00:00:00,Ceratoperidinium falcatum,Dinoflagellate,1142860
+IMOS,2019-01-22 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,14285710
+IMOS,2019-01-22 00:00:00,Ciliate (naked 25-50 µm),Ciliate,857140
+IMOS,2019-01-22 00:00:00,Ciliate (naked < 25µm),Ciliate,6000000
+IMOS,2019-01-22 00:00:00,Dactyliosolen fragillissimus <150 µm length,Diatom,8571430
+IMOS,2019-01-22 00:00:00,Dactyliosolen phuketensis,Diatom,285710
+IMOS,2019-01-22 00:00:00,Dinophysis tripos,Dinoflagellate,285710
+IMOS,2019-01-22 00:00:00,Eucampia spp. <100 µm cell length,Diatom,1714290
+IMOS,2019-01-22 00:00:00,Gymnodinioid dinoflagellate 40-50 µm,Dinoflagellate,285710
+IMOS,2019-01-22 00:00:00,Gyrodinium spp. 40-60 µm,Dinoflagellate,285710
+IMOS,2019-01-22 00:00:00,Leptocylindrus danicus,Diatom,17142860
+IMOS,2019-01-22 00:00:00,Navicula cf. 100-120 µm length,Diatom,571430
+IMOS,2019-01-22 00:00:00,Navicula cf. 40-60 µm length,Diatom,571430
+IMOS,2019-01-22 00:00:00,Noctiluca scintillans,Dinoflagellate,10000
+IMOS,2019-01-22 00:00:00,Podolampas spp.,Dinoflagellate,285710
+IMOS,2019-01-22 00:00:00,Pronoctiluca spp.,Dinoflagellate,285710
+IMOS,2019-01-22 00:00:00,Prorocentrum gracile,Dinoflagellate,857140
+IMOS,2019-01-22 00:00:00,Pseudo-nitzschia delicatisima complex <=3 µm,Diatom,17142860
+IMOS,2019-01-22 00:00:00,Pseudo-nitzschia seriata complex >3 µm,Diatom,3714290
+IMOS,2019-01-22 00:00:00,Rhizosolenia spp.,Diatom,285710
+IMOS,2019-01-22 00:00:00,Scrippsiella spp.,Dinoflagellate,571430
+IMOS,2019-01-22 00:00:00,Thalassiosira spp. 40-60 µm,Diatom,571430
+IMOS,2019-01-22 00:00:00,Tripos azoricus,Dinoflagellate,285710
+IMOS,2019-01-22 00:00:00,Tripos furca,Dinoflagellate,285710
+IMOS,2019-01-22 00:00:00,Tripos horridus,Dinoflagellate,285710
+IMOS,2019-01-22 00:00:00,Tripos longirostrus,Dinoflagellate,285710
+IMOS,2019-01-22 00:00:00,Unid diatom,Diatom,5714290
+IMOS,2019-02-28 00:00:00,Alexandrium spp.,Dinoflagellate,21930
+IMOS,2019-02-28 00:00:00,Cerataulina pelagica,Diatom,43860
+IMOS,2019-02-28 00:00:00,Ceratoneis closterium,Diatom,109650
+IMOS,2019-02-28 00:00:00,Dactyliosolen phuketensis,Diatom,219300
+IMOS,2019-02-28 00:00:00,Dinophysis spp.,Dinoflagellate,21930
+IMOS,2019-02-28 00:00:00,Guinardia cylindrus,Diatom,65790
+IMOS,2019-02-28 00:00:00,Guinardia striata,Diatom,263160
+IMOS,2019-02-28 00:00:00,Hemiaulus hauckii,Diatom,21930
+IMOS,2019-02-28 00:00:00,Leptocylindrus danicus,Diatom,153510
+IMOS,2019-02-28 00:00:00,Oxytoxum scolopax,Dinoflagellate,21930
+IMOS,2019-02-28 00:00:00,Proboscia alata,Diatom,21930
+IMOS,2019-02-28 00:00:00,Prorocentrum gracile,Dinoflagellate,1864040
+IMOS,2019-02-28 00:00:00,Rhizosolenia bergonii,Diatom,21930
+IMOS,2019-02-28 00:00:00,Rhizosolenia spp.,Diatom,43860
+IMOS,2019-02-28 00:00:00,Tripos azoricus,Dinoflagellate,21930
+IMOS,2019-04-09 00:00:00,Ceratoneis closterium,Diatom,915490
+IMOS,2019-04-09 00:00:00,Chaetoceros spp. < 10 µm cell width,Diatom,46950
+IMOS,2019-04-09 00:00:00,Ciliate (naked < 25µm),Ciliate,281690
+IMOS,2019-04-09 00:00:00,Climacodium spp.,Diatom,234740
+IMOS,2019-04-09 00:00:00,Dactyliosolen spp.,Diatom,211270
+IMOS,2019-04-09 00:00:00,Dictyocha fibula,Silicoflagellate,23470
+IMOS,2019-04-09 00:00:00,Gyrodinium spp. 20-40 µm,Dinoflagellate,23470
+IMOS,2019-04-09 00:00:00,Mesodinium rubrum,Ciliate,117370
+IMOS,2019-04-09 00:00:00,Pennate diatom 25 - 50 µm,Diatom,23470
+IMOS,2019-04-09 00:00:00,Protoperidinium spp.,Dinoflagellate,23470
+IMOS,2019-04-09 00:00:00,Skeletonema spp.,Diatom,164320
+IMOS,2019-04-09 00:00:00,Tintinnina ,Ciliate,23470
+IMOS,2019-04-09 00:00:00,Trichodesmium spp.,Cyanobacteria,3286380
+IMOS,2019-04-09 00:00:00,Tripos candelabrus,Dinoflagellate,23470
+IMOS,2019-04-09 00:00:00,Tripos macroceros,Dinoflagellate,23470
+IMOS,2019-04-09 00:00:00,Unid diatom,Diatom,23470
