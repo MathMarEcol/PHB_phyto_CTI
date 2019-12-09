@@ -18,14 +18,16 @@ psti <- read.csv("DataForSTIphyto.csv", header= TRUE, na.strings="(null)") %>% s
                         "Guinardia striata (with Richelia)" = "Guinardia striata",
                         "Lauderia annulata < 70 µm length" = "Lauderia annulata",
                         "Lauderia annulata > 70 µm length" = "Lauderia annulata",
-                        #"Ditylum brightwellii > 40 µm width" = "Ditylum brightwellii",
                         "Ditylum brightwellii < 40 µm width" = "Ditylum brightwellii",
                         "Dactyliosolen fragillissimus >150 µm length" = "Dactyliosolen fragillissimus",
                         "Dactyliosolen fragillissimus <150 µm length" = "Dactyliosolen fragillissimus",  
                         "Leptocylindrus mediterraneus (no flagellates)" = "Leptocylindrus mediterraneus", 
                         "Leptocylindrus mediterraneus (with flagellates)" = "Leptocylindrus mediterraneus",
                         "Proboscia alata ~ 50 µm cell width" = "Proboscia alata" ,
-                        "Asterionellopsis spp. ~50 µm length" = "Asterionellopsis glacialis"))  %>% droplevels()
+                        "Asterionellopsis spp. ~50 µm length" = "Asterionellopsis glacialis",
+                        "Chaetoceros peruvianus < 40 µm cell width" = "Chaetoceros peruvianus",
+                        "Chaetoceros peruvianus > 40 µm cell width" = "Chaetoceros peruvianus",
+                        "Nitzschia cf. bicapitata" = "Nitzschia bicapitata"))  %>% droplevels()
   
 nrsp <- subset(psti, PROJECT == "nrs" )
 mean_nrsp <- mean(log10(nrsp$ABUNDANCE))
