@@ -180,7 +180,7 @@ aidcti3 <- aidSTI %>% filter(!is.na(STI))  %>%
 # Use lm to see how CTI changes with years after removing the seasonal cycle
 
 aidcti3$Period <- as.factor(aidcti3$Period)
-lmCTIaid3 <- lm(cti ~ Period + Harm(Monh, k=2), data=aidcti3) #k2 makes month wobbly, k=1 insignificant
+lmCTIaid3 <- lm(cti ~ Period + Harm(Monh, k=1), data=aidcti3) #k2 makes month wobbly, k=1 insignificant
 summary(lmCTIaid3)
 anova(lmCTIaid3)
 #x11(width=11, height=8)
@@ -217,7 +217,7 @@ pie2$TaxonT <- as.factor(pie2$TaxonT)
 #x11(width = 11, height = 8)
 percPlot <- ggplot(data=pie2, aes(Period, tots)) + geom_col(aes(fill=TaxonT)) + theme_bw()
 percPlot
-
+ggsave("PHB_prop_3surveysphyto.png", percPlot, dpi = 1200)
 ##biggest change is decrease in A. glacilis and increase in L. danicus
 
 ############################################################################
@@ -238,6 +238,8 @@ pie4$TaxonT <- as.factor(pie4$TaxonT)
 #x11(width = 11, height = 8)
 percPlot2 <- ggplot(data=pie4, aes(Period, tots)) + geom_col(aes(fill=TaxonT)) + theme_bw()
 percPlot2
+ggsave("PHB_prop_2surveysphyto.png", percPlot2, dpi = 1200)
+
 
 #########################################################################################
 ## look at relative abundances over periods all species
@@ -260,4 +262,5 @@ pie6$TaxonT <- as.factor(pie6$TaxonT)
 #x11(width = 11, height = 8)
 percPlot3 <- ggplot(data=pie6, aes(Period, tots)) + geom_col(aes(fill=TaxonT)) + theme_bw()
 percPlot3
+ggsave("PHB_prop_Allphyto.png", percPlot3, dpi = 1200)
 
