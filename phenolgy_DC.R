@@ -108,7 +108,7 @@ mont <- visreg(lmCTIaidt, "Monh", rug = FALSE, gg = TRUE) + theme_bw(base_size =
   ylab(bquote("Community Temperature Index ("* degree *"C)")) +
   xlab("Month") + scale_x_continuous(breaks = seq(0.52,6.28,length.out = 12), label = c("J","F","M","A","M","J","J","A","S","O","N","D")) 
 
-#x11(width = 12, height = 5)
+x11(width = 12, height = 5)
 pt <- Pert + mont
 pt
 ggsave("PHB_CTI_3SurveysPhyto.png", pt, dpi = 1200)
@@ -245,12 +245,14 @@ ggsave("PHB_prop_2surveysphyto.png", percPlot2, dpi = 1200)
 ## look at relative abundances over periods all species
 
 aidSTI_pies <- aidSTI %>% filter(!is.na(STI))  %>%
-  filter(!grepl("Chaetoceros", Taxon) & !grepl("Thalassiosira s", Taxon))
+  filter(!grepl("Chaetoceros", Taxon) & !grepl("Thalassiosira s", Taxon) &
+           !grepl("Thalassionema", Taxon))
 
 addAbun <- aidSTI_pies  %>%
   group_by(Survey) %>% summarise(sums = sum(AbundanceM3))
 pie5 <- inner_join(aidSTI_pies, addAbun, by=c("Survey")) %>% filter(!is.na(STI)) %>% 
-  filter(!grepl("Chaetoceros", Taxon) & !grepl("Thalassiosira s", Taxon)) %>%
+  filter(!grepl("Chaetoceros", Taxon) & !grepl("Thalassiosira s", Taxon) &
+           !grepl("Thalassionema", Taxon)) %>%
   mutate(pies = AbundanceM3/sums) %>% group_by(Survey, Taxon) %>% summarise(sums = sum(pies)) %>%
   mutate(Period = ifelse(Survey=='Ajani', "1998-2009", ifelse(Survey=='IMOS', "2009-2018", '1931-1932')))
 pie6 <- pie5 %>% mutate(TaxonT = ifelse(sums>0.01, as.character(Taxon), "Other")) %>% 
@@ -259,7 +261,7 @@ pie6 <- pie5 %>% mutate(TaxonT = ifelse(sums>0.01, as.character(Taxon), "Other")
 
 pie6$TaxonT <- as.factor(pie6$TaxonT)
 
-#x11(width = 11, height = 8)
+x11(width = 11, height = 8)
 percPlot3 <- ggplot(data=pie6, aes(Period, tots)) + geom_col(aes(fill=TaxonT)) + theme_bw()
 percPlot3
 ggsave("PHB_prop_Allphyto.png", percPlot3, dpi = 1200)
