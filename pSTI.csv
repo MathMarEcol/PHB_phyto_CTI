@@ -11,14 +11,14 @@
 "Bacteriastrum furcatum",28.715719763303
 "Cerataulina pelagica",21.8102592597095
 "Cerataulina spp. ~150 µm length",23.9119211521075
-"Ceratocorys horrida",23.9119211521075
+"Ceratocorys horrida",25.2129499426396
 "Ceratoneis closterium",21.8102592597095
 "Chaetoceros affinis",29.0159571765028
 "Chaetoceros anastomosans",29.116036314236
 "Chaetoceros atlanticus",2.09466912626117
 "Chaetoceros bulbosus",1.59427343759497
 "Chaetoceros coarctatus",23.1112880502416
-"Chaetoceros coarctatus (+ciliates)",20.6093096069106
+"Chaetoceros coarctatus (+ciliates)",25.1128708049064
 "Chaetoceros compressus",28.715719763303
 "Chaetoceros criophilus",1.59427343759497
 "Chaetoceros curvatus",5.39728067145809
@@ -51,7 +51,7 @@
 "Corethron spp.",11.4020289354525
 "Coscinodiscus radiatus",21.0096261578436
 "Coscinodiscus spp. > 80 µm",4.19633101865921
-"Coscinodiscus spp. 100-150 µm",28.715719763303
+"Coscinodiscus spp. 100-150 µm",26.9142952841047
 "Coscinodiscus spp. 150-200 µm",18.707805989979
 "Coscinodiscus spp. 200-300 µm",29.0159571765028
 "Coscinodiscus spp. 300-400 µm",27.6148492482374
@@ -61,8 +61,7 @@
 "Coscinodiscus wailesii",18.707805989979
 "Cymatocylis calyciformis",3.79601446772625
 "Dactyliosolen antarcticus",3.49577705452653
-"Dactyliosolen fragilissimus",21.9103383974427
-"Dactyliosolen fragillissimus",22.1104966729092
+"Dactyliosolen fragilissimus",22.010417535176
 "Dactyliosolen phuketensis",22.3106549483757
 "Dactyliosolen tenuijunctus",0.493402922529325
 "Dadayiella ganymedes",22.9111297747751
@@ -113,18 +112,18 @@
 "Neostreptotheca subindica",21.20978443331
 "Nitzschia bicapitata",5.69751808465781
 "Nitzschia longissima",5.89767636012429
-"Noctiluca scintillans",19.0080434031787
+"Noctiluca scintillans",16.606144097581
 "Octactis octonaria",19.8086765050447
 "Odontella aurita",19.9087556427779
 "Odontella mobiliensis",29.6164320029022
 "Odontella sinensis",28.9158780387695
 "Odontella spp. ~50 µm cell length",26.4138995954385
-"Ornithocercus quadratus",24.2121585653072
+"Ornithocercus quadratus",25.5131873558394
 "Oxytoxum parvum",11.201870659986
 "Oxytoxum scolopax",27.9150866614371
 "Paralia sulcata",26.7141370086382
 "Phalacroma rotundatum",18.9079642654455
-"Planktoniella sol",28.5155614878366
+"Planktoniella sol",26.3138204577053
 "Pleurosigma spp. < 150 µm",22.3106549483757
 "Pleurosigma spp. > 450 µm",28.0151657991704
 "Proboscia alata",22.7109714993086
@@ -137,7 +136,7 @@
 "Protoperidinium oceanicum",19.3082808163785
 "Protoperidinium pellucidum",18.6077268522458
 "Protorhabdonella simplex",27.2145326973044
-"Pseudo-nitzschia delicatisima complex <=3 µm",21.610100984243
+"Pseudo-nitzschia delicatissima complex <=3 µm",21.610100984243
 "Pseudo-nitzschia seriata complex >3 µm",21.8102592597095
 "Pseudosolenia calcar-avis",26.213741319972
 "Pseudosolenia spp. ~30 µm cell width",23.2113671879748
@@ -176,11 +175,13 @@
 "Trichodesmium thiebautii",23.3114463257081
 "Trichotoxon reinboldii",2.89530222812709
 "Tripos arietinus",14.5044822051829
+"Tripos axialis",25.6132664935726
 "Tripos biceps",18.4075685767793
-"Tripos candelabrus",17.2066189239804
+"Tripos candelabrus",24.7125542539734
 "Tripos carriensis",17.7070146126466
 "Tripos concilians",17.7070146126466
-"Tripos contortus",22.3106549483757
+"Tripos contortus",23.4115254634413
+"Tripos contorus var. karstenii",23.1112880502416
 "Tripos declinatus",23.4115254634413
 "Tripos euarcuatus",21.0096261578436
 "Tripos extensus",18.3074894390461
@@ -189,24 +190,24 @@
 "Tripos fusus",17.1065397862472
 "Tripos fusus type",18.4075685767793
 "Tripos gibberus",21.5100218465098
-"Tripos gravidus",18.1073311635796
-"Tripos hexacanthus",18.0072520258463
+"Tripos gravidus",25.4131082181061
+"Tripos hexacanthus",20.7093887446438
 "Tripos horridus",16.205827546648
 "Tripos hundhausenii",23.0112089125084
 "Tripos kofoidii",20.1089139182444
 "Tripos lineatus",19.6085182295782
 "Tripos longipes",20.5092304691773
 "Tripos lunula",18.9079642654455
-"Tripos macroceros",19.0080434031787
+"Tripos macroceros",19.108122540912
 "Tripos macroceros type",21.3098635710433
-"Tripos massiliensis",17.6069354749134
-"Tripos muelleri",18.707805989979
+"Tripos massiliensis",25.3130290803729
+"Tripos muelleri",18.8078851277123
 "Tripos muelleri type",22.9111297747751
 "Tripos pentagonus",5.09704325825837
 "Tripos ranipes",19.9087556427779
 "Tripos setaceus",16.7062232353142
-"Tripos symmetricus",22.2105758106424
+"Tripos symmetricus",22.4107340861089
 "Tripos tenuis",14.5044822051829
 "Tripos teres",26.213741319972
-"Tripos trichoceros",18.6077268522458
-"Tripos vultur",19.0080434031787
+"Tripos trichoceros",22.010417535176
+"Tripos vultur",19.108122540912

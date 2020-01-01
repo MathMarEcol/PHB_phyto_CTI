@@ -49,6 +49,7 @@ imos <- read.csv("imos_data.csv", header = TRUE) %>% select(c(2:5)) %>%
                                                        "Leptocylindrus mediterraneus (with flagellates)" = "Leptocylindrus mediterraneus",
                                                        "Proboscia alata ~ 50 µm cell width" = "Proboscia alata" ,
                                                        "Asterionellopsis spp. ~50 µm length" = "Asterionellopsis glacialis",
+                        "Nitzschia cf. bicapitata" = 'Nitzschia bicapitata',
                         "Chaetoceros peruvianus < 40 µm cell width" = "Chaetoceros peruvianus",
                         "Chaetoceros peruvianus > 40 µm cell width" = "Chaetoceros peruvianus"))  %>% droplevels()
 
@@ -66,15 +67,20 @@ aid <- rbind(ajani, imos, dc)
 #write.csv(aid, "all_ph_data.csv")
 
 #Try CTI approach
-aidSTI <- aid
+aidSTI <- aid  %>% # remove groups of taxa with suspect id's and silicos that DC did not count
+  filter(!grepl("Thalassiosira s", Taxon)  & !grepl("Corethron", Taxon)  &
+           !grepl("Thalassionema", Taxon) & 
+           !grepl("Silicof", TaxonGroup) & !grepl("Chaetoceros spp", Taxon) &
+           !grepl(".group", Taxon) & !grepl("Pseudo", Taxon)  ) 
 
 psti_id <- read.csv("pSTI.csv") 
 
 aidSTI <- left_join(aidSTI, psti_id, by = "Taxon") %>% mutate(Taxon = as.factor(Taxon)) %>% 
   subset(AbundanceM3 > 0) 
 
-#Calculate CTI for each sample
-#use species that occur over all of the surveys
+## Calculate CTI for each sample
+
+# Case 1 - use species that occur in every survey
 
 taxa <- distinct(aidSTI, Survey, Taxon) %>% group_by(Taxon) %>% summarise(freq = n()) %>%
   subset(freq>2)  %>% droplevels() #find taxa present in all surveys
@@ -108,23 +114,20 @@ mont <- visreg(lmCTIaidt, "Monh", rug = FALSE, gg = TRUE) + theme_bw(base_size =
   ylab(bquote("Community Temperature Index ("* degree *"C)")) +
   xlab("Month") + scale_x_continuous(breaks = seq(0.52,6.28,length.out = 12), label = c("J","F","M","A","M","J","J","A","S","O","N","D")) 
 
-x11(width = 12, height = 5)
+#x11(width = 12, height = 5)
 pt <- Pert + mont
 pt
 ggsave("PHB_CTI_3SurveysPhyto.png", pt, dpi = 1200)
 
 ################################################
-#use species that occur over two of the surveys
+# Case 2 - use species that occur over two of the surveys
 
 taxa2 <- distinct(aidSTI, Survey, Taxon) %>% group_by(Taxon) %>% summarise(freq = n()) %>%
   subset(freq>1)  %>% droplevels() 
 aidSTI2 <- aidSTI %>% filter(Taxon %in% levels(taxa2$Taxon)) %>% droplevels() 
 noSTI2 <- distinct(subset(aidSTI2[,c(3,8)], is.na(aidSTI2$STI))) # check what has no STI , should be higher taxonomic groups or rare species
 
-aidcti2 <- aidSTI2 %>% filter(!is.na(STI))  %>% filter(!grepl("imbricata", Taxon) & !grepl("Corethron", Taxon) & 
-                                                         !grepl("Silicof", TaxonGroup)  &
-                                                         !grepl("Thalassionema", Taxon)&
-                                                       !grepl("Nitzschia", Taxon)) %>%  # remove badly id'd groups and silicos that DC did not count
+aidcti2 <- aidSTI2 %>% filter(!is.na(STI))  %>%
   group_by(Survey, SampleDate) %>% summarise(cti = sum(AbundanceM3*STI, na.rm=TRUE)/sum(AbundanceM3, na.rm=TRUE),
                                              n = n()) %>%
   #filter(n>2) %>% # remove samples where CTI only made up of 2 or less species
@@ -161,12 +164,9 @@ ggsave("PHB_CTI_2SurveysPhyto.png", p2, dpi = 1200)
 
 
 ################################################
-#use all species that occur in any of the surveys
+# Case 3 - use species that occur in any of the surveys
 
 aidcti3 <- aidSTI %>% filter(!is.na(STI))  %>% 
-  filter(!grepl("Thalassiosira s", Taxon)  & !grepl("Corethron", Taxon)  &
-           !grepl("Thalassionema", Taxon) & !grepl("Nitzschia", Taxon) &
-           !grepl("Silicof", TaxonGroup) ) %>% # remove groups of taxa with suspect id's and silicos that DC did not count
     group_by(Survey, SampleDate) %>% summarise(cti = sum(AbundanceM3*STI, na.rm=TRUE)/sum(AbundanceM3, na.rm=TRUE),
                                              n = n()) %>%
   filter(n>2) %>% # remove samples where CTI only made up of 2 or less species
@@ -199,10 +199,72 @@ mon3 <- visreg(lmCTIaid3, "Monh", rug = FALSE, gg = TRUE) + theme_bw(base_size =
 #x11(width = 12, height = 5)
 p3 <- Per3 + mon3
 p3
-ggsave("PHB_CTI_Allphyto.png", p3, dpi = 1200)
+ggsave("PHB_CTI_1phyto.png", p3, dpi = 1200)
+
+################################################
+# Case 4 - use species that occur in IMOS
+
+taxa4 <- aidSTI %>% filter(Survey == 'IMOS') %>% distinct(Taxon) %>% droplevels() 
+aidSTI4 <- aidSTI %>% filter(Taxon %in% levels(taxa4$Taxon)) %>% droplevels() 
+noSTI4 <- distinct(subset(aidSTI4[,c(3,8)], is.na(aidSTI4$STI))) # check what has no STI , should be higher taxonomic groups or rare species
+
+aidcti4 <- aidSTI4 %>% filter(!is.na(STI))  %>% 
+  group_by(Survey, SampleDate) %>% summarise(cti = sum(AbundanceM3*STI, na.rm=TRUE)/sum(AbundanceM3, na.rm=TRUE),
+                                             n = n()) %>%
+  #filter(n>2) %>% # remove samples where CTI only made up of 2 or less species
+  mutate(Dates = ymd_hms(SampleDate),
+         Month = month(Dates),
+         Monh = Month/12*2*base::pi,
+         Period = ifelse(Survey=='Ajani', "1998-2009", 
+                         ifelse(Survey=='IMOS', "2009-2018", '1931-1932')),
+         Year = year(Dates)) 
+
+# Use lm to see how CTI changes with years after removing the seasonal cycle
+
+aidcti4$Period <- as.factor(aidcti4$Period)
+lmCTIaid4 <- lm(cti ~ Period + Harm(Monh, k=1), data=aidcti4) #k2 makes month wobbly, k=1 insignificant
+summary(lmCTIaid4)
+anova(lmCTIaid4)
+#x11(width=11, height=8)
+par(mfrow=c(2,2))
+plot(lmCTIaid4) # Residuals are slightly better, not normal
+
+# month term is barely significant
+# IMOS and Ajani are significantly different from D&C but not from each other
+Per4 <- visreg(lmCTIaid4, "Period", rug = FALSE, gg = TRUE) + theme_bw(base_size = 14)+
+  ylab(bquote("Community Temperature Index ("* degree *"C)")) +
+  xlab("Period")
+mon4 <- visreg(lmCTIaid4, "Monh", rug = FALSE, gg = TRUE) + theme_bw(base_size = 14)+
+  ylab(bquote("Community Temperature Index ("* degree *"C)")) +
+  xlab("Month") + scale_x_continuous(breaks = seq(0.52,6.28,length.out = 12), label = c("J","F","M","A","M","J","J","A","S","O","N","D")) 
+
+#x11(width = 12, height = 5)
+p4 <- Per4 + mon4
+p4
+ggsave("PHB_CTI_IMOSphyto.png", p3, dpi = 1200)
+
 
 ###########################################################################
-## look at relative abundances over periods for species in all surveys
+## look at relative abundances over periods for IMOS species
+addAbun4 <- aidSTI4  %>% filter(!is.na(STI))  %>% 
+          group_by(Survey) %>% summarise(sums = sum(AbundanceM3))
+pie4 <- inner_join(aidSTI4, addAbun4, by=c("Survey")) %>% filter(!is.na(STI))  %>% 
+  mutate(pies = AbundanceM3/sums) %>% group_by(Survey, Taxon) %>% summarise(sums = sum(pies)) %>%
+  mutate(Period = ifelse(Survey=='Ajani', "1998-2009", ifelse(Survey=='IMOS', "2009-2018", '1931-1932')))
+pie4 <- pie4 %>% mutate(TaxonT = ifelse(sums>0.01, as.character(Taxon), "Other")) %>% 
+  group_by(Survey, TaxonT, Period) %>% summarise(tots = sum(sums)) %>% complete(TaxonT, Period) %>%
+  mutate(tots = ifelse(is.na(tots), 0, tots)) 
+
+pie4$TaxonT <- as.factor(pie4$TaxonT)
+
+#x11(width = 11, height = 8)
+percPlot4 <- ggplot(data=pie4, aes(Period, tots)) + geom_col(aes(fill=TaxonT)) + theme_bw()
+percPlot4
+ggsave("PHB_prop_IMOSsurveysphyto.png", percPlot4, dpi = 1200)
+##biggest change is decrease in A. glacilis and increase in L. danicus
+
+##########################################################
+## look at relative abundances over periods for species occuring in all 3 surveys
 addAbun <- aidSTIt  %>% filter(!is.na(STI)) %>% 
   group_by(Survey) %>% summarise(sums = sum(AbundanceM3))
 pie <- inner_join(aidSTIt, addAbun, by=c("Survey")) %>% filter(!is.na(STI)) %>% 
@@ -242,7 +304,7 @@ ggsave("PHB_prop_2surveysphyto.png", percPlot2, dpi = 1200)
 
 
 #########################################################################################
-## look at relative abundances over periods all species
+## look at relative abundances over periods for species occuring in at least 1 survey
 
 aidSTI_pies <- aidSTI %>% filter(!is.na(STI))  %>%
   filter(!grepl("Chaetoceros", Taxon) & !grepl("Thalassiosira s", Taxon) &
@@ -264,5 +326,5 @@ pie6$TaxonT <- as.factor(pie6$TaxonT)
 x11(width = 11, height = 8)
 percPlot3 <- ggplot(data=pie6, aes(Period, tots)) + geom_col(aes(fill=TaxonT)) + theme_bw()
 percPlot3
-ggsave("PHB_prop_Allphyto.png", percPlot3, dpi = 1200)
+ggsave("PHB_prop_1phyto.png", percPlot3, dpi = 1200)
 
