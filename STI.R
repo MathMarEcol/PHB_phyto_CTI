@@ -6,6 +6,7 @@
 
 library(ggplot2)
 library(dplyr)
+library(ggrepel)
 
 ####################################
 # for phyto
@@ -64,7 +65,7 @@ colnames(psti_id)=c("Taxon", "STI")
 
 ## STI via kernel density
 
-kernStep <- 0.1
+kernStep <- 0.01
 kernMin <- min(dfp$SST) - 3
 kernMax <- max(dfp$SST) + 3
 kernN <- round((kernMax - kernMin) / kernStep + 1)
@@ -102,13 +103,31 @@ psti_id$STI <- as.numeric(as.character(psti_id$STI))
 
 write.csv(psti_id, "pSTI.csv", row.names = FALSE)
 
+# kernel graph for most abundant taxa
+kern_y <- as.data.frame(kypout)
+kern_yt <- cbind(kernTemps, kern_y)
+colnames(kern_yt) <- c("sst", levels(dfp$TAXON))
+kern_ytx <- kern_yt %>% gather("TaxonT", "y", -sst) %>% mutate(TaxonT = as.factor(TaxonT))
 
-#####################################################################
-psti <- subset(psti, TAXON != 'Thalassiosira spp. 10-20 µm' | PROJECT != 'cpr' ) #just for this case to make Penny's thalassisira equivalent
-psti <- subset(psti, TAXON != 'Thalassiosira spp. < 10 µm' | PROJECT != 'cpr'  ) #just for this case to make Penny's thalassisira equivalent
-psti <- subset(psti, TAXON != 'Thalassiosira spp. 20-40 µm' | PROJECT != 'cpr'  ) #just for this case to make Penny's thalassisira equivalent
-psti <- subset(psti, TAXON != 'Thalassiosira spp. 40-60 µm' | PROJECT != 'cpr'  ) #just for this case to make Penny's thalassisira equivalent
-psti <- subset(psti, TAXON != 'Pseudo-nitzschia delicatisima complex <=3 µm' | PROJECT != 'cpr'  ) #just for this case to make Penny's thalassisira equivalent
-psti <- subset(psti, TAXON != 'Pseudo-nitzschia seriata complex >3 µm' | PROJECT != 'cpr'  ) #just for this case to make Penny's thalassisira equivalent
+mas <- pie4 %>% group_by (TaxonT) %>% 
+  summarise(sums = sum(tots, na.rm = TRUE)) %>%
+  arrange(desc(sums)) %>%
+  #head(11) %>% 
+  filter(!grepl("Other", TaxonT)) %>% droplevels()
 
+rel <- kern_ytx %>% filter(TaxonT %in% levels(mas$TaxonT)) %>% droplevels() 
 
+maxes <- rel %>% group_by(TaxonT) %>% summarise(y=max(y)) %>%
+  mutate(label = TaxonT)
+
+rel_lab <- left_join(rel, maxes, by=c("TaxonT", "y")) %>% mutate(xplot = sst, yplot=y) 
+
+#x11(width=11, height=8)
+stiplot <- ggplot(rel_lab, aes(sst, y, colour=TaxonT, label=label)) + geom_point() + 
+  theme_bw() + theme(legend.position = "none") +
+  theme(strip.background = element_blank(), strip.text = element_text(face="italic")) + 
+  geom_text_repel(aes(x=xplot, y=yplot, label=label, group=NULL), xlim=5, na.rm = TRUE) +
+  labs(x="Temperature", y="Relative kernel density")
+stiplot
+
+ggsave("Kernel_ph.png", stiplot, dpi=600)
