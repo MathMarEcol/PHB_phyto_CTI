@@ -26,6 +26,12 @@ ajani <- read.csv("Ajani_data.csv") %>%
                         "Bacteriastrum furcatum" =	"Bacteriastrum spp." #Penny not confident about this id
                         )) 
 
+# remove taxon where there are no counts
+atax <- ajani %>% group_by(Taxon) %>% summarise(sums = sum(AbundanceM3, na.rm=TRUE)) %>%
+  filter(sums>0) %>% droplevels()
+
+ajani <- ajani %>% filter(Taxon %in% levels(atax$Taxon)) %>% droplevels() 
+
 ## open and manage IMOS data
 imos <- read.csv("imos_data.csv", header = TRUE) %>% select(c(2:5)) %>%
   cast(SAMPLE_DATE ~ TAXON_NAME + TAXON_GROUP, mean, fill=0) %>%
@@ -94,6 +100,7 @@ dates$Survey <- factor(dates$Survey, levels(dates$Survey)[c(3, 6, 5, 4, 1, 2)])
 samps <- ggplot(dates, aes(year, mon, colour=Survey)) + geom_point() +
   theme_bw(base_size = 12) + labs(x="Year", y="Month") + 
   scale_y_reverse(breaks = seq(1,12,length.out = 12), label = c("J","F","M","A","M","J","J","A","S","O","N","D")) 
+#x11(width=11, height=8)
 samps 
 
 ggsave("PH_samples.png", samps, dpi = 1200)
@@ -105,7 +112,7 @@ fg <- aid %>% group_by(Date, Survey, Taxon) %>%
   summarise(abund = sum(AbundanceM3, na.rm = TRUE)) %>%
   cast(Date + Survey ~ Taxon, mean, fill=0) 
 
-fgm <- fg %>% select(`Asterionellopsis glacialis`:`Tripos muelleri`) %>% as.matrix(fgm)
+fgm <- fg %>% select(3:326) %>% as.matrix(fgm)
 
 taxaSum <- colSums(fgm) # Take the sum of each column (taxa). There should be no 0 for a species now.
 min(taxaSum)
@@ -118,11 +125,13 @@ fg_mds <- metaMDS(fgm, distance = "bray", autotransform = TRUE, k= 2, maxit=1000
 Pal <- c(rainbow(n=5)) # Define the palette
 #x11(width=11, height=8)
 grp <- fg$Survey
-plot(fg_mds$points, pch = 16, col=Pal[grp], xlim = c(-0.05,0.05)) #plot so 3 outlying samples don't show
+plot(fg_mds$points, pch = 16, col=Pal[grp]) #plot so 3 outlying samples don't show
 #text(fg_mds, display = 'sites')
 legend('topleft', legend = levels(fg$Survey), pch = 16, col = Pal,  y.intersp = 0.7)
-# all pretty similar
+# all pretty different according to survey
 # 1998-03-03 and 1998-03-07, 2019-04-09, 2015-07-23 outlying samples
+
+ggsave("PH_mds.png", dpi = 1200)
 
 #############################################################################################
 
