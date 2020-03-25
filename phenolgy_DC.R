@@ -122,7 +122,7 @@ summary(fgm)
 fg_mds <- metaMDS(fgm, distance = "bray", autotransform = TRUE, k= 2, maxit=1000, 
                   try = 20, trymax = 50)
 
-Pal <- c(rainbow(n=5)) # Define the palette
+Pal <- c(rainbow(n=6)) # Define the palette
 #x11(width=11, height=8)
 grp <- fg$Survey
 plot(fg_mds$points, pch = 16, col=Pal[grp]) #plot so 3 outlying samples don't show
