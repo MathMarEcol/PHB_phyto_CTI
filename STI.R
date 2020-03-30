@@ -65,7 +65,7 @@ colnames(psti_id)=c("Taxon", "STI")
 
 ## STI via kernel density
 
-kernStep <- 0.01
+kernStep <- 0.001
 kernMin <- min(dfp$SST) - 3
 kernMax <- max(dfp$SST) + 3
 kernN <- round((kernMax - kernMin) / kernStep + 1)
